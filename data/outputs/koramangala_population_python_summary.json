@@ -1,0 +1,12 @@
+{
+  "total_pois": 424,
+  "buffer_distances": [
+    100,
+    200,
+    500
+  ],
+  "average_population_100m": 187.40330188679246,
+  "average_population_200m": 755.7995283018868,
+  "average_population_500m": 4681.745283018868,
+  "data_source": "worldpop_python_api"
+}

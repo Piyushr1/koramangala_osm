@@ -1,0 +1,17 @@
+area:
+  name: "Koramangala, Bengaluru, Karnataka, India"
+  # Koramangala bounding box (tight bounds)
+  bbox: [77.61, 12.92, 77.64, 12.95]
+  center: [77.625, 12.935]
+
+output_paths:
+  processed: "data/processed"
+  outputs: "data/outputs"
+
+poi_categories:
+  restaurants: ["restaurant", "cafe", "bar", "fast_food", "food_court"]
+  retail: ["shop", "supermarket", "mall", "convenience"]
+  healthcare: ["hospital", "clinic", "pharmacy", "dentist"]
+  education: ["school", "university", "college", "library"]
+  transport: ["bus_station", "fuel", "parking"]
+  financial: ["bank", "atm"]

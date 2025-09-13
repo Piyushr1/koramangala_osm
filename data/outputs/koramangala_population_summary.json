@@ -1,0 +1,32 @@
+{
+  "total_population": {
+    "total_population": "500023.2",
+    "mean_density_per_cell": "50.00232",
+    "max_density_per_cell": "128.52475",
+    "populated_cells": 9934
+  },
+  "male_population": {
+    "total_population": "250011.6",
+    "mean_density_per_cell": "25.00116",
+    "max_density_per_cell": "64.262375",
+    "populated_cells": 9934
+  },
+  "female_population": {
+    "total_population": "250011.6",
+    "mean_density_per_cell": "25.00116",
+    "max_density_per_cell": "64.262375",
+    "populated_cells": 9934
+  },
+  "children_under5": {
+    "total_population": "100329.66",
+    "mean_density_per_cell": "10.032966",
+    "max_density_per_cell": "29.63119",
+    "populated_cells": 9770
+  },
+  "working_age": {
+    "total_population": "100329.66",
+    "mean_density_per_cell": "10.032966",
+    "max_density_per_cell": "29.63119",
+    "populated_cells": 9770
+  }
+}

@@ -1,0 +1,1732 @@
+osmid,highway,oneway,reversed,length,lanes,name,width,est_width,bridge,maxspeed,access,longitude,latitude
+1251954787,residential,False,True,14.762,nan,nan,nan,nan,nan,nan,nan,77.6185993,12.94602825
+1251954790,secondary,True,False,7.778,2,Srinivagilu Main Road,nan,nan,nan,nan,nan,77.6186721,12.9459813
+28186784,tertiary,False,False,8.726,2,18th Main Road,nan,nan,nan,nan,nan,77.6241222,12.9412308
+1155064213,secondary,True,False,46.716,2,Srinivagilu Main Road,24.38,nan,nan,nan,nan,77.62430268339709,12.941104083592382
+213065291,residential,False,False,8.194,nan,nan,nan,nan,nan,nan,nan,77.6209269,12.944126449999999
+1251954786,secondary,True,False,261.284,2,Srinivagilu Main Road,nan,nan,nan,nan,nan,77.62184786148376,12.94336834270642
+338161623,residential,False,True,29.380000000000003,nan,7th Main Road,nan,nan,nan,nan,nan,77.63329324427721,12.930079136905498
+1110190684,secondary,True,False,20.237000000000002,2,80 Feet Road,24.38,nan,nan,nan,nan,77.63316891389607,12.92996389855296
+1307224534,secondary_link,False,False,9.644,nan,10th Main Road,nan,nan,nan,nan,nan,77.63097495,12.933107849999999
+133903616,secondary,True,False,336.221,2,80 Feet Road,nan,nan,nan,nan,nan,77.63207276531858,12.932052017443082
+133903616,secondary,True,False,42.92,2,80 Feet Road,nan,nan,nan,nan,nan,77.62918590000001,12.934988650000001
+111996868,residential,False,True,73.129,nan,Green Leaf Layout,nan,nan,nan,nan,nan,77.62936924892242,12.935231203344129
+27785799,residential,False,False,45.299,nan,1st Cross Road,nan,nan,nan,nan,nan,77.62917924999999,12.93064025
+27785799,residential,False,True,62.743,nan,1st Cross Road,nan,nan,nan,nan,nan,77.6286887,12.93072635
+1159872650,tertiary,False,False,79.105,2,8th Main Road,nan,6.1,nan,nan,nan,77.6291038,12.930342149999998
+1159872650,tertiary,False,True,262.564,2,8th Main Road,nan,6.1,nan,nan,nan,77.62841362759842,12.931716839960107
+24431113,residential,False,True,50.547,nan,nan,nan,nan,nan,nan,nan,77.62882834999999,12.92861275
+1159872650,tertiary,False,False,32.662,2,8th Main Road,nan,6.1,nan,nan,nan,77.62903685,12.92844615
+1159872650,tertiary,False,True,109.134,2,8th Main Road,nan,6.1,nan,nan,nan,77.62912924776586,12.92907730046652
+24299075,residential,False,False,209.036,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.62480085,12.92769095
+24299075,residential,False,True,84.761,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.6260573,12.927195350000002
+269436421,residential,False,False,62.698,nan,13th Main Road,nan,nan,nan,nan,nan,77.6257905,12.92760435
+269436421,residential,False,True,81.656,nan,13th Main Road,nan,nan,nan,nan,nan,77.62557405000001,12.9269905
+24299075,residential,False,False,55.884,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.6284368,12.92625675
+1159872650,tertiary,False,False,89.495,2,8th Main Road,nan,6.1,nan,nan,nan,77.62861842582855,12.92576400191666
+1159872650,tertiary,False,True,240.599,2,8th Main Road,nan,6.1,nan,nan,nan,77.62884363987008,12.927231925844506
+24299075,residential,False,False,84.761,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.6260573,12.927195350000002
+24299075,residential,False,True,73.041,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.62673215,12.92692915
+24299077,residential,False,False,203.566,nan,12th Main Road,nan,nan,nan,nan,nan,77.6267329914169,12.927915361942917
+24299078,residential,False,False,41.967,nan,2nd Cross Road,nan,nan,nan,nan,nan,77.63376725202195,12.925588886546814
+1110178620,secondary,True,False,62.193,2,80 Feet Road,nan,nan,nan,nan,nan,77.63360386845471,12.925281773146068
+24299078,residential,False,True,54.269,nan,2nd Cross Road,nan,nan,nan,nan,nan,77.63725299999999,12.92594395
+24299079,tertiary,False,False,68.743,nan,1st Main Road,nan,nan,nan,nan,nan,77.6374479,12.9255629
+24299079,tertiary,False,True,47.421,nan,1st Main Road,nan,nan,nan,nan,nan,77.63753260000001,12.9260785
+24299075,residential,False,False,84.912,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.62740765,12.9266627
+24299075,residential,False,True,49.926,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.6279843,12.92643525
+24431059,residential,False,False,242.832,nan,10th Main Road,nan,nan,nan,nan,nan,77.62792818822952,12.927600595406037
+24431059,residential,False,True,242.832,nan,10th Main Road,nan,nan,nan,nan,nan,77.62792818822952,12.927600595406037
+24431113,residential,False,False,55.521,nan,nan,nan,nan,nan,nan,nan,77.62834120100474,12.928657960838184
+24431113,residential,False,True,113.156,nan,nan,nan,nan,nan,nan,nan,77.62756650252875,12.928729877218567
+24431113,residential,False,False,50.547,nan,nan,nan,nan,nan,nan,nan,77.62882834999999,12.92861275
+27445916,residential,False,False,257.537,nan,9th Main Road,nan,nan,nan,nan,nan,77.628397,12.927492650000001
+24431113,residential,False,True,55.521,nan,nan,nan,nan,nan,nan,nan,77.62834120100474,12.928657960838184
+27785740,residential,False,False,50.805,nan,6th A Cross Road,nan,nan,nan,nan,nan,77.62310805,12.9310305
+38042287,tertiary,False,False,115.581,nan,7th Cross Road,nan,nan,nan,nan,nan,77.62369225,12.931046649999999
+38042287,tertiary,False,True,15.632,nan,7th Cross Road,nan,nan,nan,nan,nan,77.62313284999999,12.93127185
+27445936,residential,False,False,55.092,nan,16th Main Road,nan,nan,nan,nan,nan,77.62475075,12.930375300000001
+38042287,tertiary,False,False,76.716,nan,7th Cross Road,nan,nan,nan,nan,nan,77.62519549999999,12.930584150000001
+38042287,tertiary,False,True,20.924,nan,7th Cross Road,nan,nan,nan,nan,nan,77.62475165000001,12.93063875
+38042287,tertiary,False,False,64.872,nan,7th Cross Road,nan,nan,nan,nan,nan,77.62584695,12.93053755
+38042287,tertiary,False,True,76.716,nan,7th Cross Road,nan,nan,nan,nan,nan,77.62519549999999,12.930584150000001
+27785730,residential,False,True,262.254,nan,15th Main Road,nan,nan,nan,nan,nan,77.62511864421276,12.929459652257911
+38042287,tertiary,False,False,179.997,nan,7th Cross Road,nan,nan,nan,nan,nan,77.62842245,12.9301798
+38042287,tertiary,False,True,17.46,nan,7th Cross Road,nan,nan,nan,nan,nan,77.6275308,12.930361
+24299077,residential,False,True,185.116,nan,12th Main Road,nan,nan,nan,nan,nan,77.62732732723205,12.929564319097302
+24299075,residential,False,False,49.926,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.6279843,12.92643525
+24299075,residential,False,True,55.884,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.6284368,12.92625675
+27445916,residential,False,True,257.537,nan,9th Main Road,nan,nan,nan,nan,nan,77.628397,12.927492650000001
+24299077,residential,False,False,185.11599999999999,nan,12th Main Road,nan,nan,nan,nan,nan,77.62732732723205,12.929564319097302
+24299077,residential,False,True,203.566,nan,12th Main Road,nan,nan,nan,nan,nan,77.62673299141689,12.927915361942915
+24431113,residential,False,False,113.156,nan,nan,nan,nan,nan,nan,nan,77.62756650252875,12.928729877218567
+38042287,tertiary,False,False,68.746,nan,7th Cross Road,nan,nan,nan,nan,nan,77.6271363,12.9304101
+38042287,tertiary,False,True,73.654,nan,7th Cross Road,nan,nan,nan,nan,nan,77.62648335,12.9304805
+269436421,residential,False,True,303.994,nan,13th Main Road,nan,nan,nan,nan,nan,77.62635131688575,12.929160025073552
+24299075,residential,False,True,209.036,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.62480085,12.92769095
+27445936,residential,False,False,78.432,nan,16th Main Road,nan,nan,nan,nan,nan,77.62378655,12.927710999999999
+27445936,residential,False,True,65.043,nan,16th Main Road,nan,nan,nan,nan,nan,77.6240072,12.928319250000001
+800392198,tertiary,False,True,7.835,nan,5th Cross Road,nan,nan,nan,nan,nan,77.6202539,12.94048595
+38042288,tertiary,False,True,55.331,nan,nan,nan,nan,nan,nan,nan,77.62000126389772,12.94062677607765
+1357130528,secondary,True,False,122.043,nan,80 Feet Road,nan,nan,nan,nan,nan,77.62060571115877,12.94090944757732
+133903616,secondary,True,False,111.85499999999999,2,80 Feet Road,nan,nan,nan,nan,nan,77.62776528338695,12.93642623909465
+559414941,residential,False,False,45.667,nan,nan,nan,nan,nan,nan,nan,77.62760894840818,12.93687658021248
+27674078,residential,False,True,54.014,nan,16th C Main Road,nan,nan,nan,nan,nan,77.62517589999999,12.935000599999999
+1159872650,tertiary,False,False,112.824,2,8th Main Road,nan,6.1,nan,nan,nan,77.62543544744257,12.934566795786816
+1159872650,tertiary,False,True,26.806,2,8th Main Road,nan,6.1,nan,nan,nan,77.62488984020145,12.934900584508764
+24299078,residential,False,False,42.025,nan,2nd Cross Road,nan,nan,nan,nan,nan,77.63682305,12.9260474
+27790761,residential,False,False,69.325,nan,3rd Main Road,nan,nan,nan,nan,nan,77.6365978,12.925766000000001
+27790761,residential,False,True,53.868,nan,3rd Main Road,nan,nan,nan,nan,nan,77.63665685000001,12.92631695
+24299078,residential,False,True,168.781,nan,2nd Cross Road,nan,nan,nan,nan,nan,77.63586268093664,12.925956139788292
+24299078,residential,False,False,54.269,nan,2nd Cross Road,nan,nan,nan,nan,nan,77.63725299999999,12.92594395
+24299078,residential,False,True,42.025,nan,2nd Cross Road,nan,nan,nan,nan,nan,77.63682305,12.9260474
+27789870,residential,False,True,127.644,nan,2nd Main Road,nan,nan,nan,nan,nan,77.63709685,12.92658715
+27789870,residential,False,False,65.926,nan,2nd Main Road,nan,nan,nan,nan,nan,77.63700071111532,12.925722667208499
+38042287,tertiary,False,False,52.681,nan,7th Cross Road,nan,nan,nan,nan,nan,77.62284515,12.9313972
+1150874214,primary,True,False,148.82999999999998,2,Mahayogi Vemana Road,nan,nan,nan,nan,nan,77.62237851404865,12.93086664452105
+27445936,residential,False,False,84.908,nan,16th Main Road,nan,nan,nan,nan,nan,77.62353705000001,12.927017949999998
+27445936,residential,False,True,78.432,nan,16th Main Road,nan,nan,nan,nan,nan,77.62378655,12.927710999999999
+27785711,residential,False,False,210.248,nan,2nd Cross Road,nan,nan,nan,nan,nan,77.62455975,12.92701055
+27785711,residential,False,True,204.393,nan,2nd Cross Road,nan,nan,nan,nan,nan,77.6276786,12.925726650000001
+1159872650,tertiary,False,False,87.943,2,8th Main Road,nan,6.1,nan,nan,nan,77.62842265237684,12.924992549213329
+1159872650,tertiary,False,True,89.495,2,8th Main Road,nan,6.1,nan,nan,nan,77.62861842582853,12.925764001916658
+27785717,residential,False,False,73.087,nan,5th Cross Road,nan,nan,nan,nan,nan,77.6255748,12.927996450000002
+269436421,residential,False,True,62.698,nan,13th Main Road,nan,nan,nan,nan,nan,77.6257905,12.92760435
+269436421,residential,False,False,303.994,nan,13th Main Road,nan,nan,nan,nan,nan,77.62635131688575,12.929160025073552
+27445936,residential,False,False,65.043,nan,16th Main Road,nan,nan,nan,nan,nan,77.6240072,12.928319250000001
+27445936,residential,False,True,79.486,nan,16th Main Road,nan,nan,nan,nan,nan,77.62422849999999,12.9289323
+27785717,residential,False,False,53.99,nan,5th Cross Road,nan,nan,nan,nan,nan,77.6238778,12.9286888
+27785717,residential,False,True,68.29,nan,5th Cross Road,nan,nan,nan,nan,nan,77.62439805,12.928476150000002
+27785717,residential,False,False,68.29,nan,5th Cross Road,nan,nan,nan,nan,nan,77.62439805,12.928476150000002
+27785717,residential,False,True,67.549,nan,5th Cross Road,nan,nan,nan,nan,nan,77.624976,12.928239949999998
+27785730,residential,False,False,262.254,nan,15th Main Road,nan,nan,nan,nan,nan,77.62511864421276,12.929459652257911
+27785743,residential,False,False,282.49,nan,14th Main Road,nan,nan,nan,nan,nan,77.6257043,12.929317850000002
+38042287,tertiary,False,False,73.654,nan,7th Cross Road,nan,nan,nan,nan,nan,77.62648335,12.9304805
+38042287,tertiary,False,True,64.872,nan,7th Cross Road,nan,nan,nan,nan,nan,77.62584695,12.93053755
+27445936,residential,False,False,79.486,nan,16th Main Road,nan,nan,nan,nan,nan,77.62422849999999,12.9289323
+27445936,residential,False,True,53.045,nan,16th Main Road,nan,nan,nan,nan,nan,77.62443675,12.929492549999999
+27785733,residential,False,False,199.422,nan,6th Cross Road,nan,nan,nan,nan,nan,77.6235117,12.929640299999999
+27785733,residential,False,True,63.816,nan,6th Cross Road,nan,nan,nan,nan,nan,77.6224042,12.930126
+1110164319,primary,True,False,86.13900000000001,2,Mahayogi Vemana Road,nan,nan,nan,nan,nan,77.62199100276176,12.929879898902783
+27785733,residential,False,False,63.816,nan,6th Cross Road,nan,nan,nan,nan,nan,77.6224042,12.930126
+27785733,residential,False,True,199.422,nan,6th Cross Road,nan,nan,nan,nan,nan,77.6235117,12.929640299999999
+27785740,residential,False,True,48.120000000000005,nan,6th A Cross Road,nan,nan,nan,nan,nan,77.62275901046247,12.93021074554554
+27785740,residential,False,False,49.227,nan,6th A Cross Road,nan,nan,nan,nan,nan,77.62293115,12.93061505
+27785740,residential,False,True,50.805,nan,6th A Cross Road,nan,nan,nan,nan,nan,77.62310805,12.9310305
+27785741,residential,False,False,193.047,nan,6th B Cross Road,nan,nan,nan,nan,nan,77.6238387,12.93048185
+27445936,residential,False,False,49.881,nan,16th Main Road,nan,nan,nan,nan,nan,77.6245916,12.9299298
+27445936,residential,False,True,55.092,nan,16th Main Road,nan,nan,nan,nan,nan,77.62475075,12.930375300000001
+27785741,residential,False,True,193.047,nan,6th B Cross Road,nan,nan,nan,nan,nan,77.6238387,12.93048185
+27785740,residential,False,True,49.227,nan,6th A Cross Road,nan,nan,nan,nan,nan,77.62293115,12.93061505
+27785742,residential,False,False,197.792,nan,6th A Cross Road,nan,nan,nan,nan,nan,77.62368405,12.930063
+27785740,residential,False,False,48.120000000000005,nan,6th A Cross Road,nan,nan,nan,nan,nan,77.62275901046247,12.93021074554554
+27445936,residential,False,False,53.045,nan,16th Main Road,nan,nan,nan,nan,nan,77.62443675,12.929492549999999
+27445936,residential,False,True,49.881,nan,16th Main Road,nan,nan,nan,nan,nan,77.6245916,12.9299298
+27785742,residential,False,True,197.792,nan,6th A Cross Road,nan,nan,nan,nan,nan,77.62368405,12.930063
+27785717,residential,False,False,67.549,nan,5th Cross Road,nan,nan,nan,nan,nan,77.624976,12.928239949999998
+27785717,residential,False,True,73.087,nan,5th Cross Road,nan,nan,nan,nan,nan,77.6255748,12.927996450000002
+27785743,residential,False,True,282.49,nan,14th Main Road,nan,nan,nan,nan,nan,77.6257043,12.929317850000002
+27785717,residential,False,False,59.24,nan,5th Cross Road,nan,nan,nan,nan,nan,77.62339605,12.928885699999999
+27785717,residential,False,True,53.99,nan,5th Cross Road,nan,nan,nan,nan,nan,77.6238778,12.9286888
+27785748,residential,False,False,228.552,nan,17th Main Road,nan,nan,nan,nan,nan,77.62329034999999,12.92781595
+27785717,residential,False,False,152.368,nan,5th Cross Road,nan,nan,nan,nan,nan,77.62249575,12.929253699999999
+27785717,residential,False,True,59.24,nan,5th Cross Road,nan,nan,nan,nan,nan,77.62339605,12.928885699999999
+1123860236,residential,False,False,60.428,nan,18th Main Road,nan,nan,nan,nan,nan,77.62304205,12.9287358
+27785750,residential,False,False,154.954,nan,2nd Cross Road,nan,nan,nan,nan,nan,77.62191545,12.9278421
+1123860236,residential,False,True,60.984,nan,18th Main Road,nan,nan,nan,nan,nan,77.6226699,12.9278111
+"[1311668058, 1123860236]",residential,False,False,56.574,nan,18th Main Road,nan,nan,nan,nan,nan,77.62247195909781,12.92731894632354
+27785751,residential,False,False,153.554,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.62211640000001,12.9283266
+1123860236,residential,False,False,60.984,nan,18th Main Road,nan,nan,nan,nan,nan,77.6226699,12.9278111
+1123860236,residential,False,True,49.743,nan,18th Main Road,nan,nan,nan,nan,nan,77.62285635,12.92827465
+27785751,residential,False,True,153.554,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.62211640000001,12.9283266
+1110164319,primary,True,False,55.242,2,Mahayogi Vemana Road,nan,nan,nan,nan,nan,77.62136195,12.9283576
+27785752,residential,False,False,153.523,nan,4th Cross Road,nan,nan,nan,nan,nan,77.62229554999999,12.928769100000002
+1123860236,residential,False,False,49.743,nan,18th Main Road,nan,nan,nan,nan,nan,77.62285635,12.92827465
+1123860236,residential,False,True,60.428,nan,18th Main Road,nan,nan,nan,nan,nan,77.62304205,12.9287358
+27777244,primary,True,False,137.412,2,Mahayogi Vemana Road,nan,nan,nan,nan,nan,77.62603595,12.9364729
+27785772,residential,False,False,62.157,nan,5th Cross Road,nan,nan,nan,nan,nan,77.62671639999999,12.936649549999998
+27674078,residential,False,False,131.47,nan,16th C Main Road,nan,nan,nan,nan,nan,77.62644,12.9360568
+27785772,residential,False,False,50.467,nan,5th Cross Road,nan,nan,nan,nan,nan,77.62706084999999,12.936270449999999
+27785772,residential,False,True,62.157,nan,5th Cross Road,nan,nan,nan,nan,nan,77.62671639999999,12.936649549999998
+27785772,residential,False,True,42.577,nan,5th Cross Road,nan,nan,nan,nan,nan,77.62756934999999,12.9357392
+27785781,residential,False,True,103.559,nan,16th Main Road,nan,nan,nan,nan,nan,77.62732445,12.93531695
+27785781,residential,False,False,58.669000000000004,nan,16th Main Road,nan,nan,nan,nan,nan,77.62789981969662,12.93578192884443
+27785777,residential,False,True,49.772,nan,12th Main Road,nan,nan,nan,nan,nan,77.6277504,12.933016349999999
+1159872650,tertiary,False,False,27.897,2,8th Main Road,nan,6.1,nan,nan,nan,77.62765255,12.9327835
+1159872650,tertiary,False,True,149.473,2,8th Main Road,nan,6.1,nan,nan,nan,77.62710869522986,12.933379452756714
+27785781,residential,False,False,53.575,nan,16th Main Road,nan,nan,nan,nan,nan,77.6261872,12.934380449999999
+1159872650,tertiary,False,True,17.216,2,8th Main Road,nan,6.1,nan,nan,nan,77.62594345,12.934255750000002
+1159872650,tertiary,False,False,77.439,2,8th Main Road,nan,6.1,nan,nan,nan,77.62631343571695,12.934029840563051
+27785783,residential,False,False,60.516,nan,15th Main Road,nan,nan,nan,nan,nan,77.62683425,12.93401245
+1159872650,tertiary,False,False,149.473,2,8th Main Road,nan,6.1,nan,nan,nan,77.62710869522984,12.933379452756713
+1159872650,tertiary,False,True,77.439,2,8th Main Road,nan,6.1,nan,nan,nan,77.62631343571694,12.934029840563051
+27785783,residential,False,True,9.215,nan,15th Main Road,nan,nan,nan,nan,nan,77.62875030000001,12.93537775
+133903616,secondary,True,False,41.348,2,80 Feet Road,nan,nan,nan,nan,nan,77.628918,12.93526325
+164570823,residential,False,True,91.482,nan,nan,nan,nan,nan,nan,nan,77.6291883538619,12.935526087838701
+27785781,residential,False,False,103.559,nan,16th Main Road,nan,nan,nan,nan,nan,77.62732445,12.93531695
+27785781,residential,False,True,36.333,nan,16th Main Road,nan,nan,nan,nan,nan,77.62681605,12.9349296
+27785786,residential,False,False,37.976,nan,4th Cross Road,nan,nan,nan,nan,nan,77.62680515,12.935137099999999
+27785786,residential,False,False,34.917,nan,4th Cross Road,nan,nan,nan,nan,nan,77.62653005,12.93532525
+27785786,residential,False,True,37.976,nan,4th Cross Road,nan,nan,nan,nan,nan,77.62680515,12.935137099999999
+28186680,residential,False,False,109.506,nan,16th A Main Road,nan,nan,nan,nan,nan,77.62705005,12.93555935
+27785786,residential,False,True,65.379,nan,4th Cross Road,nan,nan,nan,nan,nan,77.62575955,12.93588015
+1302194007,primary,True,False,155.366,2,Mahayogi Vemana Road,nan,nan,nan,nan,nan,77.62499205,12.93563745
+27674078,residential,False,False,44.187,nan,16th C Main Road,nan,nan,nan,nan,nan,77.6255146,12.93529365
+27674078,residential,False,True,43.545,nan,16th C Main Road,nan,nan,nan,nan,nan,77.62582365,12.9355484
+27785788,residential,False,False,128.532,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.6261791,12.935123099999998
+27785781,residential,False,False,36.333,nan,16th Main Road,nan,nan,nan,nan,nan,77.62681605,12.9349296
+27785781,residential,False,True,46.585,nan,16th Main Road,nan,nan,nan,nan,nan,77.62652600000001,12.934686549999999
+27785788,residential,False,True,128.532,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.6261791,12.935123099999998
+27674078,residential,False,False,54.014,nan,16th C Main Road,nan,nan,nan,nan,nan,77.62517589999999,12.935000599999999
+27674078,residential,False,True,44.187,nan,16th C Main Road,nan,nan,nan,nan,nan,77.6255146,12.93529365
+27785790,residential,False,False,128.941,nan,2nd A Cross Road,nan,nan,nan,nan,nan,77.6258615,12.934857099999999
+27785781,residential,False,False,46.585,nan,16th Main Road,nan,nan,nan,nan,nan,77.62652600000001,12.934686549999999
+27785781,residential,False,True,53.575,nan,16th Main Road,nan,nan,nan,nan,nan,77.6261872,12.934380449999999
+27785790,residential,False,True,128.941,nan,2nd A Cross Road,nan,nan,nan,nan,nan,77.6258615,12.934857099999999
+27785783,residential,False,True,33.296,nan,15th Main Road,nan,nan,nan,nan,nan,77.6281133,12.934957749999997
+27785791,residential,False,False,146.042,nan,5th Cross Road,nan,nan,nan,nan,nan,77.62866595,12.934542000000002
+27785783,residential,False,False,62.126000000000005,nan,15th Main Road,nan,nan,nan,nan,nan,77.62847482740858,12.935202307724069
+27785777,residential,False,False,33.483,nan,12th Main Road,nan,nan,nan,nan,nan,77.6289702,12.933948650000001
+27785791,residential,False,True,146.042,nan,5th Cross Road,nan,nan,nan,nan,nan,77.62866595,12.934542000000002
+37450483,residential,False,True,33.494,nan,5th Cross Road,nan,nan,nan,nan,nan,77.6292131,12.93393825
+27785777,residential,False,True,71.40299999999999,nan,12th Main Road,nan,nan,nan,nan,nan,77.62935526867366,12.934234125552457
+27785783,residential,False,False,33.296,nan,15th Main Road,nan,nan,nan,nan,nan,77.6281133,12.934957749999997
+27785783,residential,False,True,127.064,nan,15th Main Road,nan,nan,nan,nan,nan,77.62752185,12.934524549999999
+27785792,residential,False,False,38.855,nan,5th Cross Road,nan,nan,nan,nan,nan,77.62810675,12.9347348
+27785777,residential,False,False,38.606,nan,12th Main Road,nan,nan,nan,nan,nan,77.62870515,12.933753
+27785777,residential,False,True,33.483,nan,12th Main Road,nan,nan,nan,nan,nan,77.6289702,12.933948650000001
+27785792,residential,False,True,38.767,nan,5th Cross Road,nan,nan,nan,nan,nan,77.62873195,12.933996399999998
+27785783,residential,False,False,127.064,nan,15th Main Road,nan,nan,nan,nan,nan,77.62752185,12.934524549999999
+27785783,residential,False,True,60.516,nan,15th Main Road,nan,nan,nan,nan,nan,77.62683425,12.93401245
+27785794,residential,False,False,35.675,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.62716575,12.934064250000002
+27785794,residential,False,False,46.07,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.62780755,12.93332185
+27785794,residential,False,True,33.643,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.62758339999999,12.933605700000003
+27785797,residential,False,False,124.018,nan,13th Main Road,nan,nan,nan,nan,nan,77.62815135,12.933810900000001
+27785777,residential,False,False,49.772,nan,12th Main Road,nan,nan,nan,nan,nan,77.6277504,12.933016349999999
+27785777,residential,False,True,13.798,nan,12th Main Road,nan,nan,nan,nan,nan,77.6279815,12.933192349999999
+27785794,residential,False,True,46.07,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.62780755,12.93332185
+27785794,residential,False,False,33.533,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.62738085000001,12.933834300000003
+27785794,residential,False,True,35.675,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.62716575,12.934064250000002
+27785795,residential,False,False,125.618,nan,15th Main Road,nan,nan,nan,nan,nan,77.62775065,12.9342745
+27785792,residential,False,False,32.49,nan,5th Cross Road,nan,nan,nan,nan,nan,77.628319,12.9344896
+27785792,residential,False,True,38.855,nan,5th Cross Road,nan,nan,nan,nan,nan,77.62810675,12.9347348
+27785795,residential,False,True,125.618,nan,15th Main Road,nan,nan,nan,nan,nan,77.62775065,12.9342745
+27785794,residential,False,False,33.643,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.62758339999999,12.933605700000003
+27785794,residential,False,True,33.533,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.62738085000001,12.933834300000003
+27785796,residential,False,False,124.555,nan,14th Main Road,nan,nan,nan,nan,nan,77.6279492,12.9340494
+27785792,residential,False,False,35.157,nan,5th Cross Road,nan,nan,nan,nan,nan,77.62851715,12.934254599999997
+27785792,residential,False,True,32.49,nan,5th Cross Road,nan,nan,nan,nan,nan,77.628319,12.9344896
+27785796,residential,False,True,124.555,nan,14th Main Road,nan,nan,nan,nan,nan,77.6279492,12.9340494
+27785792,residential,False,False,38.767,nan,5th Cross Road,nan,nan,nan,nan,nan,77.62873195,12.933996399999998
+27785792,residential,False,True,35.157,nan,5th Cross Road,nan,nan,nan,nan,nan,77.62851715,12.934254599999997
+27785797,residential,False,True,124.018,nan,13th Main Road,nan,nan,nan,nan,nan,77.62815135,12.933810900000001
+27785777,residential,False,False,13.798,nan,12th Main Road,nan,nan,nan,nan,nan,77.6279815,12.933192349999999
+27785777,residential,False,True,41.056,nan,12th Main Road,nan,nan,nan,nan,nan,77.62817960000001,12.93334585
+27785798,residential,False,False,126.077,nan,2nd Cross,nan,nan,nan,nan,nan,77.62841374999999,12.932803849999999
+27785798,residential,False,False,149.36,nan,2nd Cross,nan,nan,nan,nan,nan,77.62911395,12.93178075
+27785798,residential,False,True,126.077,nan,2nd Cross,nan,nan,nan,nan,nan,77.62841374999999,12.932803849999999
+37786363,residential,False,False,42.608,nan,11th Main Road,nan,nan,nan,nan,nan,77.6289324,12.932514850000002
+27785798,residential,False,True,66.883,nan,2nd Cross,nan,nan,nan,nan,nan,77.62958689999999,12.9308296
+27785799,residential,False,False,100.646,nan,1st Cross Road,nan,nan,nan,nan,nan,77.63015494999999,12.930430900000001
+27785799,residential,False,True,35.45,nan,1st Cross Road,nan,nan,nan,nan,nan,77.62954655,12.930579550000003
+27785830,residential,False,False,31.817,nan,10th Main Road,nan,nan,nan,nan,nan,77.62981825,12.9315886
+27785830,residential,False,True,41.134,nan,10th Main Road,nan,nan,nan,nan,nan,77.630021,12.931848800000001
+37786362,residential,False,True,149.988,nan,4th Cross Road,nan,nan,nan,nan,nan,77.62958914999999,12.932286399999999
+27785798,residential,False,False,9.487,nan,2nd Cross,nan,nan,nan,nan,nan,77.62944884999999,12.93114555
+27785798,residential,False,True,149.36,nan,2nd Cross,nan,nan,nan,nan,nan,77.62911395,12.93178075
+27785830,residential,False,True,45.5,nan,10th Main Road,nan,nan,nan,nan,nan,77.6295749,12.9313344
+27785799,residential,False,True,100.646,nan,1st Cross Road,nan,nan,nan,nan,nan,77.63015494999999,12.930430900000001
+27785841,residential,False,True,45.398,nan,8th A Main Road,nan,nan,nan,nan,nan,77.63070830000001,12.93048485
+27785799,residential,False,False,225.091,nan,1st Cross Road,nan,nan,nan,nan,nan,77.63160942561228,12.930141464498783
+27785841,residential,False,False,67.071,nan,8th A Main Road,nan,nan,nan,nan,nan,77.63046874617008,12.93003675187618
+558762905,tertiary,True,False,17.125,nan,1st Main Road,nan,nan,nan,nan,nan,77.6336145,12.92982565
+1262796544,residential,False,False,5.875,nan,nan,nan,nan,nan,nan,nan,77.63353835,12.92983055
+27790968,residential,False,False,25.669999999999998,nan,7th A Main Road,nan,nan,nan,nan,nan,77.63358003392773,12.929966073726419
+24299079,tertiary,False,False,23.013,nan,1st Main Road,nan,nan,nan,nan,nan,77.63437834999999,12.9294244
+1126739888,tertiary,True,False,6.765,nan,1st Main Road,nan,nan,nan,nan,nan,77.63425319999999,12.92947335
+558762900,residential,False,False,63.335,nan,5th A Main Road,nan,nan,nan,nan,nan,77.6343965530118,12.929735569802443
+24299078,residential,False,False,52.167,nan,2nd Cross Road,nan,nan,nan,nan,nan,77.6348594,12.925780549999999
+24299078,residential,False,True,73.208,nan,2nd Cross Road,nan,nan,nan,nan,nan,77.63429065,12.9256779
+27789866,residential,False,True,150.338,nan,5th Main Road,nan,nan,nan,nan,nan,77.6345482,12.9264102
+27789866,residential,False,False,210.494,nan,5th Main Road,nan,nan,nan,nan,nan,77.634371,12.9280235
+27789870,residential,False,False,54.843,nan,2nd Main Road,nan,nan,nan,nan,nan,77.63449765,12.92886055
+27789866,residential,False,True,56.864,nan,5th Main Road,nan,nan,nan,nan,nan,77.63424516833025,12.929219401675399
+27789870,residential,False,False,4.739,nan,2nd Main Road,nan,nan,nan,nan,nan,77.63718205,12.9271766
+148986967,residential,False,False,54.723,nan,nan,nan,nan,nan,nan,nan,77.63734489999999,12.9273882
+27789870,residential,False,True,169.49099999999999,nan,2nd Main Road,nan,nan,nan,nan,nan,77.63662335365002,12.927722316948673
+27789870,residential,False,False,152.696,nan,2nd Main Road,nan,nan,nan,nan,nan,77.63535815,12.9284514
+27789870,residential,False,True,54.843,nan,2nd Main Road,nan,nan,nan,nan,nan,77.63449765,12.92886055
+27790751,residential,False,False,66.805,nan,4th Main Road,nan,nan,nan,nan,nan,77.63476625,12.92845845
+24299078,residential,False,True,52.167,nan,2nd Cross Road,nan,nan,nan,nan,nan,77.6348594,12.925780549999999
+27790751,residential,False,True,47.212,nan,4th Main Road,nan,nan,nan,nan,nan,77.63506989999999,12.926033749999998
+24299078,residential,False,False,168.781,nan,2nd Cross Road,nan,nan,nan,nan,nan,77.63586268093664,12.925956139788292
+27790751,residential,False,False,109.492,nan,4th Main Road,nan,nan,nan,nan,nan,77.63485825000001,12.92767085
+27790751,residential,False,True,66.805,nan,4th Main Road,nan,nan,nan,nan,nan,77.63476625,12.92845845
+27790761,residential,False,False,116.318,nan,3rd Main Road,nan,nan,nan,nan,nan,77.6352897,12.927935000000002
+27790761,residential,False,False,53.868,nan,3rd Main Road,nan,nan,nan,nan,nan,77.63665685000001,12.92631695
+27790761,residential,False,True,50.874,nan,3rd Main Road,nan,nan,nan,nan,nan,77.63671095000001,12.92678495
+27790764,residential,False,False,180.974,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.635863,12.9264012
+27790751,residential,False,False,47.212,nan,4th Main Road,nan,nan,nan,nan,nan,77.63506989999999,12.926033749999998
+27790751,residential,False,True,48.914,nan,4th Main Road,nan,nan,nan,nan,nan,77.63501654999999,12.92646285
+27790764,residential,False,True,180.974,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.635863,12.9264012
+24299078,residential,False,False,73.208,nan,2nd Cross Road,nan,nan,nan,nan,nan,77.63429065,12.9256779
+27790781,residential,False,True,148.109,nan,6th Main Road,nan,nan,nan,nan,nan,77.63388925000001,12.926280250000001
+24299078,residential,False,True,41.967,nan,2nd Cross Road,nan,nan,nan,nan,nan,77.63376725202195,12.925588886546814
+27790781,residential,False,False,148.109,nan,6th Main Road,nan,nan,nan,nan,nan,77.63388925000001,12.926280250000001
+27790791,residential,False,False,72.535,nan,5th Cross Road,nan,nan,nan,nan,nan,77.6341468,12.927012550000002
+27790781,residential,False,True,319.898,nan,6th Main Road,nan,nan,nan,nan,nan,77.63367038372871,12.92837384842416
+27790761,residential,False,True,79.318,nan,3rd Main Road,nan,nan,nan,nan,nan,77.63610299999999,12.92755355
+27790791,residential,False,True,166.599,nan,5th Cross Road,nan,nan,nan,nan,nan,77.63567155,12.9272894
+27790761,residential,False,False,54.733,nan,3rd Main Road,nan,nan,nan,nan,nan,77.63659849922469,12.927214329362469
+27790751,residential,False,False,48.914,nan,4th Main Road,nan,nan,nan,nan,nan,77.63501654999999,12.92646285
+27790751,residential,False,True,56.243,nan,4th Main Road,nan,nan,nan,nan,nan,77.63495019999999,12.9269312
+27790799,residential,False,False,193.215,nan,4th Cross Road,nan,nan,nan,nan,nan,77.63586450000001,12.926846600000001
+27790761,residential,False,False,50.874,nan,3rd Main Road,nan,nan,nan,nan,nan,77.63671095000001,12.92678495
+27790799,residential,False,False,50.223,nan,4th Cross Road,nan,nan,nan,nan,nan,77.6369593,12.92708375
+27790799,residential,False,True,193.215,nan,4th Cross Road,nan,nan,nan,nan,nan,77.63586450000001,12.926846600000001
+27790761,residential,False,True,54.733,nan,3rd Main Road,nan,nan,nan,nan,nan,77.63659849922469,12.927214329362469
+27789870,residential,False,False,127.644,nan,2nd Main Road,nan,nan,nan,nan,nan,77.63709685,12.92658715
+27789870,residential,False,True,4.739,nan,2nd Main Road,nan,nan,nan,nan,nan,77.63718205,12.9271766
+27790799,residential,False,True,50.223,nan,4th Cross Road,nan,nan,nan,nan,nan,77.6369593,12.92708375
+559414933,residential,False,True,94.757,nan,1st Main Road,nan,nan,nan,nan,nan,77.6337054,12.9313575
+778508081,residential,False,False,48.239,nan,nan,nan,nan,nan,nan,nan,77.6339868,12.931267
+"[27790968, 350096405, 350096407]",residential,False,True,62.06,nan,7th A Main Road,nan,nan,yes,nan,nan,77.63393918745918,12.930786059052275
+778508081,residential,False,True,12.029,nan,nan,nan,nan,nan,nan,nan,77.6339611,12.931536799999998
+784730133,residential,False,True,79.103,nan,"Temple Trees Road, Cauvery Colony",nan,nan,nan,nan,nan,77.63391519999999,12.93194405
+400701862,residential,False,False,64.346,nan,nan,nan,nan,nan,nan,nan,77.63409064796566,12.931849601043426
+27931318,residential,False,False,41.398,nan,5th Cross Road,nan,nan,nan,nan,nan,77.62937869999999,12.9295268
+1159872650,tertiary,False,True,49.787,2,8th Main Road,nan,6.1,nan,nan,nan,77.629213,12.929787099999999
+1159872650,tertiary,False,False,109.134,2,8th Main Road,nan,6.1,nan,nan,nan,77.62912924776586,12.92907730046652
+27931318,residential,False,True,44.137,nan,5th Cross Road,nan,nan,nan,nan,nan,77.63102475,12.92914885
+27931337,residential,False,False,51.506,nan,8A Main Road,nan,nan,nan,nan,nan,77.63128292208229,12.929328994141784
+"[27931337, 27931322]",residential,False,True,185.098,nan,"['1st Cross Road', '8A Main Road']",nan,nan,nan,nan,nan,77.63097597100848,12.92835267035099
+27931322,residential,False,False,51.522,nan,1st Cross Road,nan,nan,nan,nan,nan,77.62924475,12.92824875
+1159872650,tertiary,False,True,32.662,2,8th Main Road,nan,6.1,nan,nan,nan,77.62903685,12.92844615
+1159872650,tertiary,False,False,240.599,2,8th Main Road,nan,6.1,nan,nan,nan,77.62884363987011,12.92723192584451
+1391305617,tertiary,False,True,111.648,nan,7th Cross Road,nan,nan,nan,nan,nan,77.63083895,12.9296589
+27931337,residential,False,True,51.506,nan,8A Main Road,nan,nan,nan,nan,nan,77.63128292208229,12.929328994141784
+1391305617,tertiary,False,False,178.067,nan,7th Cross Road,nan,nan,nan,nan,nan,77.63213460213743,12.929554623349075
+1159872650,tertiary,False,True,27.897,2,8th Main Road,nan,6.1,nan,nan,nan,77.62765255,12.9327835
+27931503,residential,False,False,66.527,nan,12th Main Road,nan,nan,nan,nan,nan,77.6277145539799,12.932389596930998
+1159872650,tertiary,False,False,262.56399999999996,2,8th Main Road,nan,6.1,nan,nan,nan,77.62841362759843,12.931716839960108
+27931503,residential,False,True,64.124,nan,12th Main Road,nan,nan,nan,nan,nan,77.6274895,12.930658300000001
+38042287,tertiary,False,False,17.46,nan,7th Cross Road,nan,nan,nan,nan,nan,77.6275308,12.930361
+38042287,tertiary,False,True,68.746,nan,7th Cross Road,nan,nan,nan,nan,nan,77.6271363,12.9304101
+27785799,residential,False,False,38.067,nan,1st Cross Road,nan,nan,nan,nan,nan,77.62770105,12.930915550000002
+27931503,residential,False,False,64.124,nan,12th Main Road,nan,nan,nan,nan,nan,77.6274895,12.930658300000001
+27931503,residential,False,True,128.764,nan,12th Main Road,nan,nan,nan,nan,nan,77.6276081,12.9315179
+27785799,residential,False,False,62.743,nan,1st Cross Road,nan,nan,nan,nan,nan,77.6286887,12.93072635
+27785799,residential,False,True,28.937,nan,1st Cross Road,nan,nan,nan,nan,nan,77.62827355,12.93080515
+27931530,residential,False,False,51.753,nan,1st A Cross Road,nan,nan,nan,nan,nan,77.62831535000001,12.9309944
+27931503,residential,False,False,128.764,nan,12th Main Road,nan,nan,nan,nan,nan,77.6276081,12.9315179
+27931530,residential,False,True,55.145,nan,1st A Cross Road,nan,nan,nan,nan,nan,77.62782915,12.931885099999999
+27931503,residential,False,True,66.527,nan,12th Main Road,nan,nan,nan,nan,nan,77.6277145539799,12.932389596930998
+27931530,residential,False,False,203.22400000000002,nan,1st A Cross Road,nan,nan,nan,nan,nan,77.62706864569424,12.932777674072883
+1124616641,secondary,True,False,6.664,2,80 Feet Road,nan,nan,nan,nan,nan,77.62275905,12.942502900000001
+1155064213,secondary,True,False,9.439,2,Srinivagilu Main Road,24.38,nan,nan,nan,nan,77.622814,12.942498950000001
+1311812958,tertiary,False,True,13.563,2,8th Main Road,nan,6.1,nan,nan,nan,77.6282748,12.9245596
+1311812959,primary,True,False,63.510999999999996,3,Sarjapura Road,nan,nan,nan,25,nan,77.6285222326312,12.924394007716641
+350096404,primary,True,False,511.646,3,Sarjapura Road,nan,nan,nan,nan,nan,77.6312361788753,12.924483667375412
+839092207,primary,True,False,113.37299999999998,2,Sarjapura Road,nan,nan,nan,nan,nan,77.63689152213641,12.925284358496583
+24299079,tertiary,False,True,10.136,nan,1st Main Road,nan,nan,nan,nan,nan,77.63739985000001,12.925211350000001
+27785711,residential,False,False,204.393,nan,2nd Cross Road,nan,nan,nan,nan,nan,77.6276786,12.925726650000001
+27785711,residential,False,True,159.604,nan,2nd Cross Road,nan,nan,nan,nan,nan,77.62613165,12.926363550000001
+28125747,residential,False,False,84.156,nan,11th Main Road,nan,nan,nan,nan,nan,77.62692725,12.92644515
+28125747,residential,False,True,87.911,nan,11th Main Road,nan,nan,nan,nan,nan,77.6266731,12.9257123
+24299075,residential,False,False,73.041,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.62673215,12.92692915
+24299075,residential,False,True,84.912,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.62740765,12.9266627
+28125747,residential,False,True,84.156,nan,11th Main Road,nan,nan,nan,nan,nan,77.62692725,12.92644515
+28125791,residential,False,False,85.994,nan,16th Main Road,nan,nan,nan,nan,nan,77.62478425,12.931038649999998
+38042287,tertiary,False,False,20.924,nan,7th Cross Road,nan,nan,nan,nan,nan,77.62475165000001,12.93063875
+38042287,tertiary,False,True,55.2,nan,7th Cross Road,nan,nan,nan,nan,nan,77.6244238,12.930761449999999
+28125818,residential,False,False,56.545,nan,7th C Cross Road,nan,nan,nan,nan,nan,77.62479920000001,12.9318966
+28125791,residential,False,True,44.184,nan,16th Main Road,nan,nan,nan,nan,nan,77.6249703359206,12.931595204677686
+558764102,residential,False,True,89.22500000000001,nan,nan,nan,nan,nan,nan,nan,77.62501048784381,12.932105923373234
+28125800,residential,False,False,52.945,nan,"16th B Road, 4th Block",nan,nan,nan,nan,nan,77.6257892,12.93407655
+1159872650,tertiary,False,False,17.216,2,8th Main Road,nan,6.1,nan,nan,nan,77.62594345,12.934255750000002
+1159872650,tertiary,False,True,112.824,2,8th Main Road,nan,6.1,nan,nan,nan,77.62543544744257,12.934566795786816
+28125800,residential,False,False,73.726,nan,"16th B Road, 4th Block",nan,nan,nan,nan,nan,77.625584,12.933543250000001
+28125800,residential,False,True,52.945,nan,"16th B Road, 4th Block",nan,nan,nan,nan,nan,77.6257892,12.93407655
+28125816,residential,False,False,43.409,nan,16th B Main Road,nan,nan,nan,nan,nan,77.6255288,12.933954
+28125816,residential,False,True,37.502,nan,16th B Main Road,nan,nan,nan,nan,nan,77.62476345,12.934436300000003
+28125814,residential,False,False,163.879,nan,6th B Main Road,nan,nan,nan,nan,nan,77.62428704269273,12.933862285399996
+563684084,residential,False,False,52.494,nan,16th B Main Road,nan,nan,nan,20,nan,77.624694427172,12.934748129554077
+28125814,residential,False,True,87.399,nan,6th B Main Road,nan,nan,nan,nan,nan,77.6238338,12.932822999999997
+28125818,residential,False,True,48.97,nan,7th C Cross Road,nan,nan,nan,nan,nan,77.6238835,12.93235635
+28125818,residential,False,False,16.459,nan,7th C Cross Road,nan,nan,nan,nan,nan,77.62361373866096,12.932487858948596
+28125818,residential,False,True,52.676,nan,7th C Cross Road,nan,nan,nan,nan,nan,77.6233237,12.932616150000001
+1159872649,primary,True,False,145.132,2,Mahayogi Vemana Road,nan,nan,nan,nan,nan,77.62286180000001,12.9321017
+27785786,residential,False,True,34.917,nan,4th Cross Road,nan,nan,nan,nan,nan,77.62653005,12.93532525
+28186678,residential,False,False,117.864,nan,16th B Main Road,nan,nan,nan,nan,nan,77.62680635000001,12.935756699999999
+27785786,residential,False,False,54.105999999999995,nan,4th Cross Road,nan,nan,nan,nan,nan,77.62618501693221,12.935542375461017
+27785772,residential,False,False,34.266,nan,5th Cross Road,nan,nan,nan,nan,nan,77.62732635,12.935990799999999
+27785772,residential,False,True,50.467,nan,5th Cross Road,nan,nan,nan,nan,nan,77.62706084999999,12.936270449999999
+28186678,residential,False,True,117.864,nan,16th B Main Road,nan,nan,nan,nan,nan,77.62680635000001,12.935756699999999
+27785772,residential,False,False,42.577,nan,5th Cross Road,nan,nan,nan,nan,nan,77.62756934999999,12.9357392
+27785772,residential,False,True,34.266,nan,5th Cross Road,nan,nan,nan,nan,nan,77.62732635,12.935990799999999
+28186680,residential,False,True,109.506,nan,16th A Main Road,nan,nan,nan,nan,nan,77.62705005,12.93555935
+1159872650,tertiary,False,False,44.914,2,8th Main Road,nan,6.1,nan,nan,nan,77.62461369999998,12.935078250000002
+1159872649,primary,True,False,96.25800000000001,2,Mahayogi Vemana Road,nan,nan,nan,nan,nan,77.62414586205696,12.934870344436264
+28186705,tertiary,False,False,47.772,nan,6th Cross Road,nan,nan,nan,nan,nan,77.62526785,12.936276450000001
+"[1159872651, 1376039860]",primary,True,False,204.985,2,Mahayogi Vemana Road,nan,nan,nan,nan,nan,77.62614205352773,12.936696871342669
+28186705,tertiary,False,False,47.31,nan,6th Cross Road,nan,nan,nan,nan,nan,77.62368305,12.9381463
+28186705,tertiary,False,True,49.65,nan,6th Cross Road,nan,nan,nan,nan,nan,77.62397265,12.937814
+28186784,tertiary,False,False,66.869,2,18th Main Road,nan,nan,nan,nan,nan,77.62206995,12.93949245
+28186784,tertiary,False,True,77.732,2,18th Main Road,nan,nan,nan,nan,nan,77.6225537,12.9399401
+28186705,tertiary,False,True,48.13,nan,6th Cross Road,nan,nan,nan,nan,nan,77.62243564147516,12.939539839229814
+28186705,tertiary,False,False,38.722,nan,6th Cross Road,nan,nan,nan,nan,nan,77.62501455,12.936576899999999
+28186705,tertiary,False,True,47.772,nan,6th Cross Road,nan,nan,nan,nan,nan,77.62526785,12.936276450000001
+28186788,residential,False,False,50.349000000000004,nan,17th A Main Road,nan,nan,nan,nan,nan,77.6253026395362,12.936586046267841
+28186705,tertiary,False,False,26.756,nan,6th Cross Road,nan,nan,nan,nan,nan,77.62444575,12.937276650000001
+28186705,tertiary,False,True,66.541,nan,6th Cross Road,nan,nan,nan,nan,nan,77.62471505,12.9369495
+28186705,tertiary,False,False,49.65,nan,6th Cross Road,nan,nan,nan,nan,nan,77.62397265,12.937814
+28186705,tertiary,False,True,10.16,nan,6th Cross Road,nan,nan,nan,nan,nan,77.62415204999999,12.93760965
+28186784,tertiary,False,True,66.869,2,18th Main Road,nan,nan,nan,nan,nan,77.62206995,12.93949245
+28186802,residential,False,False,135.986,nan,19th Main Road,nan,nan,nan,nan,nan,77.622352,12.941471499999999
+28186826,residential,False,True,38.347,nan,6th Cross Road,nan,nan,nan,nan,nan,77.6219925,12.940965549999998
+28186802,residential,False,True,167.55,nan,19th Main Road,nan,nan,nan,nan,nan,77.62131711104274,12.940554388605323
+28186802,residential,False,True,135.986,nan,19th Main Road,nan,nan,nan,nan,nan,77.622352,12.941471499999999
+28186828,residential,False,False,35.156,nan,18th Main Road,nan,nan,nan,nan,nan,77.6229514,12.9417439
+28186828,residential,False,True,61.692,nan,18th Main Road,nan,nan,nan,nan,nan,77.62263471499766,12.94205109043438
+28186705,tertiary,False,False,157.92,nan,6th Cross Road,nan,nan,nan,nan,nan,77.62306145,12.938842399999999
+28186705,tertiary,False,True,47.31,nan,6th Cross Road,nan,nan,nan,nan,nan,77.62368305,12.9381463
+28186805,residential,False,False,40.973,nan,17th F Main Road,nan,nan,nan,nan,nan,77.6236882,12.938426050000002
+28186805,residential,False,False,181.505,nan,17th F Main Road,nan,nan,nan,nan,nan,77.62447475,12.939068800000001
+28186805,residential,False,True,40.973,nan,17th F Main Road,nan,nan,nan,nan,nan,77.6236882,12.938426050000002
+28186808,residential,False,False,34.791,nan,6th C Cross Road,nan,nan,nan,nan,nan,77.6237283,12.938660850000002
+28186808,residential,False,True,22.61,nan,6th C Cross Road,nan,nan,nan,nan,nan,77.62292835,12.9395464
+28186841,residential,False,False,172.757,nan,17th G Main Road,nan,nan,nan,nan,nan,77.62346805,12.940120799999999
+52011735,residential,False,False,40.568,nan,nan,nan,nan,nan,nan,nan,77.62271915,12.93949855
+28186802,residential,False,False,167.55,nan,19th Main Road,nan,nan,nan,nan,nan,77.62131711104274,12.940554388605323
+28186823,residential,False,False,72.768,nan,5th Cross Road,nan,nan,nan,nan,nan,77.62053520419828,12.94025803525477
+28186784,tertiary,False,False,77.732,2,18th Main Road,nan,nan,nan,nan,nan,77.6225537,12.9399401
+28186784,tertiary,False,True,132.919,2,18th Main Road,nan,nan,nan,nan,nan,77.6232967,12.94054985
+28186826,residential,False,False,38.3,nan,6th Cross Road,nan,nan,nan,nan,nan,77.62269140000001,12.94029775
+28186784,tertiary,False,False,132.919,2,18th Main Road,nan,nan,nan,nan,nan,77.6232967,12.94054985
+28186828,residential,False,True,44.864,nan,18th Main Road,nan,nan,nan,nan,nan,77.62364205,12.941076500000001
+28186784,tertiary,False,True,46.451,2,18th Main Road,nan,nan,nan,nan,nan,77.6239334873657,12.941064364049847
+28186828,residential,False,False,61.692,nan,18th Main Road,nan,nan,nan,nan,nan,77.62263471499766,12.94205109043438
+332773260,secondary,True,False,80.671,nan,80 Feet Road,nan,nan,nan,nan,nan,77.6221362131643,12.942021532562578
+28186826,residential,False,False,6.581,nan,6th Cross Road,nan,nan,nan,nan,nan,77.62214125,12.940824849999998
+28186826,residential,False,True,26.962,nan,6th Cross Road,nan,nan,nan,nan,nan,77.6222516,12.940719099999999
+28186834,residential,False,False,169.655,nan,18A Main Road,nan,nan,nan,nan,nan,77.6219017,12.939984649999998
+28186826,residential,False,False,17.105,nan,6th Cross Road,nan,nan,nan,nan,nan,77.6223966,12.9405802
+28186826,residential,False,True,17.097,nan,6th Cross Road,nan,nan,nan,nan,nan,77.62250915,12.940472400000003
+28186834,residential,False,True,169.655,nan,18A Main Road,nan,nan,nan,nan,nan,77.6219017,12.939984649999998
+28186805,residential,False,True,181.505,nan,17th F Main Road,nan,nan,nan,nan,nan,77.62447475,12.939068800000001
+28186839,residential,False,False,35.911,nan,6th D Cross Road,nan,nan,nan,nan,nan,77.6249993,12.939709600000002
+28186805,residential,False,False,39.275,nan,17th F Main Road,nan,nan,nan,nan,nan,77.62524067661165,12.93972198211841
+28186839,residential,False,True,25.698,nan,6th D Cross Road,nan,nan,nan,nan,nan,77.62416225,12.940538700000001
+28186841,residential,False,True,172.757,nan,17th G Main Road,nan,nan,nan,nan,nan,77.62346805,12.940120799999999
+28186841,residential,False,False,46.711999999999996,nan,17th G Main Road,nan,nan,nan,nan,nan,77.6242386990106,12.940760801129692
+28186808,residential,False,False,36.942,nan,6th C Cross Road,nan,nan,nan,nan,nan,77.6231161,12.939350900000003
+28186808,residential,False,True,34.903,nan,6th C Cross Road,nan,nan,nan,nan,nan,77.62333765,12.939110750000001
+28186847,residential,False,False,174.172,nan,17th F3 Main Road,nan,nan,nan,nan,nan,77.62383700000001,12.939746999999999
+28186839,residential,False,False,30.112,nan,6th D Cross Road,nan,nan,nan,nan,nan,77.62434345,12.9403604
+28186839,residential,False,True,37.494,nan,6th D Cross Road,nan,nan,nan,nan,nan,77.624562,12.940143500000001
+28186847,residential,False,True,174.172,nan,17th F3 Main Road,nan,nan,nan,nan,nan,77.62383700000001,12.939746999999999
+28186808,residential,False,False,34.903,nan,6th C Cross Road,nan,nan,nan,nan,nan,77.62333765,12.939110750000001
+28186808,residential,False,True,30.694,nan,6th C Cross Road,nan,nan,nan,nan,nan,77.6235323,12.9388849
+28186863,residential,False,False,176.794,nan,17th F2 Main Road,nan,nan,nan,nan,nan,77.62406265,12.93950725
+28186839,residential,False,False,37.494,nan,6th D Cross Road,nan,nan,nan,nan,nan,77.624562,12.940143500000001
+28186839,residential,False,True,30.927,nan,6th D Cross Road,nan,nan,nan,nan,nan,77.6247832,12.939924000000001
+28186863,residential,False,True,176.794,nan,17th F2 Main Road,nan,nan,nan,nan,nan,77.62406265,12.93950725
+28186808,residential,False,False,30.694,nan,6th C Cross Road,nan,nan,nan,nan,nan,77.6235323,12.9388849
+28186808,residential,False,True,34.791,nan,6th C Cross Road,nan,nan,nan,nan,nan,77.6237283,12.938660850000002
+28186869,residential,False,False,179.449,nan,17th F1 Main Road,nan,nan,nan,nan,nan,77.62425285,12.93930165
+28186839,residential,False,False,30.927,nan,6th D Cross Road,nan,nan,nan,nan,nan,77.6247832,12.939924000000001
+28186839,residential,False,True,35.911,nan,6th D Cross Road,nan,nan,nan,nan,nan,77.6249993,12.939709600000002
+28186869,residential,False,True,179.449,nan,17th F1 Main Road,nan,nan,nan,nan,nan,77.62425285,12.93930165
+28186826,residential,False,False,38.347,nan,6th Cross Road,nan,nan,nan,nan,nan,77.6219925,12.940965549999998
+28186826,residential,False,True,6.581,nan,6th Cross Road,nan,nan,nan,nan,nan,77.62214125,12.940824849999998
+28186871,residential,False,False,134.508,nan,18G Main Road,nan,nan,nan,nan,nan,77.6225919,12.94123795
+28186828,residential,False,False,31.272,nan,18th Main Road,nan,nan,nan,nan,nan,77.62317014999999,12.94153485
+28186828,residential,False,True,35.156,nan,18th Main Road,nan,nan,nan,nan,nan,77.6229514,12.9417439
+28186871,residential,False,True,134.508,nan,18G Main Road,nan,nan,nan,nan,nan,77.6225919,12.94123795
+28186826,residential,False,False,26.962,nan,6th Cross Road,nan,nan,nan,nan,nan,77.6222516,12.940719099999999
+28186826,residential,False,True,17.105,nan,6th Cross Road,nan,nan,nan,nan,nan,77.6223966,12.9405802
+28186872,residential,False,False,135.289,nan,18th F Main Road,nan,nan,nan,nan,nan,77.62280820000001,12.94103675
+28186828,residential,False,False,34.245,nan,18th Main Road,nan,nan,nan,nan,nan,77.62339209999999,12.94133485
+28186828,residential,False,True,31.272,nan,18th Main Road,nan,nan,nan,nan,nan,77.62317014999999,12.94153485
+28186872,residential,False,True,135.289,nan,18th F Main Road,nan,nan,nan,nan,nan,77.62280820000001,12.94103675
+28186826,residential,False,False,17.097,nan,6th Cross Road,nan,nan,nan,nan,nan,77.62250915,12.940472400000003
+28186826,residential,False,True,38.3,nan,6th Cross Road,nan,nan,nan,nan,nan,77.62269140000001,12.94029775
+28186873,residential,False,False,136.328,nan,18th E Main Road,nan,nan,nan,nan,nan,77.62303675,12.9408244
+28186828,residential,False,False,44.864,nan,18th Main Road,nan,nan,nan,nan,nan,77.62364205,12.941076500000001
+28186828,residential,False,True,34.245,nan,18th Main Road,nan,nan,nan,nan,nan,77.62339209999999,12.94133485
+28186873,residential,False,True,136.328,nan,18th E Main Road,nan,nan,nan,nan,nan,77.62303675,12.9408244
+28186938,residential,False,False,32.052,nan,16th B Main Road,nan,nan,nan,nan,nan,77.62311944999999,12.931437249999998
+38042287,tertiary,False,False,15.632,nan,7th Cross Road,nan,nan,nan,nan,nan,77.62313284999999,12.93127185
+38042287,tertiary,False,True,52.681,nan,7th Cross Road,nan,nan,nan,nan,nan,77.62284515,12.9313972
+28186938,residential,False,False,33.242,nan,16th B Main Road,nan,nan,nan,nan,nan,77.6233103,12.931936149999999
+28186938,residential,False,True,26.558,nan,16th B Main Road,nan,nan,nan,nan,nan,77.6232139,12.9316842
+28186940,residential,False,False,133.221,nan,7th A Cross Road,nan,nan,nan,nan,nan,77.62380945,12.931534150000001
+28186940,residential,False,False,50.472,nan,7th A Cross Road,nan,nan,nan,nan,nan,77.62427439999999,12.931062
+28186940,residential,False,True,133.221,nan,7th A Cross Road,nan,nan,nan,nan,nan,77.62380945,12.931534150000001
+655810296,residential,False,False,37.657,nan,nan,nan,nan,nan,nan,nan,77.62442999999999,12.931428100000002
+28186938,residential,False,False,53.274,nan,16th B Main Road,nan,nan,nan,nan,nan,77.62345509999999,12.93229865
+28186938,residential,False,True,33.242,nan,16th B Main Road,nan,nan,nan,nan,nan,77.6233103,12.931936149999999
+28186944,residential,False,False,134.523,nan,7th B Cross Road,nan,nan,nan,nan,nan,77.62393085,12.9318301
+28125791,residential,False,True,85.994,nan,16th Main Road,nan,nan,nan,nan,nan,77.62478425,12.931038649999998
+28186944,residential,False,True,48.604,nan,7th B Cross Road,nan,nan,nan,nan,nan,77.62470265,12.9314951
+28125791,residential,False,False,44.184,nan,16th Main Road,nan,nan,nan,nan,nan,77.6249703359206,12.931595204677686
+32316489,residential,False,False,43.833,nan,nan,nan,nan,nan,nan,nan,77.61753965,12.94321575
+32316489,residential,False,True,16.949,nan,nan,nan,nan,nan,nan,nan,77.61761920000001,12.9434778
+32316412,residential,False,False,44.443,nan,2nd C Main Road,nan,nan,nan,nan,nan,77.61768325,12.9429981
+32316489,residential,False,False,33.581,nan,nan,nan,nan,nan,nan,nan,77.61746915,12.9428767
+32316489,residential,False,True,43.833,nan,nan,nan,nan,nan,nan,nan,77.61753965,12.94321575
+32316489,residential,False,False,37.304,nan,nan,nan,nan,nan,nan,nan,77.6173492,12.941546599999999
+32316489,residential,False,True,53.395,nan,nan,nan,nan,nan,nan,nan,77.61738424999999,12.94195295
+28186705,tertiary,False,False,30.37,nan,6th Cross Road,nan,nan,nan,nan,nan,77.62427395,12.93747145
+28186705,tertiary,False,True,26.756,nan,6th Cross Road,nan,nan,nan,nan,nan,77.62444575,12.937276650000001
+28186788,residential,False,False,72.748,nan,17th A Main Road,nan,nan,nan,nan,nan,77.62573195,12.936948350000002
+32291053,residential,False,True,46.07,nan,6th E Cross Road,nan,nan,nan,nan,nan,77.62534735,12.936902400000001
+28186788,residential,False,True,50.349000000000004,nan,17th A Main Road,nan,nan,nan,nan,nan,77.6253026395362,12.936586046267841
+28186788,residential,False,False,40.055,nan,17th A Main Road,nan,nan,nan,nan,nan,77.6261272,12.9372783
+28186788,residential,False,True,72.748,nan,17th A Main Road,nan,nan,nan,nan,nan,77.62573195,12.936948350000002
+32291057,residential,False,True,47.141,nan,6th Cross Road,nan,nan,nan,nan,nan,77.6258517,12.93732445
+28186705,tertiary,False,False,10.16,nan,6th Cross Road,nan,nan,nan,nan,nan,77.62415204999999,12.93760965
+28186705,tertiary,False,True,30.37,nan,6th Cross Road,nan,nan,nan,nan,nan,77.62427395,12.93747145
+32291050,residential,False,False,55.662,nan,17th D Main Road,nan,nan,nan,nan,nan,77.62437374999999,12.93774215
+32291050,residential,False,True,55.662,nan,17th D Main Road,nan,nan,nan,nan,nan,77.62437374999999,12.93774215
+32291053,residential,False,False,42.19,nan,6th E Cross Road,nan,nan,nan,nan,nan,77.6246824,12.93775805
+32291050,residential,False,False,73.07,nan,17th D Main Road,nan,nan,nan,nan,nan,77.62481626400576,12.938128292991898
+32291050,residential,False,False,39.54,nan,17th D Main Road,nan,nan,nan,nan,nan,77.62520774999999,12.9384611
+32291057,residential,False,False,47.792,nan,6th Cross Road,nan,nan,nan,nan,nan,77.6252001,12.938171950000001
+32291050,residential,False,True,73.07,nan,17th D Main Road,nan,nan,nan,nan,nan,77.62481626400576,12.938128292991898
+32291050,residential,False,True,39.54,nan,17th D Main Road,nan,nan,nan,nan,nan,77.62520774999999,12.9384611
+32291059,residential,False,False,164.799,nan,6th G Cross Road,nan,nan,nan,nan,nan,77.62580605,12.9379871
+32291050,residential,False,False,62.793,nan,17th D Main Road,nan,nan,nan,nan,nan,77.62556572639518,12.93876112824443
+28186788,residential,False,True,40.055,nan,17th A Main Road,nan,nan,nan,nan,nan,77.6261272,12.9372783
+32291059,residential,False,True,164.799,nan,6th G Cross Road,nan,nan,nan,nan,nan,77.62580605,12.9379871
+28186788,residential,False,False,43.872,nan,17th A Main Road,nan,nan,nan,nan,nan,77.6264176063413,12.937527937481768
+32291053,residential,False,False,46.07,nan,6th E Cross Road,nan,nan,nan,nan,nan,77.62534735,12.936902400000001
+32291053,residential,False,True,33.328,nan,6th E Cross Road,nan,nan,nan,nan,nan,77.6251234,12.9371849
+32291065,residential,False,False,71.338,nan,17th A1 Main Road,nan,nan,nan,nan,nan,77.6254671,12.937278500000001
+32291057,residential,False,False,47.141,nan,6th Cross Road,nan,nan,nan,nan,nan,77.6258517,12.93732445
+32291057,residential,False,True,32.159,nan,6th Cross Road,nan,nan,nan,nan,nan,77.6256272,12.937605900000001
+32291065,residential,False,True,71.338,nan,17th A1 Main Road,nan,nan,nan,nan,nan,77.6254671,12.937278500000001
+32291053,residential,False,False,33.328,nan,6th E Cross Road,nan,nan,nan,nan,nan,77.6251234,12.9371849
+32291053,residential,False,True,41.912,nan,6th E Cross Road,nan,nan,nan,nan,nan,77.6249138,12.9374545
+32291066,residential,False,False,72.506,nan,17th A2 Main Road,nan,nan,nan,nan,nan,77.6252835,12.937512300000002
+32291057,residential,False,False,32.159,nan,6th Cross Road,nan,nan,nan,nan,nan,77.6256272,12.937605900000001
+32291057,residential,False,True,38.153,nan,6th Cross Road,nan,nan,nan,nan,nan,77.62543500000001,12.937860600000002
+32291066,residential,False,True,72.506,nan,17th A2 Main Road,nan,nan,nan,nan,nan,77.6252835,12.937512300000002
+32291053,residential,False,False,41.912,nan,6th E Cross Road,nan,nan,nan,nan,nan,77.6249138,12.9374545
+32291053,residential,False,True,42.19,nan,6th E Cross Road,nan,nan,nan,nan,nan,77.6246824,12.93775805
+32291067,residential,False,False,72.173,nan,17th A3 Main Road,nan,nan,nan,nan,nan,77.6250653,12.9378028
+32291057,residential,False,False,38.153,nan,6th Cross Road,nan,nan,nan,nan,nan,77.62543500000001,12.937860600000002
+32291057,residential,False,True,47.792,nan,6th Cross Road,nan,nan,nan,nan,nan,77.6252001,12.938171950000001
+32291067,residential,False,True,72.173,nan,17th A3 Main Road,nan,nan,nan,nan,nan,77.6250653,12.9378028
+32315624,residential,False,False,21.403,nan,Basavalla Temple Road,nan,nan,nan,nan,nan,77.6187664,12.94138575
+38042288,tertiary,False,False,95.159,nan,nan,nan,nan,nan,nan,nan,77.61909344168735,12.94111362696462
+32315624,residential,False,False,7.97,nan,Basavalla Temple Road,nan,nan,nan,nan,nan,77.61967784999999,12.9422308
+32315624,residential,False,True,37.933,nan,Basavalla Temple Road,nan,nan,nan,nan,nan,77.6195717994978,12.942052405274856
+32316571,residential,False,False,130.928,nan,2nd Cross Road,nan,nan,nan,nan,nan,77.62020632839888,12.941947987152737
+1427069900,residential,False,True,61.498,nan,2nd Main Road,nan,nan,nan,nan,nan,77.61951300000001,12.9434047
+32315624,residential,False,True,42.144999999999996,nan,Basavalla Temple Road,nan,nan,nan,nan,nan,77.61953578650903,12.943017307961453
+487960213,residential,False,False,61.736000000000004,nan,Lakshmi Devi Temple Road,nan,nan,nan,nan,nan,77.61916396547733,12.943304340138857
+995124323,residential,False,False,35.775999999999996,nan,nan,nan,nan,nan,nan,nan,77.61939990829099,12.942992868501337
+487960213,residential,False,False,18.993,nan,Lakshmi Devi Temple Road,nan,nan,nan,nan,nan,77.6188245,12.9434439
+661909048,residential,False,False,28.003,nan,nan,nan,nan,nan,nan,nan,77.61890055,12.94330145
+487960213,residential,False,True,61.736000000000004,nan,Lakshmi Devi Temple Road,nan,nan,nan,nan,nan,77.61916396547733,12.943304340138857
+32315927,residential,False,True,55.391,nan,Main Road,nan,nan,nan,nan,nan,77.61878544999999,12.94370565
+487960213,residential,False,False,32.188,nan,Lakshmi Devi Temple Road,nan,nan,nan,nan,nan,77.61859055,12.9434722
+487960213,residential,False,True,18.993,nan,Lakshmi Devi Temple Road,nan,nan,nan,nan,nan,77.6188245,12.9434439
+32316466,residential,False,False,14.591,nan,Lakshmi Devi Temple Road,nan,nan,nan,nan,nan,77.61770585,12.9435403
+487960213,residential,False,True,20.73,nan,Lakshmi Devi Temple Road,nan,nan,nan,nan,nan,77.61786685000001,12.943515800000002
+32316011,residential,False,True,52.321,nan,nan,nan,nan,nan,nan,nan,77.61784964973559,12.94375200473421
+38042288,tertiary,False,True,37.042,nan,nan,nan,nan,nan,nan,nan,77.61962775,12.9408268
+38042288,tertiary,False,False,55.331,nan,nan,nan,nan,nan,nan,nan,77.62000126389772,12.940626776077648
+38042288,tertiary,False,False,37.042,nan,nan,nan,nan,nan,nan,nan,77.61962775,12.9408268
+38042288,tertiary,False,True,95.159,nan,nan,nan,nan,nan,nan,nan,77.61909344168735,12.94111362696462
+32316489,residential,False,True,37.304,nan,nan,nan,nan,nan,nan,nan,77.6173492,12.941546599999999
+32316489,residential,False,False,23.43,nan,nan,nan,nan,nan,nan,nan,77.61744290000001,12.94254615
+32316489,residential,False,True,8.361,nan,nan,nan,nan,nan,nan,nan,77.61745450000001,12.942688650000001
+32316466,residential,False,False,20.825,nan,Lakshmi Devi Temple Road,nan,nan,nan,nan,nan,77.61755455,12.94359515
+32316466,residential,False,True,14.591,nan,Lakshmi Devi Temple Road,nan,nan,nan,nan,nan,77.61770585,12.9435403
+32316489,residential,False,False,16.949,nan,nan,nan,nan,nan,nan,nan,77.61761920000001,12.9434778
+1278123718,residential,False,False,7.187,nan,nan,nan,nan,nan,nan,nan,77.6212643,12.9414028
+1357130528,secondary,True,False,36.5,nan,80 Feet Road,nan,nan,nan,nan,nan,77.62136775,12.94152215
+32316571,residential,False,True,60.655,nan,2nd Cross Road,nan,nan,nan,nan,nan,77.62098969508456,12.941549090627305
+1391305617,tertiary,False,False,111.648,nan,7th Cross Road,nan,nan,nan,nan,nan,77.63083895,12.9296589
+1391305617,tertiary,False,True,122.402,nan,7th Cross Road,nan,nan,nan,nan,nan,77.6297849,12.9298873
+27785841,residential,False,True,67.071,nan,8th A Main Road,nan,nan,nan,nan,nan,77.63046874617008,12.93003675187618
+37450483,residential,False,False,41.054,nan,5th Cross Road,nan,nan,nan,nan,nan,77.63253135,12.9304083
+27785799,residential,False,False,51.228,nan,1st Cross Road,nan,nan,nan,nan,nan,77.63282616603313,12.930318543649044
+27785799,residential,False,True,225.091,nan,1st Cross Road,nan,nan,nan,nan,nan,77.63160942561228,12.930141464498785
+37450483,residential,False,False,35.53,nan,5th Cross Road,nan,nan,nan,nan,nan,77.63194010000001,12.93146725
+37786370,residential,False,False,116.809,nan,7th A Main Road,nan,nan,nan,nan,nan,77.631802,12.9309154
+37450483,residential,False,True,98.392,nan,5th Cross Road,nan,nan,nan,nan,nan,77.6322872994541,12.93098798808106
+27785841,residential,False,False,79.673,nan,8th A Main Road,nan,nan,nan,nan,nan,77.6313423,12.931466550000001
+37450483,residential,False,False,41.098,nan,5th Cross Road,nan,nan,nan,nan,nan,77.6314036,12.93190835
+37450483,residential,False,True,37.961,nan,5th Cross Road,nan,nan,nan,nan,nan,77.6316711,12.9316684
+"[27785841, 376782482]",residential,False,"[False, True]",59.461,nan,8th A Main Road,nan,nan,nan,nan,nan,77.63168091311368,12.931998044645127
+27785830,residential,False,False,41.107,nan,10th Main Road,nan,nan,nan,nan,nan,77.63050675,12.932585450000001
+37450483,residential,False,False,123.099,nan,5th Cross Road,nan,nan,nan,nan,nan,77.6301947,12.933119399999999
+37450483,residential,False,True,36.622,nan,5th Cross Road,nan,nan,nan,nan,nan,77.63072425,12.932620400000001
+27785830,residential,False,True,52.057,nan,10th Main Road,nan,nan,nan,nan,nan,77.63077666482084,12.932908785231042
+37450483,residential,False,True,123.099,nan,5th Cross Road,nan,nan,nan,nan,nan,77.6301947,12.933119399999999
+37786363,residential,False,True,36.109,nan,11th Main Road,nan,nan,nan,nan,nan,77.6296764,12.9333708
+37450483,residential,False,False,27.682,nan,5th Cross Road,nan,nan,nan,nan,nan,77.62968256486222,12.93357808409333
+37786363,residential,False,False,60.249,nan,11th Main Road,nan,nan,nan,nan,nan,77.62996559165173,12.933699657672069
+37786354,residential,False,False,37.554,nan,8th Cross Road,nan,nan,nan,nan,nan,77.63420385,12.93425585
+309079083,residential,False,False,53.318,nan,8th Cross Road,nan,nan,nan,nan,nan,77.6339955,12.933902849999999
+37786354,residential,False,False,19.899,nan,8th Cross Road,nan,nan,nan,nan,nan,77.6345652,12.93464845
+37786354,residential,False,True,30.501,nan,8th Cross Road,nan,nan,nan,nan,nan,77.6343954,12.934498
+37786354,residential,False,True,17.977,nan,8th Cross Road,nan,nan,nan,nan,nan,77.63514185551507,12.934842296717736
+655807585,residential,False,False,172.15699999999998,nan,nan,nan,nan,nan,nan,nan,77.63551727108295,12.934536794328555
+37786354,residential,False,False,17.838,nan,8th Cross Road,nan,nan,nan,nan,nan,77.63472250000001,12.934718599999998
+37786354,residential,False,True,19.899,nan,8th Cross Road,nan,nan,nan,nan,nan,77.6345652,12.93464845
+27785841,residential,False,False,45.398,nan,8th A Main Road,nan,nan,nan,nan,nan,77.63070830000001,12.93048485
+27785841,residential,False,True,66.479,nan,8th A Main Road,nan,nan,nan,nan,nan,77.6309832,12.930910449999999
+37786361,residential,False,False,44.312,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.6306251,12.930735799999999
+37786361,residential,False,True,38.079,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.63098174999999,12.9306084
+37786361,residential,False,False,35.018,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.630019,12.9310692
+37786361,residential,False,True,36.544,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.6302854,12.93088525
+37786367,residential,False,False,72.588,nan,9th Main Road,nan,nan,nan,nan,nan,77.63031645000001,12.931234100000001
+37786361,residential,False,False,39.415,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.6298105,12.931331349999999
+37786361,residential,False,True,35.018,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.630019,12.9310692
+37786366,residential,False,True,73.302,nan,9th A Main,nan,nan,nan,nan,nan,77.63008909999999,12.93145385
+27785830,residential,False,False,45.5,nan,10th Main Road,nan,nan,nan,nan,nan,77.6295749,12.9313344
+27785830,residential,False,True,31.817,nan,10th Main Road,nan,nan,nan,nan,nan,77.62981825,12.9315886
+37786361,residential,False,True,39.415,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.6298105,12.931331349999999
+37786361,residential,False,False,148.461,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.62941580365586,12.932083051637912
+27785777,residential,False,False,41.056,nan,12th Main Road,nan,nan,nan,nan,nan,77.62817960000001,12.93334585
+27785777,residential,False,True,32.926,nan,12th Main Road,nan,nan,nan,nan,nan,77.6284468,12.93355285
+37786361,residential,False,True,120.457,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.62869825,12.93305685
+27785777,residential,False,False,32.926,nan,12th Main Road,nan,nan,nan,nan,nan,77.6284468,12.93355285
+27785777,residential,False,True,38.606,nan,12th Main Road,nan,nan,nan,nan,nan,77.62870515,12.933753
+37786362,residential,False,False,43.08,nan,4th Cross Road,nan,nan,nan,nan,nan,77.6286987,12.93350105
+37786362,residential,False,False,149.988,nan,4th Cross Road,nan,nan,nan,nan,nan,77.62958914999999,12.932286399999999
+37786362,residential,False,True,36.483,nan,4th Cross Road,nan,nan,nan,nan,nan,77.6291543,12.933007350000002
+37786363,residential,False,False,35.13,nan,11th Main Road,nan,nan,nan,nan,nan,77.62936725,12.932997949999999
+37786363,residential,False,True,32.63,nan,11th Main Road,nan,nan,nan,nan,nan,77.62916425,12.9327663
+37786361,residential,False,False,120.457,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.62869825,12.93305685
+37786363,residential,False,False,32.63,nan,11th Main Road,nan,nan,nan,nan,nan,77.62916425,12.9327663
+37786363,residential,False,True,42.608,nan,11th Main Road,nan,nan,nan,nan,nan,77.6289324,12.932514850000002
+37786361,residential,False,True,148.461,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.62941580365589,12.932083051637914
+27785841,residential,False,False,66.479,nan,8th A Main Road,nan,nan,nan,nan,nan,77.6309832,12.930910449999999
+27785841,residential,False,True,79.673,nan,8th A Main Road,nan,nan,nan,nan,nan,77.6313423,12.931466550000001
+37786364,residential,False,False,44.985,nan,4th A Cross Road,nan,nan,nan,nan,nan,77.63096545,12.93124895
+37786364,residential,False,False,34.757,nan,4th A Cross Road,nan,nan,nan,nan,nan,77.63019944999999,12.931866699999999
+37786364,residential,False,True,34.389,nan,4th A Cross Road,nan,nan,nan,nan,nan,77.63038655,12.931618749999998
+37786366,residential,False,False,73.302,nan,9th A Main,nan,nan,nan,nan,nan,77.63008909999999,12.93145385
+37786366,residential,False,True,105.272,nan,9th A Main,nan,nan,nan,nan,nan,77.63055729999999,12.9321144
+27785830,residential,False,False,41.134,nan,10th Main Road,nan,nan,nan,nan,nan,77.630021,12.931848800000001
+27785830,residential,False,True,56.249,nan,10th Main Road,nan,nan,nan,nan,nan,77.63026395,12.93221715
+37786364,residential,False,False,54.319,nan,4th A Cross Road,nan,nan,nan,nan,nan,77.63000215,12.93221805
+37786364,residential,False,True,34.757,nan,4th A Cross Road,nan,nan,nan,nan,nan,77.63019944999999,12.931866699999999
+37786363,residential,False,False,17.714,nan,11th Main Road,nan,nan,nan,nan,nan,77.6295236,12.93318005
+37786363,residential,False,True,35.13,nan,11th Main Road,nan,nan,nan,nan,nan,77.62936725,12.932997949999999
+37786364,residential,False,True,64.008,nan,4th A Cross Road,nan,nan,nan,nan,nan,77.62963065,12.93287195
+37786363,residential,False,False,36.109,nan,11th Main Road,nan,nan,nan,nan,nan,77.6296764,12.9333708
+37786363,residential,False,True,17.714,nan,11th Main Road,nan,nan,nan,nan,nan,77.6295236,12.93318005
+37786365,residential,False,False,67.846,nan,4th B Cross Road,nan,nan,nan,nan,nan,77.62979985000001,12.933034000000001
+27785830,residential,False,False,56.249,nan,10th Main Road,nan,nan,nan,nan,nan,77.63026395,12.93221715
+27785830,residential,False,True,41.107,nan,10th Main Road,nan,nan,nan,nan,nan,77.63050675,12.932585450000001
+37786365,residential,False,True,35.635,nan,4th B Cross Road,nan,nan,nan,nan,nan,77.6302884,12.93254355
+37450483,residential,False,False,36.622,nan,5th Cross Road,nan,nan,nan,nan,nan,77.63072425,12.932620400000001
+37450483,residential,False,True,31.082,nan,5th Cross Road,nan,nan,nan,nan,nan,77.63093695,12.93239745
+37786366,residential,False,False,105.272,nan,9th A Main,nan,nan,nan,nan,nan,77.63055729999999,12.9321144
+37450483,residential,False,False,31.082,nan,5th Cross Road,nan,nan,nan,nan,nan,77.63093695,12.93239745
+37450483,residential,False,True,38.176,nan,5th Cross Road,nan,nan,nan,nan,nan,77.63115455,12.932169399999998
+37786367,residential,False,True,105.046,nan,9th Main Road,nan,nan,nan,nan,nan,77.63076620000001,12.931901799999999
+37786364,residential,False,False,34.389,nan,4th A Cross Road,nan,nan,nan,nan,nan,77.63038655,12.931618749999998
+37786364,residential,False,True,35.903,nan,4th A Cross Road,nan,nan,nan,nan,nan,77.63063840000001,12.931423149999999
+37786367,residential,False,False,105.046,nan,9th Main Road,nan,nan,nan,nan,nan,77.63076620000001,12.931901799999999
+37786367,residential,False,True,72.588,nan,9th Main Road,nan,nan,nan,nan,nan,77.63031645000001,12.931234100000001
+37450483,residential,False,False,38.176,nan,5th Cross Road,nan,nan,nan,nan,nan,77.63115455,12.932169399999998
+37450483,residential,False,True,41.098,nan,5th Cross Road,nan,nan,nan,nan,nan,77.6314036,12.93190835
+37786368,residential,False,False,95.104,nan,8th B Main Road,nan,nan,nan,nan,nan,77.63102675000002,12.93169075
+37786361,residential,False,False,36.544,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.6302854,12.93088525
+37786361,residential,False,True,44.312,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.6306251,12.930735799999999
+37786368,residential,False,True,69.413,nan,8th B Main Road,nan,nan,nan,nan,nan,77.63060735,12.931074299999999
+37786364,residential,False,False,35.903,nan,4th A Cross Road,nan,nan,nan,nan,nan,77.63063840000001,12.931423149999999
+37786364,residential,False,True,44.985,nan,4th A Cross Road,nan,nan,nan,nan,nan,77.63096545,12.93124895
+37786368,residential,False,False,69.413,nan,8th B Main Road,nan,nan,nan,nan,nan,77.63060735,12.931074299999999
+37786368,residential,False,True,95.104,nan,8th B Main Road,nan,nan,nan,nan,nan,77.63102675000002,12.93169075
+37450483,residential,False,False,37.961,nan,5th Cross Road,nan,nan,nan,nan,nan,77.6316711,12.9316684
+37450483,residential,False,True,35.53,nan,5th Cross Road,nan,nan,nan,nan,nan,77.63194010000001,12.93146725
+37786369,residential,False,False,132.973,nan,nan,nan,nan,nan,nan,nan,77.63147925,12.9310599
+37786361,residential,False,False,38.079,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.63098174999999,12.9306084
+37786361,residential,False,True,42.992,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.63134115,12.93050805
+37786369,residential,False,True,132.973,nan,nan,nan,nan,nan,nan,nan,77.63147925,12.9310599
+37450483,residential,False,True,41.054,nan,5th Cross Road,nan,nan,nan,nan,nan,77.63253135,12.9304083
+37450483,residential,False,False,98.392,nan,5th Cross Road,nan,nan,nan,nan,nan,77.6322872994541,12.93098798808106
+37786361,residential,False,False,102.8,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.63199987793762,12.930474805484858
+37786361,residential,False,False,42.992,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.63134115,12.93050805
+37786370,residential,False,True,116.809,nan,7th A Main Road,nan,nan,nan,nan,nan,77.631802,12.9309154
+37786361,residential,False,True,102.8,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.63199987793762,12.930474805484858
+27931530,residential,False,True,203.22400000000002,nan,1st A Cross Road,nan,nan,nan,nan,nan,77.62706864569424,12.932777674072883
+38767929,residential,False,False,71.885,nan,7th Main Road,nan,nan,nan,nan,nan,77.61738065,12.9462709
+38767931,residential,False,False,20.558,nan,nan,nan,nan,nan,nan,nan,77.61756775,12.9465364
+27785752,residential,False,True,153.523,nan,4th Cross Road,nan,nan,nan,nan,nan,77.62229554999999,12.928769100000002
+1110164319,primary,True,False,56.049,2,Mahayogi Vemana Road,nan,nan,nan,nan,nan,77.6215556,12.92882105
+27785717,residential,False,True,152.368,nan,5th Cross Road,nan,nan,nan,nan,nan,77.62249575,12.929253699999999
+1110164319,primary,True,False,55.755,2,Mahayogi Vemana Road,nan,nan,nan,nan,nan,77.62174925,12.929286999999999
+27785750,residential,False,True,154.954,nan,2nd Cross Road,nan,nan,nan,nan,nan,77.62191545,12.9278421
+1110164319,primary,True,False,58.908,2,Mahayogi Vemana Road,nan,nan,nan,nan,nan,77.62116340413857,12.927882195079665
+28125818,residential,False,False,52.676,nan,7th C Cross Road,nan,nan,nan,nan,nan,77.6233237,12.932616150000001
+28186938,residential,False,True,53.274,nan,16th B Main Road,nan,nan,nan,nan,nan,77.62345509999999,12.93229865
+28125818,residential,False,True,16.459,nan,7th C Cross Road,nan,nan,nan,nan,nan,77.62361373866096,12.932487858948596
+27674078,residential,False,False,43.545,nan,16th C Main Road,nan,nan,nan,nan,nan,77.62582365,12.9355484
+27674078,residential,False,True,131.47,nan,16th C Main Road,nan,nan,nan,nan,nan,77.62644,12.9360568
+27785786,residential,False,False,65.379,nan,4th Cross Road,nan,nan,nan,nan,nan,77.62575955,12.93588015
+27785786,residential,False,True,54.105999999999995,nan,4th Cross Road,nan,nan,nan,nan,nan,77.62618501693221,12.935542375461017
+27789866,residential,False,False,150.338,nan,5th Main Road,nan,nan,nan,nan,nan,77.6345482,12.9264102
+27789866,residential,False,True,210.494,nan,5th Main Road,nan,nan,nan,nan,nan,77.634371,12.9280235
+27790791,residential,False,False,48.652,nan,5th Cross Road,nan,nan,nan,nan,nan,77.63469235,12.927131750000003
+27790791,residential,False,True,72.535,nan,5th Cross Road,nan,nan,nan,nan,nan,77.6341468,12.927012550000002
+27790751,residential,False,False,56.243,nan,4th Main Road,nan,nan,nan,nan,nan,77.63495019999999,12.9269312
+27790751,residential,False,True,109.492,nan,4th Main Road,nan,nan,nan,nan,nan,77.63485825000001,12.92767085
+27790791,residential,False,False,166.599,nan,5th Cross Road,nan,nan,nan,nan,nan,77.63567155,12.9272894
+27790791,residential,False,True,48.652,nan,5th Cross Road,nan,nan,nan,nan,nan,77.63469235,12.927131750000003
+27785711,residential,False,False,159.604,nan,2nd Cross Road,nan,nan,nan,nan,nan,77.62613165,12.926363550000001
+27785711,residential,False,True,210.248,nan,2nd Cross Road,nan,nan,nan,nan,nan,77.62455975,12.92701055
+269436421,residential,False,False,81.656,nan,13th Main Road,nan,nan,nan,nan,nan,77.62557405000001,12.9269905
+269436421,residential,False,True,88.102,nan,13th Main Road,nan,nan,nan,nan,nan,77.62532375,12.9262672
+28186705,tertiary,False,True,157.92,nan,6th Cross Road,nan,nan,nan,nan,nan,77.62306145,12.938842399999999
+52011735,residential,False,True,40.568,nan,nan,nan,nan,nan,nan,nan,77.62271915,12.93949855
+28186705,tertiary,False,False,48.13,nan,6th Cross Road,nan,nan,nan,nan,nan,77.62243564147516,12.939539839229814
+133243148,residential,False,True,48.921,nan,nan,nan,nan,nan,nan,nan,77.61763255,12.9421669
+759024337,residential,False,True,30.81,nan,nan,nan,nan,nan,nan,nan,77.61784685,12.9422801
+759024337,residential,False,False,118.337,nan,nan,nan,nan,nan,nan,nan,77.61830015237321,12.942097891912674
+32316412,residential,False,True,44.443,nan,2nd C Main Road,nan,nan,nan,nan,nan,77.61768325,12.9429981
+759024337,residential,False,False,31.342,nan,nan,nan,nan,nan,nan,nan,77.61785935,12.9428304
+995124322,residential,False,True,59.883,nan,nan,nan,nan,nan,nan,nan,77.6179238,12.94323565
+759024336,residential,False,False,15.035,nan,2nd C Main Road,nan,nan,nan,nan,nan,77.6186938,12.94233805
+53144638,residential,False,False,88.53399999999999,nan,nan,nan,nan,nan,nan,nan,77.6187035356439,12.942800602116264
+"[759024336, 759024338, 53144637]","['residential', 'living_street']",False,"[False, True]",137.915,nan,2nd C Main Road,nan,nan,nan,nan,nan,77.61848959369443,12.9427741970432
+759024336,residential,False,True,15.035,nan,2nd C Main Road,nan,nan,nan,nan,nan,77.6186938,12.94233805
+759024336,residential,False,False,72.461,nan,2nd C Main Road,nan,nan,nan,nan,nan,77.61901705047539,12.94226457355061
+759024337,residential,False,True,118.337,nan,nan,nan,nan,nan,nan,nan,77.61830015237324,12.94209789191268
+32315624,residential,False,True,7.97,nan,Basavalla Temple Road,nan,nan,nan,nan,nan,77.61967784999999,12.9422308
+759024336,residential,False,True,37.272,nan,2nd C Main Road,nan,nan,nan,nan,nan,77.61952325,12.9422601
+32315624,residential,False,False,63.492999999999995,nan,Basavalla Temple Road,nan,nan,nan,nan,nan,77.61976329308871,12.942525156048298
+53144637,residential,False,False,64.649,nan,nan,nan,nan,nan,nan,nan,77.6193569,12.94254845
+759024336,residential,False,False,37.272,nan,2nd C Main Road,nan,nan,nan,nan,nan,77.61952325,12.9422601
+759024336,residential,False,True,72.461,nan,2nd C Main Road,nan,nan,nan,nan,nan,77.61901705047539,12.94226457355061
+53144637,residential,False,True,64.649,nan,nan,nan,nan,nan,nan,nan,77.6193569,12.94254845
+53144637,residential,False,False,67.54299999999999,nan,nan,nan,nan,nan,nan,nan,77.61911915404531,12.943017221238241
+995124323,residential,False,True,35.775999999999996,nan,nan,nan,nan,nan,nan,nan,77.619399908291,12.942992868501337
+53144637,residential,False,True,25.713,nan,nan,nan,nan,nan,nan,nan,77.61877245,12.9431852
+"[759024336, 759024338, 53144637]","['residential', 'living_street']",False,"[False, True]",137.915,nan,2nd C Main Road,nan,nan,nan,nan,nan,77.61848959369443,12.9427741970432
+53144638,residential,False,True,88.53399999999999,nan,nan,nan,nan,nan,nan,nan,77.6187035356439,12.942800602116264
+55341777,residential,False,True,43.112,nan,nan,nan,nan,nan,nan,nan,77.6204003,12.9436167
+55491839,residential,False,True,167.36599999999999,nan,7th C Main Road,nan,nan,nan,nan,nan,77.63168428029311,12.925440164851835
+38767929,residential,False,False,18.878,nan,7th Main Road,nan,nan,nan,nan,nan,77.61704280000001,12.9452466
+38767929,residential,False,True,20.471,nan,7th Main Road,nan,nan,nan,nan,nan,77.6171025,12.945413649999999
+82121110,residential,False,False,20.649,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.61715745000001,12.9452917
+32316011,residential,False,True,29.863,nan,nan,nan,nan,nan,nan,nan,77.6181993,12.94505675
+82121110,residential,False,True,25.214,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.61804085,12.94494805
+32316011,residential,False,False,85.69500000000001,nan,nan,nan,nan,nan,nan,nan,77.61806386725098,12.944554588060411
+32315927,residential,False,False,50.738,nan,Main Road,nan,nan,nan,nan,nan,77.61901424999998,12.9446555
+759024328,residential,False,False,27.32,nan,nan,nan,nan,nan,nan,nan,77.61919795,12.94482245
+32315927,residential,False,True,52.915,nan,Main Road,nan,nan,nan,nan,nan,77.61915156748361,12.945101944785847
+"[759024328, 213065268]",residential,False,"[False, True]",97.827,nan,nan,nan,nan,nan,nan,nan,77.6188032255267,12.944775856571255
+32315927,residential,False,False,29.74,nan,Main Road,nan,nan,nan,nan,nan,77.6188677,12.9440797
+32315927,residential,False,True,25.825,nan,Main Road,nan,nan,nan,nan,nan,77.61892415,12.9443232
+759024332,residential,False,True,97.82300000000001,nan,nan,nan,nan,nan,nan,nan,77.61933768916586,12.944099311157851
+32315927,residential,False,False,55.391,nan,Main Road,nan,nan,nan,nan,nan,77.61878544999999,12.94370565
+32315927,residential,False,True,29.74,nan,Main Road,nan,nan,nan,nan,nan,77.6188677,12.9440797
+55341778,residential,False,True,62.448,nan,nan,nan,nan,nan,nan,nan,77.6191125,12.9438851
+53723144,residential,False,False,32.744,nan,2nd Main Road,nan,nan,nan,nan,nan,77.61981485,12.944071749999999
+213065239,residential,False,True,33.945,nan,2nd Main Road,nan,nan,nan,nan,nan,77.61969005,12.943797649999999
+759024332,residential,False,False,97.82300000000001,nan,nan,nan,nan,nan,nan,nan,77.61933768916586,12.944099311157851
+55341778,residential,False,False,62.448,nan,nan,nan,nan,nan,nan,nan,77.6191125,12.9438851
+"[213072296, 53723145]",residential,False,"[False, True]",200.37800000000001,nan,nan,nan,nan,nan,nan,nan,77.62073451070393,12.94307782032278
+213065298,residential,False,False,56.387,nan,nan,nan,nan,nan,nan,nan,77.62012766750141,12.942426638047397
+"[213065298, 759024334]",residential,False,"[False, True]",102.521,nan,nan,nan,nan,nan,nan,nan,77.62065275330211,12.942002640065864
+55341781,residential,False,False,29.19,nan,nan,nan,nan,nan,nan,nan,77.62133145,12.94249185
+1185482220,residential,False,True,37.077,nan,8th Cross Road,nan,nan,nan,nan,nan,77.62135219999999,12.94229765
+1198900341,residential,False,False,20.532,nan,8th Cross Road,nan,nan,nan,nan,nan,77.62114865,12.9424635
+213065281,residential,False,True,120.202,nan,nan,nan,nan,nan,nan,nan,77.62119154113158,12.942000131985989
+1185482220,residential,False,False,37.077,nan,8th Cross Road,nan,nan,nan,nan,nan,77.62135219999999,12.94229765
+55341780,residential,False,False,116.94900000000001,nan,nan,nan,nan,nan,nan,nan,77.6218857594247,12.942529966561228
+213065233,residential,False,False,50.308,nan,8th Cross Road,nan,nan,nan,nan,nan,77.6216368163545,12.942019765645735
+269436421,residential,False,False,88.102,nan,13th Main Road,nan,nan,nan,nan,nan,77.62532375,12.9262672
+631197284,tertiary,True,False,157.842,nan,Sarjapura Road,nan,nan,nan,nan,nan,77.62586519999999,12.925615950000001
+27785748,residential,False,True,228.552,nan,17th Main Road,nan,nan,nan,nan,nan,77.62329034999999,12.92781595
+631197284,tertiary,True,False,55.748,nan,Sarjapura Road,nan,nan,nan,nan,nan,77.62317025,12.926753349999998
+111996868,residential,False,False,73.129,nan,Green Leaf Layout,nan,nan,nan,nan,nan,77.62936924892242,12.935231203344129
+125203388,residential,False,True,110.81700000000001,nan,nan,nan,nan,nan,nan,nan,77.62671434547993,12.94115231163764
+125203384,residential,False,False,89.408,nan,nan,nan,nan,nan,nan,nan,77.62624315,12.94088005
+223863606,residential,False,False,37.284,nan,Sri Rama Temple Road,nan,nan,nan,nan,nan,77.62633414999999,12.940514799999997
+223863606,residential,False,True,31.366,nan,Sri Rama Temple Road,nan,nan,nan,nan,nan,77.62663428989865,12.940612962958605
+125203385,residential,False,True,115.413,nan,nan,nan,nan,nan,nan,nan,77.62644044999999,12.941072250000001
+125203384,residential,False,True,89.408,nan,nan,nan,nan,nan,nan,nan,77.62624315,12.94088005
+223863606,residential,False,False,17.948,nan,Sri Rama Temple Road,nan,nan,nan,nan,nan,77.6268474,12.940690549999998
+125203388,residential,False,False,110.81700000000001,nan,nan,nan,nan,nan,nan,nan,77.62671434547993,12.941152311637639
+125203390,residential,False,False,54.115,nan,nan,nan,nan,nan,nan,nan,77.6260199,12.9406599
+223863606,residential,False,True,37.284,nan,Sri Rama Temple Road,nan,nan,nan,nan,nan,77.62633414999999,12.940514799999997
+223863606,residential,False,False,33.535,nan,Sri Rama Temple Road,nan,nan,nan,nan,nan,77.62602607715836,12.940411149359262
+125203390,residential,False,True,54.115,nan,nan,nan,nan,nan,nan,nan,77.6260199,12.9406599
+1093767708,residential,False,False,35.792,nan,nan,nan,nan,nan,nan,nan,77.62577855,12.9404647
+223863606,residential,False,False,28.714,nan,Sri Rama Temple Road,nan,nan,nan,nan,nan,77.62579033957812,12.940257052676039
+223863606,residential,False,True,33.535,nan,Sri Rama Temple Road,nan,nan,nan,nan,nan,77.62602607715837,12.940411149359266
+125203385,residential,False,False,115.413,nan,nan,nan,nan,nan,nan,nan,77.62644044999999,12.941072250000001
+223863606,residential,False,True,17.948,nan,Sri Rama Temple Road,nan,nan,nan,nan,nan,77.6268474,12.940690549999998
+223863606,residential,False,False,31.366,nan,Sri Rama Temple Road,nan,nan,nan,nan,nan,77.62663428989865,12.940612962958605
+129733583,residential,False,True,17.97,nan,nan,nan,nan,nan,nan,nan,77.6383247,12.927104350000002
+133524200,residential,False,True,26.689,nan,1st C Main Road,nan,nan,nan,nan,nan,77.63849575,12.92699245
+558765535,residential,False,False,100.817,nan,1st B Main Road,nan,nan,nan,nan,nan,77.63832035,12.92661305
+129733583,residential,False,False,5.863,nan,nan,nan,nan,nan,nan,nan,77.6377362,12.92737715
+24299079,tertiary,False,False,26.359,nan,1st Main Road,nan,nan,nan,nan,nan,77.63774254167119,12.927265863207424
+24299079,tertiary,False,True,31.759999999999998,nan,1st Main Road,nan,nan,nan,nan,nan,77.63760856217543,12.927478106903987
+558765535,residential,False,True,152.472,nan,1st B Main Road,nan,nan,nan,nan,nan,77.63813425000001,12.92548865
+1246426789,primary,True,False,24.686,2,Sarjapura Road,nan,nan,nan,nan,nan,77.63811785,12.92475155
+32316489,residential,False,False,53.395,nan,nan,nan,nan,nan,nan,nan,77.61738424999999,12.94195295
+133243148,residential,False,False,48.921,nan,nan,nan,nan,nan,nan,nan,77.61763255,12.9421669
+32316489,residential,False,True,27.862000000000002,nan,nan,nan,nan,nan,nan,nan,77.61742254073901,12.942316398187879
+28186784,tertiary,False,True,8.726,2,18th Main Road,nan,nan,nan,nan,nan,77.6241222,12.9412308
+28186784,tertiary,False,False,46.451,2,18th Main Road,nan,nan,nan,nan,nan,77.6239334873657,12.941064364049847
+1124616640,secondary,True,False,193.916,2,Srinivagilu Main Road,nan,nan,nan,nan,nan,77.62345039678658,12.941814745323862
+784730134,residential,False,False,131.021,nan,1st C Main Road,nan,nan,nan,nan,nan,77.6387067,12.92501555
+1246426789,primary,True,False,39.522,2,Sarjapura Road,nan,nan,nan,nan,nan,77.6387797,12.924365900000002
+133524199,tertiary,False,True,9.749,nan,Sarjapura Road,8,nan,nan,30,nan,77.63359195000001,12.924997300000001
+1110178620,secondary,True,False,13.847,2,80 Feet Road,nan,nan,nan,nan,nan,77.6336467,12.92494255
+133524199,tertiary,False,False,321.26399999999995,nan,Sarjapura Road,8,nan,nan,30,nan,77.63510034161904,12.925229736782521
+24299079,tertiary,False,False,10.136,nan,1st Main Road,nan,nan,nan,nan,nan,77.63739985000001,12.925211350000001
+24299079,tertiary,False,True,68.743,nan,1st Main Road,nan,nan,nan,nan,nan,77.6374479,12.9255629
+133524199,tertiary,False,True,49.183,nan,Sarjapura Road,8,nan,nan,30,nan,77.63719499999999,12.92534165
+133524199,tertiary,False,False,49.183,nan,Sarjapura Road,8,nan,nan,30,nan,77.63719499999999,12.92534165
+27789870,residential,False,True,65.926,nan,2nd Main Road,nan,nan,nan,nan,nan,77.63700071111532,12.925722667208499
+133524199,tertiary,False,True,46.095,nan,Sarjapura Road,8,nan,nan,30,nan,77.63677578704953,12.92545448283444
+133524200,residential,False,False,47.979,nan,1st C Main Road,nan,nan,nan,nan,nan,77.63878057411834,12.926803639552364
+309618865,residential,False,False,31.328000000000003,nan,nan,nan,nan,nan,nan,nan,77.63910020569024,12.926632145269389
+784730134,residential,False,True,122.796,nan,1st C Main Road,nan,nan,nan,nan,nan,77.63888524646583,12.926143500537387
+1159872649,primary,True,False,85.237,2,Mahayogi Vemana Road,nan,nan,nan,nan,nan,77.62324770000001,12.93306685
+24299079,tertiary,False,True,88.091,nan,1st Main Road,nan,nan,nan,nan,nan,77.63722659999999,12.927867550000002
+148986967,residential,False,True,54.723,nan,nan,nan,nan,nan,nan,nan,77.63734489999999,12.9273882
+24299079,tertiary,False,False,31.759999999999998,nan,1st Main Road,nan,nan,nan,nan,nan,77.63760856217543,12.927478106903987
+310456200,residential,False,True,64.904,nan,nan,nan,nan,nan,nan,nan,77.63766492567935,12.927824314690564
+1159872649,primary,True,False,133.176,2,Mahayogi Vemana Road,nan,nan,nan,nan,nan,77.62364389999999,12.9339697
+613849755,residential,False,False,45.833,nan,7th A Main Road,nan,nan,nan,nan,nan,77.63274709999999,12.925636149999999
+164352045,residential,False,False,76.17399999999999,nan,nan,nan,nan,nan,nan,nan,77.63310209217171,12.925865759125198
+"[164352045, 1125892158]",residential,False,"[False, True]",165.057,nan,7th B Main Road,nan,nan,nan,nan,nan,77.63235866167805,12.925457600098156
+164352045,residential,False,True,76.17399999999999,nan,nan,nan,nan,nan,nan,nan,77.63310209217171,12.925865759125198
+1110178624,secondary,True,False,114.67699999999999,2,80 Feet Road,nan,nan,nan,nan,nan,77.63340179178174,12.926403653942074
+376782173,residential,False,False,10.599,nan,nan,nan,nan,nan,nan,nan,77.63340395,12.92691945
+233244507,residential,False,False,48.899,nan,nan,nan,nan,nan,nan,nan,77.63312987367968,12.926904866660777
+1110178624,secondary,True,False,321.542,2,80 Feet Road,nan,nan,nan,nan,nan,77.63321929114583,12.928356961524756
+1311812958,tertiary,False,False,13.563,2,8th Main Road,nan,6.1,nan,nan,nan,77.6282748,12.9245596
+1159872650,tertiary,False,True,87.943,2,8th Main Road,nan,6.1,nan,nan,nan,77.62842265237684,12.924992549213329
+457214835,tertiary,True,False,49.778,2,Sarjapura Road,nan,nan,nan,nan,nan,77.63250319999999,12.92480835
+613849755,residential,False,True,65.452,nan,7th A Main Road,nan,nan,nan,nan,nan,77.6327365,12.92513585
+133903616,secondary,True,False,46.078,2,80 Feet Road,nan,nan,nan,nan,nan,77.62950808019043,12.93465141944453
+164570822,residential,False,True,48.518,nan,1st A Cross,nan,nan,nan,nan,nan,77.62957796789645,12.934874975082984
+164570822,residential,False,False,48.518,nan,1st A Cross,nan,nan,nan,nan,nan,77.62957796789645,12.934874975082984
+133903616,secondary,True,False,12.59,2,80 Feet Road,nan,nan,nan,nan,nan,77.6287495,12.93544165
+164570824,residential,False,True,30.429000000000002,nan,"1st Cross, Green Leaf Extension",nan,nan,nan,nan,nan,77.62873541433697,12.935605048432453
+164570823,residential,False,False,91.482,nan,nan,nan,nan,nan,nan,nan,77.6291883538619,12.935526087838701
+164570821,residential,False,True,89.577,nan,nan,nan,nan,nan,nan,nan,77.62910255,12.935849600000001
+164570824,residential,False,False,30.429000000000002,nan,"1st Cross, Green Leaf Extension",nan,nan,nan,nan,nan,77.62873541433697,12.935605048432453
+164570824,residential,False,True,120.89999999999999,nan,"1st Cross, Green Leaf Extension",nan,nan,nan,nan,nan,77.62887404733195,12.93608401170681
+164570821,residential,False,False,89.577,nan,nan,nan,nan,nan,nan,nan,77.62910255,12.935849600000001
+164570824,residential,False,False,120.89999999999999,nan,"1st Cross, Green Leaf Extension",nan,nan,nan,nan,nan,77.62887404733195,12.93608401170681
+400701854,residential,False,False,57.964,nan,"Temple Trees Rd, Cauvery Colony",nan,nan,nan,nan,nan,77.63582779999999,12.93296945
+400701854,residential,False,True,100.119,nan,"Temple Trees Rd, Cauvery Colony",nan,nan,nan,nan,nan,77.63621789999999,12.9335698
+400701859,residential,False,False,148.414,nan,nan,nan,nan,nan,nan,nan,77.63655904999999,12.932864949999999
+"[400701859, 165510271]",residential,False,True,159.641,nan,"Temole Trees Road,Cauvery Colony",nan,nan,nan,nan,nan,77.63587210025126,12.933692769653783
+"[400701859, 165510271]",residential,False,False,159.641,nan,"Temole Trees Road,Cauvery Colony",nan,nan,nan,nan,nan,77.63587210025126,12.933692769653783
+400701854,residential,False,False,100.119,nan,"Temple Trees Rd, Cauvery Colony",nan,nan,nan,nan,nan,77.63621789999999,12.9335698
+695012909,residential,False,True,63.34,nan,"Temple Trees Road, Cauvery Colony",nan,nan,nan,nan,nan,77.63384554999999,12.932580900000001
+778744507,residential,False,False,26.995,nan,nan,nan,nan,nan,nan,nan,77.63398265000001,12.93224065
+784730133,residential,False,False,79.103,nan,"Temple Trees Road, Cauvery Colony",nan,nan,nan,nan,nan,77.63391519999999,12.93194405
+695012909,residential,False,False,63.34,nan,"Temple Trees Road, Cauvery Colony",nan,nan,nan,nan,nan,77.63384554999999,12.932580900000001
+400701854,residential,False,False,78.928,nan,"Temple Trees Rd, Cauvery Colony",nan,nan,nan,nan,nan,77.6352497,12.931983249999998
+400701854,residential,False,True,57.88,nan,"Temple Trees Rd, Cauvery Colony",nan,nan,nan,nan,nan,77.63555615,12.93252085
+400701863,residential,False,True,187.368,nan,nan,nan,nan,nan,nan,nan,77.63468409926416,12.932498393451423
+166750578,residential,False,True,40.784,nan,nan,nan,nan,nan,nan,nan,77.61764525000001,12.942709
+759024337,residential,False,False,30.427,nan,nan,nan,nan,nan,nan,nan,77.61783475,12.9425551
+759024337,residential,False,True,31.342,nan,nan,nan,nan,nan,nan,nan,77.61785935,12.9428304
+32316489,residential,False,False,8.361,nan,nan,nan,nan,nan,nan,nan,77.61745450000001,12.942688650000001
+32316489,residential,False,True,33.581,nan,nan,nan,nan,nan,nan,nan,77.61746915,12.9428767
+166750578,residential,False,False,40.784,nan,nan,nan,nan,nan,nan,nan,77.61764525000001,12.942709
+1357130528,secondary,True,False,28.218,nan,80 Feet Road,nan,nan,nan,nan,nan,77.62113074999999,12.941345250000001
+213057086,residential,False,True,256.517,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.620052773624,12.94128969601216
+32315624,residential,False,True,20.976,nan,Basavalla Temple Road,nan,nan,nan,nan,nan,77.618915,12.941502999999999
+32315624,residential,False,False,66.14399999999999,nan,Basavalla Temple Road,nan,nan,nan,nan,nan,77.61925139747379,12.941710091885737
+213057086,residential,False,False,256.517,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.620052773624,12.941289696012163
+32315624,residential,False,False,20.976,nan,Basavalla Temple Road,nan,nan,nan,nan,nan,77.618915,12.941502999999999
+32315624,residential,False,True,21.403,nan,Basavalla Temple Road,nan,nan,nan,nan,nan,77.6187664,12.94138575
+213065282,residential,False,True,32.257,nan,nan,nan,nan,nan,nan,nan,77.6187153719231,12.941551604991938
+1278123719,secondary,True,False,41.001,nan,80 Feet Road,nan,nan,nan,nan,nan,77.6216473,12.94173945
+213065281,residential,False,False,120.202,nan,nan,nan,nan,nan,nan,nan,77.62119154113157,12.942000131985989
+213065282,residential,False,False,8.233,nan,nan,nan,nan,nan,nan,nan,77.61854915,12.941624749999999
+213065282,residential,False,True,37.011,nan,nan,nan,nan,nan,nan,nan,77.61834295,12.94165265
+1205118819,residential,False,True,17.269,nan,nan,nan,nan,nan,nan,nan,77.61852948251965,12.94171050391133
+213065282,residential,False,False,37.011,nan,nan,nan,nan,nan,nan,nan,77.61834295,12.94165265
+213065233,residential,False,False,7.985,nan,8th Cross Road,nan,nan,nan,nan,nan,77.6218187,12.94182675
+213065233,residential,False,True,50.308,nan,8th Cross Road,nan,nan,nan,nan,nan,77.6216368163545,12.942019765645735
+1278123719,secondary,True,False,122.126,nan,80 Feet Road,nan,nan,nan,nan,nan,77.62224128188393,12.942189820294583
+213065298,residential,False,False,55.025,nan,nan,nan,nan,nan,nan,nan,77.62017935,12.94283965
+546489523,residential,False,True,41.219,nan,nan,nan,nan,nan,nan,nan,77.61988339999999,12.942706900000003
+213065298,residential,False,True,56.387,nan,nan,nan,nan,nan,nan,nan,77.62012766750141,12.942426638047397
+213065291,residential,False,True,30.103,nan,nan,nan,nan,nan,nan,nan,77.62051445,12.94341765
+213065298,residential,False,True,31.258,nan,nan,nan,nan,nan,nan,nan,77.62037624999999,12.94317685
+213065291,residential,False,False,57.80200000000001,nan,nan,nan,nan,nan,nan,nan,77.62020439020084,12.94340564185653
+213065234,residential,False,False,48.309,nan,nan,nan,nan,nan,nan,nan,77.61830564999998,12.943692
+487960213,residential,False,False,17.992,nan,Lakshmi Devi Temple Road,nan,nan,nan,nan,nan,77.61818228867676,12.943476418148157
+487960213,residential,False,True,19.256999999999998,nan,Lakshmi Devi Temple Road,nan,nan,nan,nan,nan,77.6183538202092,12.943482591742322
+487960213,residential,False,True,32.188,nan,Lakshmi Devi Temple Road,nan,nan,nan,nan,nan,77.61859055,12.9434722
+213065295,residential,False,False,74.554,nan,nan,nan,nan,nan,nan,nan,77.61851526815836,12.943811195223118
+487960213,residential,False,False,19.256999999999998,nan,Lakshmi Devi Temple Road,nan,nan,nan,nan,nan,77.6183538202092,12.943482591742322
+213065239,residential,False,False,33.945,nan,2nd Main Road,nan,nan,nan,nan,nan,77.61969005,12.943797649999999
+213065291,residential,False,True,39.719,nan,nan,nan,nan,nan,nan,nan,77.61979385000001,12.943585100000002
+1427069900,residential,False,False,61.498,nan,2nd Main Road,nan,nan,nan,nan,nan,77.61951300000001,12.9434047
+213065234,residential,False,True,48.309,nan,nan,nan,nan,nan,nan,nan,77.61830564999998,12.943692
+213065279,residential,False,True,46.336,nan,nan,nan,nan,nan,nan,nan,77.61813545000001,12.943940600000001
+695012151,residential,False,True,20.122,nan,nan,nan,nan,nan,nan,nan,77.618368,12.943993550000002
+32316011,residential,False,True,23.275,nan,nan,nan,nan,nan,nan,nan,77.6179492,12.944077499999999
+213065279,residential,False,False,46.336,nan,nan,nan,nan,nan,nan,nan,77.61813545000001,12.943940600000001
+32316011,residential,False,False,52.321,nan,nan,nan,nan,nan,nan,nan,77.61784964973559,12.94375200473421
+213065295,residential,False,True,74.554,nan,nan,nan,nan,nan,nan,nan,77.61851526815836,12.943811195223118
+"[759024328, 213065268]",residential,False,"[False, True]",97.827,nan,nan,nan,nan,nan,nan,nan,77.61880322552669,12.944775856571251
+32315927,residential,False,False,25.825,nan,Main Road,nan,nan,nan,nan,nan,77.61892415,12.9443232
+32315927,residential,False,True,50.738,nan,Main Road,nan,nan,nan,nan,nan,77.61901424999998,12.9446555
+213065257,residential,False,False,31.362,nan,nan,nan,nan,nan,nan,nan,77.61908704999999,12.94440965
+213065259,residential,False,False,104.886,nan,2nd Cross Road,nan,nan,nan,nan,nan,77.6174541,12.94496525
+213065296,residential,False,False,22.762,nan,nan,nan,nan,nan,nan,nan,77.6179091,12.944865700000003
+213065296,residential,False,True,18.339,nan,nan,nan,nan,nan,nan,nan,77.61785435,12.944690900000001
+213065276,residential,False,False,48.003,nan,1st Cross Road,nan,nan,nan,nan,nan,77.6176126,12.94470115
+213065296,residential,False,False,18.339,nan,nan,nan,nan,nan,nan,nan,77.61785435,12.944690900000001
+213065296,residential,False,True,115.088,nan,nan,nan,nan,nan,nan,nan,77.61764310000001,12.944128
+213065276,residential,False,True,48.003,nan,1st Cross Road,nan,nan,nan,nan,nan,77.6176126,12.94470115
+82121110,residential,False,False,25.214,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.61804085,12.94494805
+82121110,residential,False,True,22.935,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.61782645,12.9450014
+213065296,residential,False,False,19.117,nan,nan,nan,nan,nan,nan,nan,77.61795415,12.9450482
+213065296,residential,False,True,22.762,nan,nan,nan,nan,nan,nan,nan,77.6179091,12.944865700000003
+213065292,residential,False,False,23.818,nan,4th Cross Road,nan,nan,nan,nan,nan,77.61788135,12.94517225
+213065296,residential,False,False,33.311,nan,nan,nan,nan,nan,nan,nan,77.6180332,12.945271
+213065296,residential,False,True,19.117,nan,nan,nan,nan,nan,nan,nan,77.61795415,12.9450482
+38767929,residential,False,True,18.878,nan,7th Main Road,nan,nan,nan,nan,nan,77.61704280000001,12.9452466
+213065259,residential,False,True,104.886,nan,2nd Cross Road,nan,nan,nan,nan,nan,77.6174541,12.94496525
+32316011,residential,False,False,13.485,nan,nan,nan,nan,nan,nan,nan,77.61826350000001,12.94524135
+32316011,residential,False,True,28.951,nan,nan,nan,nan,nan,nan,nan,77.61832685,12.9454219
+213065230,residential,False,False,25.073,nan,nan,nan,nan,nan,nan,nan,77.61818410000001,12.94535545
+213065238,residential,False,True,59.73,nan,5th Cross Road,nan,nan,nan,nan,nan,77.6176,12.945475550000001
+800392191,residential,False,False,17.994,nan,nan,nan,nan,nan,nan,nan,77.6178151,12.945288349999998
+1097981416,residential,False,False,16.339,nan,nan,nan,nan,nan,nan,nan,77.61787695,12.9454304
+213065230,residential,False,False,21.754,nan,nan,nan,nan,nan,nan,nan,77.6179942,12.945455599999999
+213065230,residential,False,True,25.073,nan,nan,nan,nan,nan,nan,nan,77.61818410000001,12.94535545
+213065296,residential,False,False,23.847,nan,nan,nan,nan,nan,nan,nan,77.61811180000001,12.945516099999999
+213065296,residential,False,True,33.311,nan,nan,nan,nan,nan,nan,nan,77.6180332,12.945271
+213065269,residential,False,False,18.212,nan,8th Main Road,nan,nan,nan,nan,nan,77.61732359999999,12.945511549999997
+213065292,residential,False,False,18.968,nan,4th Cross Road,nan,nan,nan,nan,nan,77.6172162,12.945466900000001
+213065292,residential,False,True,57.793,nan,4th Cross Road,nan,nan,nan,nan,nan,77.6175387,12.94532435
+1098174359,residential,False,False,20.554,nan,nan,nan,nan,nan,nan,nan,77.61727115,12.945344949999999
+38767929,residential,False,False,20.471,nan,7th Main Road,nan,nan,nan,nan,nan,77.6171025,12.945413649999999
+38767929,residential,False,True,19.341,nan,7th Main Road,nan,nan,nan,nan,nan,77.6171588,12.94558385
+213065292,residential,False,True,18.968,nan,4th Cross Road,nan,nan,nan,nan,nan,77.6172162,12.945466900000001
+32316011,residential,False,False,28.951,nan,nan,nan,nan,nan,nan,nan,77.61832685,12.9454219
+213065251,residential,False,False,26.303,nan,nan,nan,nan,nan,nan,nan,77.61825455,12.945582550000001
+32316011,residential,False,True,42.519999999999996,nan,nan,nan,nan,nan,nan,nan,77.61843144128282,12.945726455925001
+213065230,residential,False,False,20.037,nan,nan,nan,nan,nan,nan,nan,77.61762024999999,12.94563655
+213065230,residential,False,True,24.35,nan,nan,nan,nan,nan,nan,nan,77.61780345,12.945547350000002
+213065293,residential,False,False,20.72,nan,10th Main Road,nan,nan,nan,nan,nan,77.61773425,12.945683750000002
+213065238,residential,False,False,59.73,nan,5th Cross Road,nan,nan,nan,nan,nan,77.6176,12.945475550000001
+213065269,residential,False,False,18.294,nan,8th Main Road,nan,nan,nan,nan,nan,77.61737275,12.9456685
+213065269,residential,False,True,18.212,nan,8th Main Road,nan,nan,nan,nan,nan,77.61732359999999,12.945511549999997
+213065251,residential,False,True,26.303,nan,nan,nan,nan,nan,nan,nan,77.61825455,12.945582550000001
+213065296,residential,False,False,42.968,nan,nan,nan,nan,nan,nan,nan,77.61820374999999,12.945802650000001
+213065296,residential,False,True,23.847,nan,nan,nan,nan,nan,nan,nan,77.61811180000001,12.945516099999999
+38767929,residential,False,False,19.341,nan,7th Main Road,nan,nan,nan,nan,nan,77.6171588,12.94558385
+38767929,residential,False,True,18.608,nan,7th Main Road,nan,nan,nan,nan,nan,77.61720841500099,12.945747445050493
+213065230,residential,False,False,17.328,nan,nan,nan,nan,nan,nan,nan,77.6174665,12.94571255
+213065230,residential,False,True,20.037,nan,nan,nan,nan,nan,nan,nan,77.61762024999999,12.94563655
+213065277,residential,False,True,19.671,nan,9th Main Road,nan,nan,nan,nan,nan,77.61756944999999,12.945760199999999
+213065230,residential,False,False,19.501,nan,nan,nan,nan,nan,nan,nan,77.61731495000001,12.94578745
+213065230,residential,False,True,17.328,nan,nan,nan,nan,nan,nan,nan,77.6174665,12.94571255
+213065269,residential,False,True,18.294,nan,8th Main Road,nan,nan,nan,nan,nan,77.61737275,12.9456685
+213065293,residential,False,False,47.017,nan,10th Main Road,nan,nan,nan,nan,nan,77.61783744999998,12.94597125
+213065293,residential,False,True,20.72,nan,10th Main Road,nan,nan,nan,nan,nan,77.61773425,12.945683750000002
+213065287,residential,False,True,64.829,nan,nan,nan,nan,nan,nan,nan,77.61796337508399,12.945823308001982
+38767929,residential,False,True,15.879,nan,7th Main Road,nan,nan,nan,nan,nan,77.6172564,12.9458953
+213065230,residential,False,True,19.501,nan,nan,nan,nan,nan,nan,nan,77.61731495000001,12.94578745
+38767929,residential,False,False,18.608,nan,7th Main Road,nan,nan,nan,nan,nan,77.61720841500099,12.945747445050493
+213065241,residential,False,True,47.348,nan,8th Main Road,nan,nan,nan,nan,nan,77.61750430000001,12.94610665
+800392194,residential,False,False,17.492,nan,nan,nan,nan,nan,nan,nan,77.6173534,12.945935200000001
+800392194,residential,False,True,19.984,nan,nan,nan,nan,nan,nan,nan,77.6175149,12.945875000000001
+38767931,residential,False,True,4.803,nan,nan,nan,nan,nan,nan,nan,77.61831255000001,12.946173049999999
+213065296,residential,False,True,20.386,nan,nan,nan,nan,nan,nan,nan,77.61829865,12.946072099999999
+38767931,residential,False,False,25.64,nan,nan,nan,nan,nan,nan,nan,77.61843078654637,12.946099726766107
+38767931,residential,False,False,4.803,nan,nan,nan,nan,nan,nan,nan,77.61831255000001,12.946173049999999
+38767931,residential,False,True,18.932,nan,nan,nan,nan,nan,nan,nan,77.61821560000001,12.946220799999999
+38767931,residential,False,False,18.932,nan,nan,nan,nan,nan,nan,nan,77.61821560000001,12.946220799999999
+38767931,residential,False,True,20.268,nan,nan,nan,nan,nan,nan,nan,77.61805215000001,12.946296
+213065287,residential,False,False,23.242,nan,nan,nan,nan,nan,nan,nan,77.61810464999999,12.946154149999998
+38767931,residential,False,False,20.268,nan,nan,nan,nan,nan,nan,nan,77.61805215000001,12.946296
+38767931,residential,False,True,19.657,nan,nan,nan,nan,nan,nan,nan,77.61788815,12.94637775
+213065293,residential,False,True,19.661,nan,10th Main Road,nan,nan,nan,nan,nan,77.61793905,12.94625425
+38767931,residential,False,False,19.657,nan,nan,nan,nan,nan,nan,nan,77.61788815,12.94637775
+38767931,residential,False,True,18.838,nan,nan,nan,nan,nan,nan,nan,77.6177298,12.94645615
+213065277,residential,False,False,21.037,nan,9th Main Road,nan,nan,nan,nan,nan,77.61777484999999,12.946328650000002
+38767931,residential,False,False,18.838,nan,nan,nan,nan,nan,nan,nan,77.6177298,12.94645615
+38767931,residential,False,True,20.558,nan,nan,nan,nan,nan,nan,nan,77.61756775,12.9465364
+213065241,residential,False,False,22.339,nan,8th Main Road,nan,nan,nan,nan,nan,77.61761609999999,12.946400449999999
+28186940,residential,False,True,50.472,nan,7th A Cross Road,nan,nan,nan,nan,nan,77.62427439999999,12.931062
+38042287,tertiary,False,False,55.2,nan,7th Cross Road,nan,nan,nan,nan,nan,77.6244238,12.930761449999999
+38042287,tertiary,False,True,115.581,nan,7th Cross Road,nan,nan,nan,nan,nan,77.62369225,12.931046649999999
+233244507,residential,False,True,31.332,nan,nan,nan,nan,nan,nan,nan,77.63250755,12.92687605
+55341777,residential,False,False,43.112,nan,nan,nan,nan,nan,nan,nan,77.6204003,12.9436167
+213065291,residential,False,False,30.103,nan,nan,nan,nan,nan,nan,nan,77.62051445,12.94341765
+213065291,residential,False,True,29.828,nan,nan,nan,nan,nan,nan,nan,77.62064939999999,12.94365285
+27445936,residential,False,True,11.176,nan,16th Main Road,nan,nan,nan,nan,nan,77.62339199899117,12.926609770340837
+150510724,primary,True,False,213.519,3,Sarjapura Road,nan,nan,nan,nan,nan,77.62428292984454,12.926179601889277
+309079083,residential,False,False,33.691,nan,8th Cross Road,nan,nan,nan,nan,nan,77.63359564999999,12.9327502
+309079083,residential,False,True,44.48,nan,8th Cross Road,nan,nan,nan,nan,nan,77.63367919999999,12.93309165
+309079083,residential,False,True,61.26,nan,8th Cross Road,nan,nan,nan,nan,nan,77.63344835000001,12.931935450000001
+559414933,residential,False,False,94.757,nan,1st Main Road,nan,nan,nan,nan,nan,77.6337054,12.9313575
+309079083,residential,False,False,61.26,nan,8th Cross Road,nan,nan,nan,nan,nan,77.63344835000001,12.931935450000001
+309079083,residential,False,True,44.518,nan,8th Cross Road,nan,nan,nan,nan,nan,77.63353194999999,12.932404049999997
+309079083,residential,False,False,44.48,nan,8th Cross Road,nan,nan,nan,nan,nan,77.63367919999999,12.93309165
+309079083,residential,False,True,47.785,nan,8th Cross Road,nan,nan,nan,nan,nan,77.63381179999998,12.933485600000003
+309079083,residential,False,False,44.518,nan,8th Cross Road,nan,nan,nan,nan,nan,77.63353194999999,12.932404049999997
+309079083,residential,False,True,33.691,nan,8th Cross Road,nan,nan,nan,nan,nan,77.63359564999999,12.9327502
+309079083,residential,False,False,47.785,nan,8th Cross Road,nan,nan,nan,nan,nan,77.63381179999998,12.933485600000003
+309079083,residential,False,True,53.318,nan,8th Cross Road,nan,nan,nan,nan,nan,77.6339955,12.933902849999999
+32291050,residential,False,True,62.793,nan,17th D Main Road,nan,nan,nan,nan,nan,77.62556572639518,12.93876112824443
+1124616640,secondary,True,False,98.45599999999999,2,Srinivagilu Main Road,nan,nan,nan,nan,nan,77.62560572017323,12.939351734147657
+37786354,residential,False,False,30.501,nan,8th Cross Road,nan,nan,nan,nan,nan,77.6343954,12.934498
+37786354,residential,False,True,37.554,nan,8th Cross Road,nan,nan,nan,nan,nan,77.63420385,12.93425585
+310456201,residential,False,False,33.233,nan,nan,nan,nan,nan,nan,nan,77.6384753,12.92753425
+310456201,residential,False,True,32.524,nan,nan,nan,nan,nan,nan,nan,77.63832984999999,12.92727485
+558685447,residential,False,False,144.626,nan,2nd Cross Road,nan,nan,nan,nan,nan,77.63899458965571,12.92709757409014
+655788482,residential,False,True,10.15,nan,nan,nan,nan,nan,nan,nan,77.63957189999999,12.9267567
+558685447,residential,False,True,144.626,nan,2nd Cross Road,nan,nan,nan,nan,nan,77.63899458965571,12.92709757409014
+655788482,residential,False,False,30.394999999999996,nan,nan,nan,nan,nan,nan,nan,77.6396509486921,12.92692163148465
+309618866,residential,False,False,66.613,nan,nan,nan,nan,nan,nan,nan,77.63919254999999,12.92628125
+309618865,residential,False,False,18.22,nan,nan,nan,nan,nan,nan,nan,77.6393147,12.92655655
+309618866,residential,False,True,66.613,nan,nan,nan,nan,nan,nan,nan,77.63919254999999,12.92628125
+309618865,residential,False,True,31.328000000000003,nan,nan,nan,nan,nan,nan,nan,77.63910020569024,12.926632145269389
+24299079,tertiary,False,False,88.091,nan,1st Main Road,nan,nan,nan,nan,nan,77.63722659999999,12.927867550000002
+309618867,residential,False,False,34.723,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.63702599999999,12.92829305
+24299079,tertiary,False,True,97.986,nan,1st Main Road,nan,nan,nan,nan,nan,77.63655690513887,12.92836975965977
+309618867,residential,False,False,86.676,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.6374599,12.928252950000001
+309618867,residential,False,True,34.723,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.63702599999999,12.92829305
+658698704,residential,False,False,32.709,nan,nan,nan,nan,nan,nan,nan,77.63717299999999,12.92856025
+309618867,residential,False,False,31.987,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.63794419999999,12.92800445
+309618867,residential,False,True,86.676,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.6374599,12.928252950000001
+310456200,residential,False,False,64.90400000000001,nan,nan,nan,nan,nan,nan,nan,77.63766492567935,12.927824314690564
+129733583,residential,False,False,17.97,nan,nan,nan,nan,nan,nan,nan,77.6383247,12.927104350000002
+129733583,residential,False,True,18.53,nan,nan,nan,nan,nan,nan,nan,77.63818505,12.927196000000002
+310456201,residential,False,False,32.524,nan,nan,nan,nan,nan,nan,nan,77.63832984999999,12.92727485
+309618867,residential,False,True,59.247,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.63830899999999,12.927799799999999
+310456201,residential,False,True,33.233,nan,nan,nan,nan,nan,nan,nan,77.6384753,12.92753425
+309618867,residential,False,False,144.37,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.63913038571452,12.927355640034717
+784730134,residential,False,True,131.021,nan,1st C Main Road,nan,nan,nan,nan,nan,77.6387067,12.92501555
+310456202,residential,False,False,176.58499999999998,nan,nan,nan,nan,nan,nan,nan,77.639031631407,12.925056836949372
+784730134,residential,False,False,122.796,nan,1st C Main Road,nan,nan,nan,nan,nan,77.63888524646583,12.926143500537387
+129733583,residential,False,False,18.53,nan,nan,nan,nan,nan,nan,nan,77.63818505,12.927196000000002
+310456203,residential,False,False,18.062,nan,1st A Main Road,nan,nan,nan,nan,nan,77.63810194999999,12.927163700000001
+129733583,residential,False,True,42.841,nan,nan,nan,nan,nan,nan,nan,77.63794886667549,12.92733953084648
+310456202,residential,False,True,176.58499999999998,nan,nan,nan,nan,nan,nan,nan,77.639031631407,12.92505683694937
+28186808,residential,False,False,22.61,nan,6th C Cross Road,nan,nan,nan,nan,nan,77.62292835,12.9395464
+28186808,residential,False,True,36.942,nan,6th C Cross Road,nan,nan,nan,nan,nan,77.6231161,12.939350900000003
+330926399,residential,False,False,173.987,nan,17th F4 Main Rd,nan,nan,nan,nan,nan,77.62362255,12.9399643
+28186839,residential,False,False,25.698,nan,6th D Cross Road,nan,nan,nan,nan,nan,77.62416225,12.940538700000001
+28186839,residential,False,True,30.112,nan,6th D Cross Road,nan,nan,nan,nan,nan,77.62434345,12.9403604
+330926399,residential,False,True,173.987,nan,17th F4 Main Rd,nan,nan,nan,nan,nan,77.62362255,12.9399643
+800392198,tertiary,False,False,7.835,nan,5th Cross Road,nan,nan,nan,nan,nan,77.6202539,12.94048595
+28186823,residential,False,True,72.768,nan,5th Cross Road,nan,nan,nan,nan,nan,77.62053520419828,12.940258035254772
+332860141,residential,False,False,36.909,nan,nan,nan,nan,nan,nan,nan,77.62686785,12.939309
+332860143,residential,False,False,56.819,nan,nan,nan,nan,nan,nan,nan,77.62707765,12.9395374
+332860145,residential,False,True,46.279,nan,nan,nan,nan,nan,nan,nan,77.62677440979749,12.939671789311205
+669562602,residential,False,True,54.290000000000006,nan,nan,nan,nan,nan,nan,nan,77.6270798874012,12.938485198923642
+332860142,residential,False,False,34.581,nan,1st Main Road,nan,nan,nan,nan,nan,77.62736545,12.939453499999999
+332860142,residential,False,True,32.005,nan,1st Main Road,nan,nan,nan,nan,nan,77.6272937,12.939744600000001
+332860143,residential,False,True,56.819,nan,nan,nan,nan,nan,nan,nan,77.62707765,12.9395374
+673948790,residential,False,False,18.286,nan,nan,nan,nan,nan,nan,nan,77.62678034999999,12.940050750000001
+673948790,residential,False,True,30.365,nan,nan,nan,nan,nan,nan,nan,77.6269945,12.9401163
+332860144,residential,False,True,51.298,nan,nan,nan,nan,nan,nan,nan,77.6267882768876,12.94029474220876
+332860145,residential,False,False,46.279,nan,nan,nan,nan,nan,nan,nan,77.62677440979749,12.939671789311205
+332860142,residential,False,False,32.005,nan,1st Main Road,nan,nan,nan,nan,nan,77.6272937,12.939744600000001
+332860146,residential,False,True,46.727,nan,nan,nan,nan,nan,nan,nan,77.62704875,12.93982965
+332860142,residential,False,True,37.731,nan,1st Main Road,nan,nan,nan,nan,nan,77.62720902468104,12.940044424974309
+332860147,residential,False,False,102.002,nan,nan,nan,nan,nan,nan,nan,77.62656811994312,12.938571015689455
+"[1132710443, 1302415903]",secondary,True,False,147.92100000000002,2,Srinivagilu Main Road,nan,nan,nan,nan,nan,77.6265235840638,12.937861063042842
+332860147,residential,False,False,21.182,nan,nan,nan,nan,nan,nan,nan,77.62720279999999,12.93877655
+332860147,residential,False,True,10.943,nan,nan,nan,nan,nan,nan,nan,77.62706075,12.938735399999999
+332860141,residential,False,True,49.653,nan,nan,nan,nan,nan,nan,nan,77.627017768974,12.93895513819286
+332860147,residential,False,False,31.597,nan,nan,nan,nan,nan,nan,nan,77.6274363,12.938843850000001
+332860147,residential,False,True,21.182,nan,nan,nan,nan,nan,nan,nan,77.62720279999999,12.93877655
+332860148,residential,False,False,61.252,nan,nan,nan,nan,nan,nan,nan,77.6273749,12.9385379
+332860148,residential,False,True,61.252,nan,nan,nan,nan,nan,nan,nan,77.6273749,12.9385379
+"[332860147, 332860149]",residential,False,True,100.205,nan,nan,nan,nan,nan,nan,nan,77.62786958663077,12.938729992083116
+332860147,residential,False,True,31.597,nan,nan,nan,nan,nan,nan,nan,77.6274363,12.938843850000001
+"[332860147, 332860149]",residential,False,False,100.205,nan,nan,nan,nan,nan,nan,nan,77.62786958663077,12.938729992083115
+332860150,residential,False,False,65.99600000000001,nan,nan,nan,nan,nan,nan,nan,77.62767070946019,12.938603348789526
+332860150,residential,False,True,65.99600000000001,nan,nan,nan,nan,nan,nan,nan,77.62767070946019,12.938603348789526
+27790968,residential,False,False,56.343,nan,7th A Main Road,nan,nan,nan,nan,nan,77.63370885,12.9303128
+338161623,residential,False,False,21.24,nan,7th Main Road,nan,nan,nan,nan,nan,77.63352230000001,12.930091149999999
+27790968,residential,False,True,25.669999999999998,nan,7th A Main Road,nan,nan,nan,nan,nan,77.63358003392773,12.929966073726419
+27790968,residential,False,True,56.343,nan,7th A Main Road,nan,nan,nan,nan,nan,77.63370885,12.9303128
+"[27790968, 350096405, 350096407]",residential,False,False,62.06,nan,7th A Main Road,nan,nan,yes,nan,nan,77.63393918745918,12.930786059052279
+338164020,residential,False,False,83.869,nan,nan,nan,nan,nan,nan,nan,77.63352507101979,12.930807609107262
+133903616,secondary,True,False,90.52099999999999,2,80 Feet Road,nan,nan,nan,nan,nan,77.63308542857186,12.930453235095289
+338164020,residential,False,True,30.023999999999997,nan,nan,nan,nan,nan,nan,nan,77.63309593879167,12.930894077553598
+338164020,residential,False,False,30.023999999999997,nan,nan,nan,nan,nan,nan,nan,77.63309593879167,12.930894077553598
+338164020,residential,False,True,83.869,nan,nan,nan,nan,nan,nan,nan,77.63352507101979,12.930807609107262
+338164021,residential,False,False,96.61699999999999,nan,nan,nan,nan,nan,nan,nan,77.63335257034717,12.930532663312507
+338161623,residential,False,True,21.24,nan,7th Main Road,nan,nan,nan,nan,nan,77.63352230000001,12.930091149999999
+338161623,residential,False,False,29.380000000000003,nan,7th Main Road,nan,nan,nan,nan,nan,77.63329324427721,12.930079136905498
+338164021,residential,False,True,96.61699999999999,nan,nan,nan,nan,nan,nan,nan,77.63335257034717,12.930532663312507
+350096399,residential,True,False,37.36,nan,1st Cross Road,nan,nan,nan,nan,nan,77.62982338671826,12.93456552756279
+32316466,residential,False,True,20.825,nan,Lakshmi Devi Temple Road,nan,nan,nan,nan,nan,77.61755455,12.94359515
+213065296,residential,False,False,115.088,nan,nan,nan,nan,nan,nan,nan,77.61764310000001,12.944128
+759024337,residential,False,False,30.81,nan,nan,nan,nan,nan,nan,nan,77.61784685,12.9422801
+759024337,residential,False,True,30.427,nan,nan,nan,nan,nan,nan,nan,77.61783475,12.9425551
+759024341,living_street,False,True,43.66,nan,nan,nan,nan,nan,nan,nan,77.6176358,12.9424297
+332860147,residential,False,False,10.943,nan,nan,nan,nan,nan,nan,nan,77.62706075,12.938735399999999
+332860147,residential,False,True,102.002,nan,nan,nan,nan,nan,nan,nan,77.6265681199431,12.938571015689455
+669562602,residential,False,False,54.290000000000006,nan,nan,nan,nan,nan,nan,nan,77.6270798874012,12.938485198923642
+28186788,residential,False,True,43.872,nan,17th A Main Road,nan,nan,nan,nan,nan,77.6264176063413,12.937527937481768
+1124616640,secondary,True,False,167.394,2,Srinivagilu Main Road,nan,nan,nan,nan,nan,77.62613966237843,12.93827826589365
+28186841,residential,False,False,8.103,nan,17th G Main Road,nan,nan,nan,nan,nan,77.6244255,12.940926900000001
+28186841,residential,False,True,46.711999999999996,nan,17th G Main Road,nan,nan,nan,nan,nan,77.6242386990106,12.940760801129692
+1124616640,secondary,True,False,47.572,2,Srinivagilu Main Road,nan,nan,nan,nan,nan,77.62424406351968,12.941052655711689
+28186841,residential,False,True,8.103,nan,17th G Main Road,nan,nan,nan,nan,nan,77.6244255,12.940926900000001
+1155064213,secondary,True,False,157.056,2,Srinivagilu Main Road,24.38,nan,nan,nan,nan,77.6249522125042,12.940443098453878
+1251954788,secondary,True,False,96.703,2,Srinivagilu Main Road,nan,nan,nan,nan,nan,77.62149855,12.94358525
+213065290,residential,False,True,117.888,nan,nan,nan,nan,nan,nan,nan,77.62147901785544,12.942950720640482
+1251954788,secondary,True,False,37.93,2,Srinivagilu Main Road,nan,nan,nan,nan,nan,77.62103365,12.943986749999999
+"[213072296, 53723145]",residential,False,"[False, True]",200.378,nan,nan,nan,nan,nan,nan,nan,77.62073451070391,12.94307782032278
+213065291,residential,False,True,8.194,nan,nan,nan,nan,nan,nan,nan,77.6209269,12.944126449999999
+1251954788,secondary,True,False,30.973,2,Srinivagilu Main Road,nan,nan,nan,nan,nan,77.62079299999999,12.9441892
+213065291,residential,False,False,41.756,nan,nan,nan,nan,nan,nan,nan,77.62080759559633,12.94393539926201
+"[213065232, 53723144]",residential,False,True,61.708,nan,2nd Main Road,nan,nan,nan,nan,nan,77.61999041896397,12.944460415335847
+1251954788,secondary,True,False,117.444,2,Srinivagilu Main Road,nan,nan,nan,nan,nan,77.61966119254198,12.945024113774473
+1169301037,residential,False,True,9.929,nan,nan,nan,nan,nan,nan,nan,77.61924765,12.945365850000002
+32315927,residential,False,False,52.915,nan,Main Road,nan,nan,nan,nan,nan,77.61915156748361,12.945101944785847
+"[1251954788, 1251954789]",secondary,True,False,102.792,2,Srinivagilu Main Road,nan,nan,nan,nan,nan,77.61884835894385,12.945613842032765
+1098174369,residential,False,True,24.482,nan,nan,nan,nan,nan,nan,nan,77.6183743,12.9459479
+32316011,residential,False,False,42.519999999999996,nan,nan,nan,nan,nan,nan,nan,77.61843144128282,12.945726455925001
+32316011,residential,False,True,7.6259999999999994,nan,nan,nan,nan,nan,nan,nan,77.61850431046203,12.94593115184773
+1251954787,residential,False,False,14.762,nan,nan,nan,nan,nan,nan,nan,77.6185993,12.94602825
+38767931,residential,False,True,25.64,nan,nan,nan,nan,nan,nan,nan,77.61843078654638,12.946099726766107
+1109191939,secondary,True,False,72.68,2,Srinivagilu Main Road,nan,nan,nan,nan,nan,77.61865553835781,12.946343572219744
+27785799,residential,False,True,51.227999999999994,nan,1st Cross Road,nan,nan,nan,nan,nan,77.63282616603313,12.930318543649046
+370390351,secondary,True,False,245.958,2,80 Feet Road,nan,nan,nan,nan,nan,77.63253349451539,12.931371688766497
+370390351,secondary,True,False,135.529,2,80 Feet Road,nan,nan,nan,nan,nan,77.63138628848955,12.932645621483806
+"[27785841, 376782482]",residential,False,"[False, True]",59.461,nan,8th A Main Road,nan,nan,nan,nan,nan,77.63168091311368,12.931998044645127
+370390351,secondary,True,False,88.954,2,80 Feet Road,nan,nan,nan,nan,nan,77.63066155000001,12.9333667
+1307224534,secondary_link,False,True,9.644,nan,10th Main Road,nan,nan,nan,nan,nan,77.63097495,12.933107849999999
+27785830,residential,False,False,52.057,nan,10th Main Road,nan,nan,nan,nan,nan,77.63077666482084,12.932908785231042
+37786363,residential,False,True,60.249,nan,11th Main Road,nan,nan,nan,nan,nan,77.62996559165173,12.933699657672069
+370390351,secondary,True,False,82.818,2,80 Feet Road,nan,nan,nan,nan,nan,77.62988143977124,12.934165344716313
+370390351,secondary,True,False,36.755,2,80 Feet Road,nan,nan,nan,nan,nan,77.63026500000001,12.93377915
+771309368,secondary_link,False,False,8.729,nan,nan,nan,nan,nan,nan,nan,77.6304068,12.9336852
+27785783,residential,False,False,9.215,nan,15th Main Road,nan,nan,nan,nan,nan,77.62875030000001,12.93537775
+370390351,secondary,True,False,95.086,2,80 Feet Road,nan,nan,nan,nan,nan,77.62840455,12.93566055
+27785783,residential,False,True,62.126000000000005,nan,15th Main Road,nan,nan,nan,nan,nan,77.62847482740858,12.935202307724069
+27785781,residential,False,True,58.669000000000004,nan,16th Main Road,nan,nan,nan,nan,nan,77.62789981969662,12.93578192884443
+370390351,secondary,True,False,185.55899999999997,2,80 Feet Road,nan,nan,nan,nan,nan,77.62751405641241,12.936576083715462
+1110178624,secondary,True,False,46.351,2,80 Feet Road,nan,nan,nan,nan,nan,77.63347214999999,12.92568285
+688364753,residential,False,False,81.331,nan,nan,nan,nan,nan,nan,nan,77.63311723020213,12.925452246295242
+376782173,residential,False,True,10.599,nan,nan,nan,nan,nan,nan,nan,77.63340395,12.92691945
+1110178620,secondary,True,False,151.982,2,80 Feet Road,nan,nan,nan,nan,nan,77.6335164905838,12.926241034404207
+1237434601,residential,True,False,8.566,nan,1st Cross Road,nan,nan,nan,nan,nan,77.62963365,12.934465800000002
+27785777,residential,False,False,71.40299999999999,nan,12th Main Road,nan,nan,nan,nan,nan,77.62935526867366,12.934234125552457
+370390351,secondary,True,False,55.388000000000005,2,80 Feet Road,nan,nan,nan,nan,nan,77.62943979809846,12.934613592461103
+383749273,residential,False,True,9.807,nan,nan,nan,nan,nan,nan,nan,77.63717,12.932577299999998
+400701861,residential,False,False,84.941,nan,nan,nan,nan,nan,nan,nan,77.63604559999999,12.93072845
+400701865,residential,False,False,154.572,nan,nan,nan,nan,nan,nan,nan,77.636491,12.9300385
+400701865,residential,False,True,60.798,nan,nan,nan,nan,nan,nan,nan,77.6356509,12.93055235
+400701857,residential,False,False,74.499,nan,nan,nan,nan,nan,nan,nan,77.635587,12.931016549999999
+400701865,residential,False,False,60.798,nan,nan,nan,nan,nan,nan,nan,77.6356509,12.93055235
+400701865,residential,False,True,179.991,nan,nan,nan,nan,nan,nan,nan,77.6346965,12.931101
+778744507,residential,False,True,6.692,nan,nan,nan,nan,nan,nan,nan,77.63624535,12.93105725
+"[383749272, 383749273]",residential,False,False,221.032,nan,nan,nan,nan,nan,nan,nan,77.63672809235398,12.931754146993866
+"[778744506, 778744507, 400701855]",residential,False,False,235.059,nan,nan,nan,nan,yes,nan,nan,77.63722390115146,12.93053533959232
+400701865,residential,False,False,179.991,nan,nan,nan,nan,nan,nan,nan,77.6346965,12.931101
+778508081,residential,False,False,12.029,nan,nan,nan,nan,nan,nan,nan,77.6339611,12.931536799999998
+778508081,residential,False,True,48.239,nan,nan,nan,nan,nan,nan,nan,77.6339868,12.931267
+400701856,residential,False,False,140.089,nan,nan,nan,nan,nan,nan,nan,77.63613835,12.9318258
+778744507,residential,False,False,45.733,nan,nan,nan,nan,nan,nan,nan,77.63603175,12.931167850000001
+778744507,residential,False,True,12.17,nan,nan,nan,nan,nan,nan,nan,77.63579535,12.9312891
+400701857,residential,False,True,74.499,nan,nan,nan,nan,nan,nan,nan,77.635587,12.931016549999999
+778744507,residential,False,False,12.17,nan,nan,nan,nan,nan,nan,nan,77.63579535,12.9312891
+778744507,residential,False,True,31.18,nan,nan,nan,nan,nan,nan,nan,77.63561990413329,12.9313826075442
+400701860,residential,False,True,138.535,nan,nan,nan,nan,nan,nan,nan,77.63579315,12.932002050000001
+778744507,residential,False,True,51.127,nan,nan,nan,nan,nan,nan,nan,77.6352869,12.93156045
+778744507,residential,False,False,31.18,nan,nan,nan,nan,nan,nan,nan,77.63561990413329,12.9313826075442
+400701854,residential,False,True,78.928,nan,"Temple Trees Rd, Cauvery Colony",nan,nan,nan,nan,nan,77.6352497,12.931983249999998
+778744507,residential,False,False,51.127,nan,nan,nan,nan,nan,nan,nan,77.6352869,12.93156045
+778744507,residential,False,True,104.808,nan,nan,nan,nan,nan,nan,nan,77.63465135,12.931889
+400701858,residential,False,True,53.203,nan,nan,nan,nan,nan,nan,nan,77.6365181,12.932070150000001
+778744507,residential,False,False,104.808,nan,nan,nan,nan,nan,nan,nan,77.63465135,12.931889
+778744507,residential,False,True,16.462,nan,nan,nan,nan,nan,nan,nan,77.63415810000001,12.9321462
+400701862,residential,False,True,64.346,nan,nan,nan,nan,nan,nan,nan,77.63409064796566,12.931849601043426
+778744507,residential,False,False,16.462,nan,nan,nan,nan,nan,nan,nan,77.63415810000001,12.9321462
+778744507,residential,False,True,26.995,nan,nan,nan,nan,nan,nan,nan,77.63398265000001,12.93224065
+400701863,residential,False,False,187.368,nan,nan,nan,nan,nan,nan,nan,77.63468409926416,12.932498393451425
+400701864,residential,False,True,7.322,nan,nan,nan,nan,nan,nan,nan,77.63666555,12.93226545
+400701858,residential,False,False,53.203,nan,nan,nan,nan,nan,nan,nan,77.6365181,12.932070150000001
+400701864,residential,False,False,7.322,nan,nan,nan,nan,nan,nan,nan,77.63666555,12.93226545
+400701864,residential,False,True,25.116,nan,nan,nan,nan,nan,nan,nan,77.63653335000001,12.9323338
+400701856,residential,False,True,140.089,nan,nan,nan,nan,nan,nan,nan,77.63613835,12.9318258
+400701864,residential,False,False,25.116,nan,nan,nan,nan,nan,nan,nan,77.63653335000001,12.9323338
+400701864,residential,False,True,41.139,nan,nan,nan,nan,nan,nan,nan,77.63626155,12.93247005
+400701860,residential,False,False,138.535,nan,nan,nan,nan,nan,nan,nan,77.63579315,12.932002050000001
+400701864,residential,False,False,41.139,nan,nan,nan,nan,nan,nan,nan,77.63626155,12.93247005
+400701864,residential,False,True,48.283,nan,nan,nan,nan,nan,nan,nan,77.635892,12.932648799999999
+383749273,residential,False,False,9.807,nan,nan,nan,nan,nan,nan,nan,77.63717,12.932577299999998
+400701859,residential,False,True,148.414,nan,nan,nan,nan,nan,nan,nan,77.63655904999999,12.932864949999999
+"[383749272, 383749273]",residential,False,True,221.032,nan,nan,nan,nan,nan,nan,nan,77.63672809235398,12.931754146993866
+400701854,residential,False,False,57.88,nan,"Temple Trees Rd, Cauvery Colony",nan,nan,nan,nan,nan,77.63555615,12.93252085
+400701854,residential,False,True,57.964,nan,"Temple Trees Rd, Cauvery Colony",nan,nan,nan,nan,nan,77.63582779999999,12.93296945
+400701864,residential,False,False,48.283,nan,nan,nan,nan,nan,nan,nan,77.635892,12.932648799999999
+427568006,residential,False,False,62.751,nan,nan,nan,nan,nan,nan,nan,77.6251039,12.932973
+28125800,residential,False,False,14.345,nan,"16th B Road, 4th Block",nan,nan,nan,nan,nan,77.62537785,12.9329079
+28125800,residential,False,True,30.138,nan,"16th B Road, 4th Block",nan,nan,nan,nan,nan,77.62543015,12.9331013
+427568006,residential,False,True,62.751,nan,nan,nan,nan,nan,nan,nan,77.6251039,12.932973
+28125800,residential,False,False,30.138,nan,"16th B Road, 4th Block",nan,nan,nan,nan,nan,77.62543015,12.9331013
+28125800,residential,False,True,73.726,nan,"16th B Road, 4th Block",nan,nan,nan,nan,nan,77.625584,12.933543250000001
+"[427568004, 1258131887]",residential,False,True,110.07,nan,nan,nan,nan,nan,nan,nan,77.624959447002,12.933213079678858
+429123147,residential,False,True,14.437,nan,nan,nan,nan,nan,nan,nan,77.6237749,12.943619
+27946172,residential,False,False,155.132,2,nan,nan,nan,nan,nan,nan,77.62328957278514,12.943021831692821
+429123149,residential,False,True,117.446,nan,nan,nan,nan,nan,nan,permissive,77.62335802548073,12.943960087139303
+429123149,residential,False,False,117.446,nan,nan,nan,nan,nan,nan,permissive,77.62335802548073,12.943960087139303
+28125747,residential,False,False,87.911,nan,11th Main Road,nan,nan,nan,nan,nan,77.6266731,12.9257123
+631197284,tertiary,True,False,207.22699999999998,nan,Sarjapura Road,nan,nan,nan,nan,nan,77.62741714063975,12.92497817727272
+133524199,tertiary,False,False,9.749,nan,Sarjapura Road,8,nan,nan,30,nan,77.63359195000001,12.924997300000001
+457214835,tertiary,True,False,90.104,2,Sarjapura Road,nan,nan,nan,nan,nan,77.63313895418395,12.924915810301565
+1110178624,secondary,True,False,54.236000000000004,2,80 Feet Road,nan,nan,nan,nan,nan,77.63351907278678,12.92523288763877
+55491839,residential,False,False,167.36599999999999,nan,7th C Main Road,nan,nan,nan,nan,nan,77.63168428029311,12.925440164851839
+457214835,tertiary,True,False,374.388,2,Sarjapura Road,nan,nan,nan,nan,nan,77.62995389172539,12.924468719277975
+150510724,primary,True,False,277.637,3,Sarjapura Road,nan,nan,nan,nan,nan,77.62220521804198,12.92706092209118
+487960213,residential,False,False,20.73,nan,Lakshmi Devi Temple Road,nan,nan,nan,nan,nan,77.61786685000001,12.943515800000002
+995124322,residential,False,False,59.883,nan,nan,nan,nan,nan,nan,nan,77.6179238,12.94323565
+487960213,residential,False,True,15.163,nan,Lakshmi Devi Temple Road,nan,nan,nan,nan,nan,77.61803066239251,12.943492204900714
+487990365,residential,False,True,133.977,nan,4th Cross Road,nan,nan,nan,nan,nan,77.6301473,12.929026499999999
+487990369,residential,False,False,35.654,nan,8th A Main Road,nan,nan,nan,nan,nan,77.63070755,12.92873345
+487990369,residential,False,True,34.856,nan,8th A Main Road,nan,nan,nan,nan,nan,77.63078759999999,12.92904075
+487990365,residential,False,False,133.977,nan,4th Cross Road,nan,nan,nan,nan,nan,77.6301473,12.929026499999999
+487990368,residential,False,False,36.205,nan,8th B Main Road,nan,nan,nan,nan,nan,77.6295557,12.929326899999998
+487990368,residential,False,True,33.016,nan,8th B Main Road,nan,nan,nan,nan,nan,77.629535,12.9290163
+487990366,residential,False,True,127.863,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.63009525,12.928723250000001
+487990368,residential,False,False,33.016,nan,8th B Main Road,nan,nan,nan,nan,nan,77.629535,12.9290163
+487990368,residential,False,True,36.326,nan,8th B Main Road,nan,nan,nan,nan,nan,77.62951275,12.928705249999998
+487990366,residential,False,False,127.863,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.63009525,12.928723250000001
+487990369,residential,False,False,33.769,nan,8th A Main Road,nan,nan,nan,nan,nan,77.63062685,12.928431350000002
+487990369,residential,False,True,35.654,nan,8th A Main Road,nan,nan,nan,nan,nan,77.63070755,12.92873345
+487990367,residential,False,True,121.193,nan,2nd Cross Road,nan,nan,nan,nan,nan,77.63004434999999,12.92841335
+487990369,residential,False,False,36.769,nan,8th A Main Road,nan,nan,nan,nan,nan,77.63054485,12.928124400000002
+487990369,residential,False,True,33.769,nan,8th A Main Road,nan,nan,nan,nan,nan,77.63062685,12.928431350000002
+487990367,residential,False,False,121.193,nan,2nd Cross Road,nan,nan,nan,nan,nan,77.63004434999999,12.92841335
+487990368,residential,False,False,36.326,nan,8th B Main Road,nan,nan,nan,nan,nan,77.62951275,12.928705249999998
+487990368,residential,False,True,38.556,nan,8th B Main Road,nan,nan,nan,nan,nan,77.6294887,12.928369349999999
+27931318,residential,False,False,140.519,nan,5th Cross Road,nan,nan,nan,nan,nan,77.630196,12.929341149999999
+27931318,residential,False,True,41.398,nan,5th Cross Road,nan,nan,nan,nan,nan,77.62937869999999,12.9295268
+487990368,residential,False,True,36.205,nan,8th B Main Road,nan,nan,nan,nan,nan,77.6295557,12.929326899999998
+27931322,residential,False,False,14.929,nan,1st Cross Road,nan,nan,nan,nan,nan,77.62954339999999,12.92818125
+27931322,residential,False,True,51.522,nan,1st Cross Road,nan,nan,nan,nan,nan,77.62924475,12.92824875
+487990368,residential,False,False,38.556,nan,8th B Main Road,nan,nan,nan,nan,nan,77.6294887,12.928369349999999
+487990369,residential,False,True,36.769,nan,8th A Main Road,nan,nan,nan,nan,nan,77.63054485,12.928124400000002
+"[27931337, 27931322]",residential,False,False,185.098,nan,"['1st Cross Road', '8A Main Road']",nan,nan,nan,nan,nan,77.63097597100847,12.92835267035099
+27931322,residential,False,True,99.197,nan,1st Cross Road,nan,nan,nan,nan,nan,77.63005630143267,12.928065256332468
+27931318,residential,False,False,44.137,nan,5th Cross Road,nan,nan,nan,nan,nan,77.63102475,12.92914885
+27931318,residential,False,True,140.519,nan,5th Cross Road,nan,nan,nan,nan,nan,77.630196,12.929341149999999
+487990369,residential,False,False,34.856,nan,8th A Main Road,nan,nan,nan,nan,nan,77.63078759999999,12.92904075
+32315624,residential,False,True,10.87,nan,Basavalla Temple Road,nan,nan,nan,nan,nan,77.61968515000001,12.942829849999999
+546489292,residential,False,False,78.573,nan,nan,nan,nan,nan,nan,nan,77.61980919999999,12.943191299999999
+32315624,residential,False,False,42.144999999999996,nan,Basavalla Temple Road,nan,nan,nan,nan,nan,77.61953578650903,12.943017307961453
+213065291,residential,False,False,39.719,nan,nan,nan,nan,nan,nan,nan,77.61979385000001,12.943585100000002
+546489292,residential,False,True,78.573,nan,nan,nan,nan,nan,nan,nan,77.61980919999999,12.943191299999999
+213065291,residential,False,True,57.80200000000001,nan,nan,nan,nan,nan,nan,nan,77.62020439020084,12.94340564185653
+32315624,residential,False,False,10.87,nan,Basavalla Temple Road,nan,nan,nan,nan,nan,77.61968515000001,12.942829849999999
+546489523,residential,False,False,41.219,nan,nan,nan,nan,nan,nan,nan,77.61988339999999,12.942706900000003
+32315624,residential,False,True,63.493,nan,Basavalla Temple Road,nan,nan,nan,nan,nan,77.61976329308871,12.9425251560483
+133524200,residential,False,False,26.689,nan,1st C Main Road,nan,nan,nan,nan,nan,77.63849575,12.92699245
+133524200,residential,False,True,47.979,nan,1st C Main Road,nan,nan,nan,nan,nan,77.63878057411834,12.926803639552364
+558683370,residential,False,False,251.755,nan,nan,nan,nan,nan,nan,nan,77.63840492014297,12.925807865430816
+558683370,residential,False,True,251.755,nan,nan,nan,nan,nan,nan,nan,77.63840492014297,12.925807865430816
+1246426789,primary,True,False,51.746,2,Sarjapura Road,nan,nan,nan,nan,nan,77.6384120533617,12.924562092781892
+24299079,tertiary,False,True,130.583,nan,1st Main Road,nan,nan,nan,nan,nan,77.6356093,12.928819449999999
+24299079,tertiary,False,False,97.98599999999999,nan,1st Main Road,nan,nan,nan,nan,nan,77.6365569051389,12.928369759659772
+558754229,residential,False,True,49.156000000000006,nan,nan,nan,nan,nan,nan,nan,77.63606951267677,12.92835314508629
+27789870,residential,False,True,152.696,nan,2nd Main Road,nan,nan,nan,nan,nan,77.63535815,12.9284514
+558754229,residential,False,True,53.899,nan,nan,nan,nan,nan,nan,nan,77.6358816,12.92792795
+27789870,residential,False,False,169.49099999999999,nan,2nd Main Road,nan,nan,nan,nan,nan,77.63662335365002,12.927722316948673
+558754229,residential,False,False,49.156000000000006,nan,nan,nan,nan,nan,nan,nan,77.63606951267677,12.92835314508629
+27790761,residential,False,False,79.318,nan,3rd Main Road,nan,nan,nan,nan,nan,77.63610299999999,12.92755355
+27790761,residential,False,True,116.318,nan,3rd Main Road,nan,nan,nan,nan,nan,77.6352897,12.927935000000002
+558754229,residential,False,False,53.899,nan,nan,nan,nan,nan,nan,nan,77.6358816,12.92792795
+558762897,residential,False,True,30.622,nan,nan,nan,nan,nan,nan,nan,77.63512787699958,12.92920412848014
+24299079,tertiary,False,False,130.583,nan,1st Main Road,nan,nan,nan,nan,nan,77.6356093,12.928819449999999
+24299079,tertiary,False,True,22.537,nan,1st Main Road,nan,nan,nan,nan,nan,77.6349773,12.92912695
+558762897,residential,False,False,30.622,nan,nan,nan,nan,nan,nan,nan,77.63512787699958,12.92920412848014
+24299079,tertiary,False,False,22.537,nan,1st Main Road,nan,nan,nan,nan,nan,77.6349773,12.92912695
+24299079,tertiary,False,True,25.321,nan,1st Main Road,nan,nan,nan,nan,nan,77.6347818,12.92922695
+"[558762898, 1284673006, 1284673007]",residential,False,False,68.847,nan,5th D Main Road,nan,nan,yes,nan,nan,77.63502306896387,12.92945377946294
+558762894,residential,False,True,42.237,nan,5th C Main Road,nan,nan,nan,nan,nan,77.63475569342589,12.929453128547339
+24299079,tertiary,False,False,25.321,nan,1st Main Road,nan,nan,nan,nan,nan,77.6347818,12.92922695
+24299079,tertiary,False,True,24.765,nan,1st Main Road,nan,nan,nan,nan,nan,77.6345751,12.9293276
+558762894,residential,False,False,42.237,nan,5th C Main Road,nan,nan,nan,nan,nan,77.63475569342589,12.929453128547339
+558762899,residential,False,True,45.513,nan,5th B Main Road,nan,nan,nan,nan,nan,77.63456154653878,12.929561449764767
+24299079,tertiary,False,False,24.765,nan,1st Main Road,nan,nan,nan,nan,nan,77.6345751,12.9293276
+24299079,tertiary,False,True,23.013,nan,1st Main Road,nan,nan,nan,nan,nan,77.63437834999999,12.9294244
+558762899,residential,False,False,45.513,nan,5th B Main Road,nan,nan,nan,nan,nan,77.63456154653878,12.929561449764767
+558762900,residential,False,True,63.335,nan,5th A Main Road,nan,nan,nan,nan,nan,77.6343965530118,12.929735569802443
+558762901,residential,False,True,68.152,nan,5th A Main Road,nan,nan,nan,nan,nan,77.63421845292237,12.929879248752654
+558762901,residential,False,False,68.152,nan,5th A Main Road,nan,nan,nan,nan,nan,77.63421845292237,12.929879248752654
+558762905,tertiary,True,False,25.149,nan,1st Main Road,nan,nan,nan,nan,nan,77.63419874878166,12.929543781632074
+558762902,residential,False,True,76.575,nan,6th B Main Road,nan,nan,nan,nan,nan,77.63402404755773,12.930020701125299
+558762905,tertiary,True,False,26.658,nan,1st Main Road,nan,nan,nan,nan,nan,77.6339885,12.92965145
+558762902,residential,False,False,76.575,nan,6th B Main Road,nan,nan,nan,nan,nan,77.63402404755773,12.930020701125299
+558762903,residential,False,True,84.981,nan,6th A Main Road,nan,nan,nan,nan,nan,77.633851724693,12.930141274537947
+558762905,tertiary,True,False,23.043,nan,1st Main Road,nan,nan,nan,nan,nan,77.63378305,12.929750599999998
+558762903,residential,False,False,84.981,nan,6th A Main Road,nan,nan,nan,nan,nan,77.633851724693,12.930141274537947
+558762895,tertiary,True,False,83.069,nan,1st Main Road,nan,nan,nan,nan,nan,77.63387825,12.929639250000001
+27789866,residential,False,False,56.864,nan,5th Main Road,nan,nan,nan,nan,nan,77.63424516833025,12.929219401675399
+1262796544,residential,False,True,5.875,nan,nan,nan,nan,nan,nan,nan,77.63353835,12.92983055
+27790781,residential,False,False,319.898,nan,6th Main Road,nan,nan,nan,nan,nan,77.63367038372873,12.92837384842416
+558762904,tertiary,True,False,38.31,nan,1st Main Road,nan,nan,nan,nan,nan,77.6333577910456,12.929807012484757
+558764102,residential,False,False,89.22500000000002,nan,nan,nan,nan,nan,nan,nan,77.62501048784381,12.932105923373234
+28125818,residential,False,False,58.881,nan,7th C Cross Road,nan,nan,nan,nan,nan,77.62432445,12.93213165
+28125818,residential,False,True,56.545,nan,7th C Cross Road,nan,nan,nan,nan,nan,77.62479920000001,12.9318966
+558764104,residential,False,False,62.023,nan,nan,nan,nan,nan,nan,nan,77.62465684821785,12.932273200618218
+28186705,tertiary,False,False,66.541,nan,6th Cross Road,nan,nan,nan,nan,nan,77.62471505,12.9369495
+28186705,tertiary,False,True,38.722,nan,6th Cross Road,nan,nan,nan,nan,nan,77.62501455,12.936576899999999
+559414941,residential,False,False,44.935,nan,nan,nan,nan,nan,nan,nan,77.62802005,12.93692085
+695012191,residential,False,False,32.731,nan,nan,nan,nan,nan,nan,nan,77.627826,12.93676065
+559414941,residential,False,True,45.667,nan,nan,nan,nan,nan,nan,nan,77.6276089484082,12.936876580212482
+559414941,residential,False,True,38.407,nan,nan,nan,nan,nan,nan,nan,77.6284037,12.93694595
+"[559414941, 1237434599]",residential,False,False,65.905,nan,nan,nan,nan,nan,nan,nan,77.62879528510432,12.936881029414362
+559414942,residential,False,False,90.98599999999999,nan,nan,nan,nan,nan,nan,nan,77.62863852459509,12.936592439019668
+1159872650,tertiary,False,True,44.914,2,8th Main Road,nan,6.1,nan,nan,nan,77.62461369999998,12.935078250000002
+563684084,residential,False,True,52.494,nan,16th B Main Road,nan,nan,nan,20,nan,77.624694427172,12.934748129554077
+1159872650,tertiary,False,False,26.806,2,8th Main Road,nan,6.1,nan,nan,nan,77.62488984020145,12.934900584508764
+133903616,secondary,True,False,70.466,2,80 Feet Road,nan,nan,nan,nan,nan,77.62847665,12.935703499999999
+1316307758,residential,False,False,7.319,nan,nan,nan,nan,nan,nan,nan,77.62826663330992,12.935944079967511
+1155064214,primary,True,False,36.843,2,Sarjapura Road,nan,nan,nan,nan,nan,77.6338246,12.9249087
+631197284,tertiary,True,False,65.577,nan,Sarjapura Road,nan,nan,nan,nan,nan,77.62265465,12.92696565
+"[1311668058, 1123860236]",residential,False,True,56.574,nan,18th Main Road,nan,nan,nan,nan,nan,77.62247195909781,12.92731894632354
+27445936,residential,False,True,84.908,nan,16th Main Road,nan,nan,nan,nan,nan,77.62353705000001,12.927017949999998
+27445936,residential,False,False,11.176,nan,16th Main Road,nan,nan,nan,nan,nan,77.62339199899117,12.926609770340837
+631197284,tertiary,True,False,211.49499999999998,nan,Sarjapura Road,nan,nan,nan,nan,nan,77.62430104976076,12.926274599441976
+1110178545,primary,True,False,9.04,2,Mahayogi Vemana Road,nan,nan,nan,nan,nan,77.62104645,12.927598750000001
+1123860237,tertiary,True,False,155.33,nan,Sarjapura Road,nan,nan,nan,nan,nan,77.62172061161654,12.927363179078888
+545603936,primary,True,False,8.972,2,Mahayogi Vemana Road,nan,nan,nan,nan,nan,77.62697365,12.937223
+"[133903616, 1376039861]",secondary,True,False,67.174,2,80 Feet Road,nan,nan,nan,nan,nan,77.62721232129778,12.93702421962443
+545603945,primary,True,False,8.934,2,100 feet Road,nan,nan,nan,nan,nan,77.62690535,12.93730665
+1124616640,secondary,True,False,53.366,2,Srinivagilu Main Road,nan,nan,nan,nan,nan,77.6267210960434,12.937469009346554
+545603939,secondary,True,False,11.881,nan,80 Feet Road,nan,nan,nan,nan,nan,77.62697109999998,12.93729075
+350096404,primary,True,False,10.386,3,Sarjapura Road,nan,nan,nan,nan,nan,77.6336097,12.92487365
+1110178624,secondary,True,False,13.927,2,80 Feet Road,nan,nan,nan,nan,nan,77.63355495,12.924928399999999
+37786362,residential,False,False,34.094,nan,4th Cross Road,nan,nan,nan,nan,nan,77.6289402,12.9332461
+37786362,residential,False,True,43.08,nan,4th Cross Road,nan,nan,nan,nan,nan,77.6286987,12.93350105
+645132606,residential,False,True,76.21199999999999,1,11th B Main Road,nan,nan,nan,nan,nan,77.629083305245,12.933596342565606
+37450483,residential,False,False,33.494,nan,5th Cross Road,nan,nan,nan,nan,nan,77.6292131,12.93393825
+37450483,residential,False,True,34.204,nan,5th Cross Road,nan,nan,nan,nan,nan,77.62945640000001,12.933747599999998
+645132606,residential,False,False,76.21199999999999,1,11th B Main Road,nan,nan,nan,nan,nan,77.62908330524502,12.933596342565606
+37786362,residential,False,False,36.483,nan,4th Cross Road,nan,nan,nan,nan,nan,77.6291543,12.933007350000002
+37786362,residential,False,True,34.094,nan,4th Cross Road,nan,nan,nan,nan,nan,77.6289402,12.9332461
+645132607,residential,False,False,81.777,1,11th A Main Road,nan,nan,nan,nan,nan,77.62931555,12.93339505
+37450483,residential,False,False,34.204,nan,5th Cross Road,nan,nan,nan,nan,nan,77.62945640000001,12.933747599999998
+645132607,residential,False,True,81.777,1,11th A Main Road,nan,nan,nan,nan,nan,77.62931555,12.93339505
+37450483,residential,False,True,27.682,nan,5th Cross Road,nan,nan,nan,nan,nan,77.62968256486222,12.93357808409333
+27931530,residential,False,False,55.145,nan,1st A Cross Road,nan,nan,nan,nan,nan,77.62782915,12.931885099999999
+649666193,residential,False,False,88.643,1,8th B Main,nan,nan,nan,20,nan,77.6279221,12.931282750000001
+27931530,residential,False,True,59.31099999999999,nan,1st A Cross Road,nan,nan,nan,nan,nan,77.62811009454516,12.931450840171376
+27785799,residential,False,False,29.756,nan,1st Cross Road,nan,nan,nan,nan,nan,77.62800855,12.9308594
+27785799,residential,False,True,38.067,nan,1st Cross Road,nan,nan,nan,nan,nan,77.62770105,12.930915550000002
+649666193,residential,False,True,88.643,1,8th B Main,nan,nan,nan,20,nan,77.6279221,12.931282750000001
+400701855,residential,False,False,51.416,nan,nan,nan,nan,nan,nan,nan,77.63866131656432,12.92997440297326
+400701855,residential,False,True,28.110999999999997,nan,nan,nan,nan,nan,nan,nan,77.63830893127783,12.930021831357957
+778508087,residential,False,False,125.06299999999999,nan,nan,nan,nan,nan,nan,nan,77.63818343469386,12.929521259416115
+778508090,residential,False,False,98.561,nan,nan,nan,nan,nan,nan,nan,77.63794675,12.9296747
+400701855,residential,False,False,28.111,nan,nan,nan,nan,nan,nan,nan,77.63830893127783,12.930021831357957
+"[778744506, 778744507, 400701855]",residential,False,True,235.059,nan,nan,nan,nan,yes,nan,nan,77.63722390115146,12.93053533959232
+27790761,residential,False,True,69.325,nan,3rd Main Road,nan,nan,nan,nan,nan,77.6365978,12.925766000000001
+133524199,tertiary,False,False,46.095,nan,Sarjapura Road,8,nan,nan,30,nan,77.6367757870495,12.92545448283444
+133524199,tertiary,False,True,321.264,nan,Sarjapura Road,8,nan,nan,30,nan,77.63510034161904,12.925229736782521
+150510724,primary,True,False,216.618,3,Sarjapura Road,nan,nan,nan,nan,nan,77.62610594709291,12.925415641921749
+309618867,residential,False,True,144.37,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.63913038571452,12.927355640034717
+655788482,residential,False,True,30.394999999999996,nan,nan,nan,nan,nan,nan,nan,77.6396509486921,12.926921631484648
+1313060699,residential,False,True,40.024,nan,nan,nan,nan,nan,nan,nan,77.63978296729879,12.927210306148154
+655788482,residential,False,False,10.15,nan,nan,nan,nan,nan,nan,nan,77.63957189999999,12.9267567
+1116429730,residential,False,False,37.495,nan,nan,nan,nan,nan,nan,nan,77.63972799999999,12.926694
+"[309618865, 655788482, 655788483]",residential,False,"[False, True]",31.663999999999998,nan,nan,nan,nan,nan,nan,nan,77.63949243130529,12.92659274978409
+28186944,residential,False,False,48.604,nan,7th B Cross Road,nan,nan,nan,nan,nan,77.62470265,12.9314951
+28186944,residential,False,True,134.523,nan,7th B Cross Road,nan,nan,nan,nan,nan,77.62393085,12.9318301
+655810296,residential,False,True,37.657,nan,nan,nan,nan,nan,nan,nan,77.62442999999999,12.931428100000002
+658698704,residential,False,True,71.55699999999999,nan,nan,nan,nan,nan,nan,nan,77.63775085065983,12.928961641221477
+53144637,residential,False,False,25.713,nan,nan,nan,nan,nan,nan,nan,77.61877245,12.9431852
+661909048,residential,False,True,28.003,nan,nan,nan,nan,nan,nan,nan,77.61890055,12.94330145
+53144637,residential,False,True,67.543,nan,nan,nan,nan,nan,nan,nan,77.61911915404532,12.943017221238243
+1251954788,secondary,True,False,35.817,2,Srinivagilu Main Road,nan,nan,nan,nan,nan,77.62195065,12.943184200000001
+55341781,residential,False,True,88.228,nan,nan,nan,nan,nan,nan,nan,77.6217550954685,12.942820792305781
+673948790,residential,False,False,30.365,nan,nan,nan,nan,nan,nan,nan,77.6269945,12.9401163
+332860142,residential,False,False,37.731,nan,1st Main Road,nan,nan,nan,nan,nan,77.62720902468104,12.940044424974309
+673948791,residential,False,True,79.75800000000001,nan,nan,nan,nan,nan,nan,nan,77.62697585582288,12.940439819143306
+673948792,residential,False,True,43.889,nan,nan,nan,nan,nan,nan,nan,77.62636025,12.940186199999998
+673948792,residential,False,False,43.889,nan,nan,nan,nan,nan,nan,nan,77.62636025,12.940186199999998
+673948793,residential,False,True,52.914,nan,1st Main Road,nan,nan,nan,nan,nan,77.62648505,12.94043445
+673948793,residential,False,False,68.76,nan,1st Main Road,nan,nan,nan,nan,nan,77.62597093847421,12.940234217267577
+673948793,residential,False,False,52.914,nan,1st Main Road,nan,nan,nan,nan,nan,77.62648505,12.94043445
+332860144,residential,False,False,51.298,nan,nan,nan,nan,nan,nan,nan,77.6267882768876,12.94029474220876
+673948791,residential,False,False,79.758,nan,nan,nan,nan,nan,nan,nan,77.62697585582289,12.940439819143302
+613849755,residential,False,False,65.452,nan,7th A Main Road,nan,nan,nan,nan,nan,77.6327365,12.92513585
+613849755,residential,False,True,45.833,nan,7th A Main Road,nan,nan,nan,nan,nan,77.63274709999999,12.925636149999999
+688364753,residential,False,True,81.331,nan,nan,nan,nan,nan,nan,nan,77.63311723020213,12.925452246295242
+1132710443,secondary,True,False,55.688,2,Srinivagilu Main Road,nan,nan,nan,nan,nan,77.62602385,12.93863155
+688365565,residential,False,True,69.108,nan,nan,nan,nan,nan,nan,nan,77.62622086850038,12.938951422031687
+332860141,residential,False,True,36.909,nan,nan,nan,nan,nan,nan,nan,77.62686785,12.939309
+688365565,residential,False,False,43.394,nan,nan,nan,nan,nan,nan,nan,77.62671975,12.93909005
+332860141,residential,False,False,49.653,nan,nan,nan,nan,nan,nan,nan,77.62701776897399,12.93895513819286
+400701855,residential,False,True,83.812,nan,nan,nan,nan,nan,nan,nan,77.63971855,12.9294103
+400701855,residential,False,False,202.35899999999998,nan,nan,nan,nan,nan,nan,nan,77.64040885660908,12.928656889274642
+688410571,residential,False,False,194.321,nan,nan,nan,nan,nan,nan,nan,77.63981412267299,12.928480801025541
+688410572,residential,False,True,181.853,nan,nan,nan,nan,nan,nan,nan,77.63898925000001,12.92887215
+688410573,residential,False,False,64.1,nan,nan,nan,nan,nan,nan,nan,77.63833695,12.92828655
+1109904948,residential,False,False,31.912,nan,nan,nan,nan,nan,nan,nan,77.63852965000001,12.928021699999999
+"[688410573, 400701855]",residential,False,True,213.98700000000002,nan,nan,nan,nan,nan,nan,nan,77.63943742362632,12.9277822921134
+400701855,residential,False,False,83.812,nan,nan,nan,nan,nan,nan,nan,77.63971855,12.9294103
+400701855,residential,False,True,63.261,nan,nan,nan,nan,nan,nan,nan,77.63912755,12.9297352
+688410572,residential,False,False,181.853,nan,nan,nan,nan,nan,nan,nan,77.63898925000001,12.92887215
+400701855,residential,False,False,63.261,nan,nan,nan,nan,nan,nan,nan,77.63912755,12.9297352
+400701855,residential,False,True,51.416000000000004,nan,nan,nan,nan,nan,nan,nan,77.63866131656432,12.92997440297326
+688410573,residential,False,True,183.07999999999998,nan,nan,nan,nan,nan,nan,nan,77.63848135305908,12.92914622460846
+688410573,residential,False,True,64.1,nan,nan,nan,nan,nan,nan,nan,77.63833695,12.92828655
+778502539,residential,False,False,23.678,nan,nan,nan,nan,nan,nan,nan,77.63802455,12.928330349999998
+688410573,residential,False,False,183.07999999999998,nan,nan,nan,nan,nan,nan,nan,77.63848135305908,12.92914622460846
+213065233,residential,False,True,7.985,nan,8th Cross Road,nan,nan,nan,nan,nan,77.6218187,12.94182675
+332773260,secondary,True,False,75.23799999999999,nan,80 Feet Road,nan,nan,nan,nan,nan,77.62156752948782,12.941592211419506
+150510724,primary,True,False,145.399,3,Sarjapura Road,nan,nan,nan,nan,nan,77.6276373,12.92476585
+28125814,residential,False,False,87.399,nan,6th B Main Road,nan,nan,nan,nan,nan,77.6238338,12.932822999999997
+28125814,residential,False,True,163.87900000000002,nan,6th B Main Road,nan,nan,nan,nan,nan,77.62428704269273,12.933862285399996
+"[1380195982, 1258131887]",residential,False,False,50.695,nan,nan,nan,nan,nan,nan,nan,77.62421812924136,12.933192180686646
+558765535,residential,False,False,152.472,nan,1st B Main Road,nan,nan,nan,nan,nan,77.63813425000001,12.92548865
+558765535,residential,False,True,100.817,nan,1st B Main Road,nan,nan,nan,nan,nan,77.63832035,12.92661305
+692803255,residential,False,True,32.982,nan,nan,nan,nan,nan,nan,nan,77.63809635000001,12.9261907
+310456203,residential,False,True,97.699,nan,1st A Main Road,nan,nan,nan,nan,nan,77.63801760000001,12.9266497
+692803255,residential,False,False,32.982,nan,nan,nan,nan,nan,nan,nan,77.63809635000001,12.9261907
+692803255,residential,False,True,41.157,nan,nan,nan,nan,nan,nan,nan,77.63776015,12.9262519
+24299079,tertiary,False,False,47.421,nan,1st Main Road,nan,nan,nan,nan,nan,77.63753260000001,12.9260785
+24299079,tertiary,False,True,97.538,nan,1st Main Road,nan,nan,nan,nan,nan,77.63765505,12.9267193
+692803255,residential,False,False,41.157,nan,nan,nan,nan,nan,nan,nan,77.63776015,12.9262519
+695012904,residential,False,True,38.954,nan,nan,nan,nan,nan,nan,nan,77.6258526119196,12.939447273101463
+1132710443,secondary,True,False,57.448,2,Srinivagilu Main Road,nan,nan,nan,nan,nan,77.62581605,12.93909815
+695012904,residential,False,False,38.954,nan,nan,nan,nan,nan,nan,nan,77.6258526119196,12.939447273101463
+695012905,residential,False,True,84.152,nan,nan,nan,nan,nan,nan,nan,77.62642335,12.939395900000001
+688365565,residential,False,True,43.394,nan,nan,nan,nan,nan,nan,nan,77.62671975,12.93909005
+695012905,residential,False,False,84.152,nan,nan,nan,nan,nan,nan,nan,77.62642335,12.939395900000001
+800392196,residential,False,True,31.442,nan,nan,nan,nan,nan,nan,nan,77.6265687,12.938895800000001
+688365565,residential,False,False,69.108,nan,nan,nan,nan,nan,nan,nan,77.62622086850038,12.938951422031687
+695012906,residential,False,True,42.892,nan,nan,nan,nan,nan,nan,nan,77.62587440159393,12.939924237021096
+673948793,residential,False,False,36.231,nan,1st Main Road,nan,nan,nan,nan,nan,77.6256033321737,12.939933477407605
+673948793,residential,False,True,68.76,nan,1st Main Road,nan,nan,nan,nan,nan,77.62597093847421,12.940234217267577
+695012906,residential,False,False,42.892,nan,nan,nan,nan,nan,nan,nan,77.62587440159393,12.939924237021096
+695012151,residential,False,False,20.122,nan,nan,nan,nan,nan,nan,nan,77.618368,12.943993550000002
+695012152,residential,False,True,46.388,nan,nan,nan,nan,nan,nan,nan,77.61818174999999,12.94413045
+"[1098174334, 695012151]",residential,False,"[False, True]",53.242000000000004,nan,nan,nan,nan,nan,nan,nan,77.6184452468957,12.94431471900018
+695012153,residential,False,True,26.854,nan,nan,nan,nan,nan,nan,nan,77.61812455,12.943599500000001
+695012153,residential,False,False,26.854,nan,nan,nan,nan,nan,nan,nan,77.61812455,12.943599500000001
+487960213,residential,False,False,15.163,nan,Lakshmi Devi Temple Road,nan,nan,nan,nan,nan,77.61803066239251,12.943492204900714
+487960213,residential,False,True,17.992,nan,Lakshmi Devi Temple Road,nan,nan,nan,nan,nan,77.61818228867676,12.943476418148157
+695012191,residential,False,True,32.731,nan,nan,nan,nan,nan,nan,nan,77.627826,12.93676065
+695012192,residential,False,True,39.128,nan,nan,nan,nan,nan,nan,nan,77.62824345,12.936759200000001
+559414941,residential,False,False,38.407,nan,nan,nan,nan,nan,nan,nan,77.6284037,12.93694595
+559414941,residential,False,True,44.935,nan,nan,nan,nan,nan,nan,nan,77.62802005,12.93692085
+695012192,residential,False,False,39.128,nan,nan,nan,nan,nan,nan,nan,77.62824345,12.936759200000001
+"[559414941, 1237434599]",residential,False,True,65.905,nan,nan,nan,nan,nan,nan,nan,77.62879528510432,12.936881029414362
+559414942,residential,False,True,90.98599999999999,nan,nan,nan,nan,nan,nan,nan,77.62863852459509,12.936592439019668
+695012193,residential,False,True,36.453,nan,nan,nan,nan,nan,nan,nan,77.6253015,12.9338986
+28125816,residential,False,False,24.516,nan,16th B Main Road,nan,nan,nan,nan,nan,77.62526125,12.93411295
+28125816,residential,False,True,43.409,nan,16th B Main Road,nan,nan,nan,nan,nan,77.6255288,12.933954
+695012193,residential,False,False,36.453,nan,nan,nan,nan,nan,nan,nan,77.6253015,12.9338986
+695012194,residential,False,True,59.904,nan,nan,nan,nan,nan,nan,nan,77.6250574,12.933924699999999
+28125816,residential,False,False,33.847,nan,16th B Main Road,nan,nan,nan,nan,nan,77.6250383,12.93426
+28125816,residential,False,True,24.516,nan,16th B Main Road,nan,nan,nan,nan,nan,77.62526125,12.93411295
+695012194,residential,False,False,59.904,nan,nan,nan,nan,nan,nan,nan,77.6250574,12.933924699999999
+695012195,residential,False,True,73.131,nan,nan,nan,nan,nan,nan,nan,77.62473325,12.934067849999998
+28125816,residential,False,False,37.502,nan,16th B Main Road,nan,nan,nan,nan,nan,77.62476345,12.934436300000003
+28125816,residential,False,True,33.847,nan,16th B Main Road,nan,nan,nan,nan,nan,77.6250383,12.93426
+695012195,residential,False,False,73.131,nan,nan,nan,nan,nan,nan,nan,77.62473325,12.934067849999998
+655807585,residential,False,True,172.15700000000004,nan,nan,nan,nan,nan,nan,nan,77.63551727108296,12.934536794328555
+213065257,residential,False,False,11.42,nan,nan,nan,nan,nan,nan,nan,77.61948375,12.94433175
+213065257,residential,False,True,22.463,nan,nan,nan,nan,nan,nan,nan,77.61933049999999,12.944361849999998
+"[759024328, 759024329]","['residential', 'living_street']",False,True,64.147,nan,nan,nan,nan,nan,nan,nan,77.61945571150966,12.944595557168212
+759024328,residential,False,True,27.32,nan,nan,nan,nan,nan,nan,nan,77.61919795,12.94482245
+759024330,residential,False,False,44.261,nan,nan,nan,nan,nan,nan,nan,77.61927075,12.944576600000003
+"[759024328, 759024329]","['residential', 'living_street']",False,False,64.147,nan,nan,nan,nan,nan,nan,nan,77.61945571150966,12.944595557168212
+213065257,residential,False,False,22.463,nan,nan,nan,nan,nan,nan,nan,77.61933049999999,12.944361849999998
+213065257,residential,False,True,31.362,nan,nan,nan,nan,nan,nan,nan,77.61908704999999,12.94440965
+759024330,residential,False,True,44.261,nan,nan,nan,nan,nan,nan,nan,77.61927075,12.944576600000003
+213065257,residential,False,True,11.42,nan,nan,nan,nan,nan,nan,nan,77.61948375,12.94433175
+759024331,living_street,False,False,32.958,nan,nan,nan,nan,nan,nan,nan,77.62016595,12.9431149
+213065298,residential,False,False,31.258,nan,nan,nan,nan,nan,nan,nan,77.62037624999999,12.94317685
+213065298,residential,False,True,55.025,nan,nan,nan,nan,nan,nan,nan,77.62017935,12.94283965
+759024331,living_street,False,True,32.958,nan,nan,nan,nan,nan,nan,nan,77.62016595,12.9431149
+1251954788,secondary,True,False,79.662,2,Srinivagilu Main Road,nan,nan,nan,nan,nan,77.62039275000001,12.94449775
+759024333,living_street,False,False,76.609,nan,nan,nan,nan,nan,nan,nan,77.62059304767219,12.9439879323983
+213065291,residential,False,False,29.828,nan,nan,nan,nan,nan,nan,nan,77.62064939999999,12.94365285
+213065291,residential,False,True,41.756,nan,nan,nan,nan,nan,nan,nan,77.62080759559633,12.94393539926201
+759024333,living_street,False,True,76.609,nan,nan,nan,nan,nan,nan,nan,77.62059304767219,12.9439879323983
+32316571,residential,False,False,60.655,nan,2nd Cross Road,nan,nan,nan,nan,nan,77.62098969508456,12.941549090627305
+32316571,residential,False,True,130.928,nan,2nd Cross Road,nan,nan,nan,nan,nan,77.62020632839888,12.941947987152737
+"[213065298, 759024334]",residential,False,"[False, True]",102.521,nan,nan,nan,nan,nan,nan,nan,77.62065275330211,12.942002640065862
+759024335,residential,False,False,10.399,nan,nan,nan,nan,nan,nan,nan,77.6198344,12.94160705
+32316489,residential,False,True,23.43,nan,nan,nan,nan,nan,nan,nan,77.61744290000001,12.94254615
+759024341,living_street,False,False,43.66,nan,nan,nan,nan,nan,nan,nan,77.6176358,12.9424297
+32316489,residential,False,False,27.862000000000002,nan,nan,nan,nan,nan,nan,nan,77.61742254073901,12.942316398187879
+133903616,secondary,True,False,88.954,2,80 Feet Road,nan,nan,nan,nan,nan,77.6307202,12.933426350000001
+771309368,secondary_link,False,True,8.729,nan,nan,nan,nan,nan,nan,nan,77.6304068,12.9336852
+133903616,secondary,True,False,20.268,2,80 Feet Road,nan,nan,nan,nan,nan,77.62817575,12.9359871
+1316307759,residential,False,False,7.723,nan,nan,nan,nan,nan,nan,nan,77.62813590783242,12.936075941573105
+778467432,tertiary,True,False,24.156,nan,nan,nan,nan,nan,nan,nan,77.63299442119335,12.929838384801188
+1391305617,tertiary,False,True,178.067,nan,7th Cross Road,nan,nan,nan,nan,nan,77.63213460213746,12.929554623349077
+1110178623,tertiary,True,False,8.627,nan,1st Main Road,nan,nan,nan,nan,nan,77.6331389,12.929870650000002
+1329264860,secondary,True,False,59.297,2,80 Feet Road,nan,nan,nan,nan,nan,77.63307341610533,12.930133346692552
+1110178622,secondary,True,False,7.488,2,80 Feet Road,24.38,nan,nan,nan,nan,77.63317985,12.92983975
+558762896,tertiary,True,False,39.464000000000006,nan,1st Main Road,nan,nan,nan,nan,nan,77.63336043283155,12.929866770219233
+1110178625,secondary,True,False,7.765,2,80 Feet Road,30.2,nan,nan,nan,nan,77.63310035,12.929832999999999
+778467431,tertiary,True,False,21.878,nan,7th Cross Road,nan,nan,nan,nan,nan,77.63300248571531,12.929782865922997
+778475531,residential,False,True,86.847,nan,nan,nan,nan,nan,nan,nan,77.6329242,12.92650315
+233244507,residential,False,False,27.408,nan,nan,nan,nan,nan,nan,nan,77.6327783,12.92688725
+778475531,residential,False,False,86.847,nan,nan,nan,nan,nan,nan,nan,77.6329242,12.92650315
+233244507,residential,False,True,48.899,nan,nan,nan,nan,nan,nan,nan,77.63312987367968,12.926904866660777
+38042287,tertiary,False,True,179.997,nan,7th Cross Road,nan,nan,nan,nan,nan,77.62842245,12.9301798
+1159872650,tertiary,False,False,49.787,2,8th Main Road,nan,6.1,nan,nan,nan,77.629213,12.929787099999999
+1159872650,tertiary,False,True,79.105,2,8th Main Road,nan,6.1,nan,nan,nan,77.6291038,12.930342149999998
+1391305617,tertiary,False,False,122.402,nan,7th Cross Road,nan,nan,nan,nan,nan,77.6297849,12.9298873
+778502539,residential,False,True,23.678,nan,nan,nan,nan,nan,nan,nan,77.63802455,12.928330349999998
+309618865,residential,False,True,18.22,nan,nan,nan,nan,nan,nan,nan,77.6393147,12.92655655
+"[309618865, 655788482, 655788483]",residential,False,"[False, True]",31.664,nan,nan,nan,nan,nan,nan,nan,77.63949243130529,12.926592749784094
+794381850,residential,False,False,78.527,nan,nan,nan,nan,nan,nan,nan,77.6394981484422,12.926297637086346
+309618867,residential,False,False,59.247,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.63830899999999,12.927799799999999
+309618867,residential,False,True,31.987,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.63794419999999,12.92800445
+778508086,residential,False,True,69.999,nan,nan,nan,nan,nan,nan,nan,77.63791760000001,12.927656299999999
+129733583,residential,False,True,5.863,nan,nan,nan,nan,nan,nan,nan,77.6377362,12.92737715
+778508086,residential,False,False,69.999,nan,nan,nan,nan,nan,nan,nan,77.63791760000001,12.927656299999999
+129733583,residential,False,False,42.841,nan,nan,nan,nan,nan,nan,nan,77.63794886667549,12.92733953084648
+778508087,residential,False,True,125.06299999999999,nan,nan,nan,nan,nan,nan,nan,77.63818343469386,12.929521259416115
+658698704,residential,False,False,24.062,nan,nan,nan,nan,nan,nan,nan,77.6372926,12.928787350000002
+658698704,residential,False,True,32.709,nan,nan,nan,nan,nan,nan,nan,77.63717299999999,12.92856025
+778508088,residential,False,True,71.987,nan,nan,nan,nan,nan,nan,nan,77.6375403,12.9285475
+778508088,residential,False,False,71.987,nan,nan,nan,nan,nan,nan,nan,77.6375403,12.9285475
+658698704,residential,False,True,24.062,nan,nan,nan,nan,nan,nan,nan,77.6372926,12.928787350000002
+778508089,residential,False,True,74.057,nan,nan,nan,nan,nan,nan,nan,77.63765040000001,12.92873915
+658698704,residential,False,False,25.348999999999997,nan,nan,nan,nan,nan,nan,nan,77.6373937371309,12.92898648747643
+778508089,residential,False,False,74.057,nan,nan,nan,nan,nan,nan,nan,77.63765040000001,12.92873915
+778508090,residential,False,True,98.561,nan,nan,nan,nan,nan,nan,nan,77.63794675,12.9296747
+779530088,residential,False,False,9.786,nan,nan,nan,nan,nan,nan,nan,77.63740665,12.929106350000001
+658698704,residential,False,False,71.55699999999999,nan,nan,nan,nan,nan,nan,nan,77.63775085065983,12.928961641221477
+658698704,residential,False,True,25.348999999999997,nan,nan,nan,nan,nan,nan,nan,77.6373937371309,12.92898648747643
+1109906102,residential,False,True,85.468,nan,nan,nan,nan,nan,nan,nan,77.63267995,12.92649795
+779530088,residential,False,True,9.786,nan,nan,nan,nan,nan,nan,nan,77.63740665,12.929106350000001
+400701865,residential,False,True,154.572,nan,nan,nan,nan,nan,nan,nan,77.636491,12.9300385
+"[688410573, 400701855]",residential,False,False,213.987,nan,nan,nan,nan,nan,nan,nan,77.63943742362633,12.927782292113404
+400701855,residential,False,True,202.359,nan,nan,nan,nan,nan,nan,nan,77.64040885660911,12.928656889274645
+688410571,residential,False,True,194.321,nan,nan,nan,nan,nan,nan,nan,77.63981412267299,12.928480801025541
+794381850,residential,False,True,78.527,nan,nan,nan,nan,nan,nan,nan,77.63949814844219,12.926297637086344
+213065292,residential,False,False,57.793,nan,4th Cross Road,nan,nan,nan,nan,nan,77.6175387,12.94532435
+213065292,residential,False,True,23.818,nan,4th Cross Road,nan,nan,nan,nan,nan,77.61788135,12.94517225
+800392191,residential,False,True,17.994,nan,nan,nan,nan,nan,nan,nan,77.6178151,12.945288349999998
+800392191,residential,False,False,21.363,nan,nan,nan,nan,nan,nan,nan,77.61774664974274,12.945128397988235
+82121110,residential,False,False,22.935,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.61782645,12.9450014
+82121110,residential,False,True,57.615,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.61748610000001,12.94514605
+800392191,residential,False,True,21.363,nan,nan,nan,nan,nan,nan,nan,77.61774664974276,12.945128397988237
+800392193,residential,False,False,37.105,nan,nan,nan,nan,nan,nan,nan,77.6245776,12.93254705
+800392193,residential,False,True,37.105,nan,nan,nan,nan,nan,nan,nan,77.6245776,12.93254705
+"[558764104, 28125800, 427568005]",residential,False,"[False, True]",80.013,nan,"16th B Road, 4th Block",nan,nan,nan,nan,nan,77.62508016778024,12.932591492981153
+558764104,residential,False,True,62.023,nan,nan,nan,nan,nan,nan,nan,77.62465684821785,12.932273200618218
+32316011,residential,False,True,15.335,nan,nan,nan,nan,nan,nan,nan,77.61860735,12.94594305
+1251954789,secondary,True,False,11.285,2,Srinivagilu Main Road,nan,nan,nan,nan,nan,77.61853455,12.94599
+32316011,residential,False,False,7.626,nan,nan,nan,nan,nan,nan,nan,77.61850431046203,12.945931151847727
+213065277,residential,False,False,19.671,nan,9th Main Road,nan,nan,nan,nan,nan,77.61756944999999,12.945760199999999
+213065277,residential,False,True,46.662,nan,9th Main Road,nan,nan,nan,nan,nan,77.61767175,12.946041300000003
+800392194,residential,False,False,19.984,nan,nan,nan,nan,nan,nan,nan,77.6175149,12.945875000000001
+38767929,residential,False,False,15.879,nan,7th Main Road,nan,nan,nan,nan,nan,77.6172564,12.9458953
+38767929,residential,False,True,71.885,nan,7th Main Road,nan,nan,nan,nan,nan,77.61738065,12.9462709
+800392194,residential,False,True,17.492,nan,nan,nan,nan,nan,nan,nan,77.6173534,12.945935200000001
+800392195,residential,False,False,32.281,nan,nan,nan,nan,nan,nan,nan,77.61838895,12.945155150000001
+32316011,residential,False,False,29.863,nan,nan,nan,nan,nan,nan,nan,77.6181993,12.94505675
+32316011,residential,False,True,13.485,nan,nan,nan,nan,nan,nan,nan,77.61826350000001,12.94524135
+800392195,residential,False,True,32.281,nan,nan,nan,nan,nan,nan,nan,77.61838895,12.945155150000001
+800392196,residential,False,False,31.442,nan,nan,nan,nan,nan,nan,nan,77.6265687,12.938895800000001
+32316011,residential,False,False,23.275,nan,nan,nan,nan,nan,nan,nan,77.6179492,12.944077499999999
+695012152,residential,False,False,46.388,nan,nan,nan,nan,nan,nan,nan,77.61818174999999,12.94413045
+32316011,residential,False,True,85.69500000000001,nan,nan,nan,nan,nan,nan,nan,77.61806386725098,12.944554588060411
+1251954788,secondary,True,False,32.748,2,Srinivagilu Main Road,nan,nan,nan,nan,nan,77.62218155,12.9429735
+55341780,residential,False,True,116.94900000000001,nan,nan,nan,nan,nan,nan,nan,77.6218857594247,12.942529966561226
+27785799,residential,False,False,35.45,nan,1st Cross Road,nan,nan,nan,nan,nan,77.62954655,12.930579550000003
+27785799,residential,False,True,45.299,nan,1st Cross Road,nan,nan,nan,nan,nan,77.62917924999999,12.93064025
+"[996354906, 1390053674]",residential,False,True,57.760999999999996,nan,10th Main Road,nan,nan,nan,nan,nan,77.62940837767974,12.9308644475543
+27946172,residential,False,False,7.098,2,nan,nan,nan,nan,nan,nan,77.6228284,12.94244745
+27946172,residential,False,True,155.132,2,nan,nan,nan,nan,nan,nan,77.62328957278514,12.943021831692821
+1155064213,secondary,True,False,195.79899999999998,2,Srinivagilu Main Road,24.38,nan,nan,nan,nan,77.62350475543066,12.941868573967355
+27946172,residential,False,True,7.098,2,nan,nan,nan,nan,nan,nan,77.6228284,12.94244745
+1124616640,secondary,True,False,10.008,2,Srinivagilu Main Road,nan,nan,nan,nan,nan,77.62277345000001,12.9424514
+1109191940,secondary,True,False,11.893,2,80 Feet Road,nan,nan,nan,nan,nan,77.62690789999999,12.9372389
+27777244,primary,True,False,58.278999999999996,2,Mahayogi Vemana Road,nan,nan,nan,nan,nan,77.6267355407583,12.937029111362643
+1093767708,residential,False,True,35.792,nan,nan,nan,nan,nan,nan,nan,77.62577855,12.9404647
+213065230,residential,False,False,24.35,nan,nan,nan,nan,nan,nan,nan,77.61780345,12.945547350000002
+213065230,residential,False,True,21.754,nan,nan,nan,nan,nan,nan,nan,77.6179942,12.945455599999999
+1097981416,residential,False,True,16.339,nan,nan,nan,nan,nan,nan,nan,77.61787695,12.9454304
+"[1098174334, 695012151]",residential,False,"[False, True]",53.242000000000004,nan,nan,nan,nan,nan,nan,nan,77.6184452468957,12.94431471900018
+53723144,residential,False,True,32.744,nan,2nd Main Road,nan,nan,nan,nan,nan,77.61981485,12.944071749999999
+1098174336,residential,False,False,37.049,nan,nan,nan,nan,nan,nan,nan,77.6200273,12.944128400000002
+"[53723144, 213065232]",residential,False,False,61.708,nan,2nd Main Road,nan,nan,nan,nan,nan,77.61999041896397,12.94446041533585
+1098174336,residential,False,True,37.049,nan,nan,nan,nan,nan,nan,nan,77.6200273,12.944128400000002
+82121110,residential,False,False,57.615,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.61748610000001,12.94514605
+82121110,residential,False,True,20.649,nan,3rd Cross Road,nan,nan,nan,nan,nan,77.61715745000001,12.9452917
+1098174359,residential,False,True,20.554,nan,nan,nan,nan,nan,nan,nan,77.61727115,12.945344949999999
+213065241,residential,False,False,47.348,nan,8th Main Road,nan,nan,nan,nan,nan,77.61750430000001,12.94610665
+213065241,residential,False,True,22.339,nan,8th Main Road,nan,nan,nan,nan,nan,77.61761609999999,12.946400449999999
+1098174367,residential,False,False,19.117,nan,nan,nan,nan,nan,nan,nan,77.61766115,12.946272950000001
+213065293,residential,False,False,19.661,nan,10th Main Road,nan,nan,nan,nan,nan,77.61793905,12.94625425
+213065293,residential,False,True,47.017,nan,10th Main Road,nan,nan,nan,nan,nan,77.61783744999998,12.94597125
+1098174367,residential,False,True,19.614,nan,nan,nan,nan,nan,nan,nan,77.61782575000001,12.94620515
+213065287,residential,False,True,23.242,nan,nan,nan,nan,nan,nan,nan,77.61810464999999,12.946154149999998
+1098174369,residential,False,False,22.375,nan,nan,nan,nan,nan,nan,nan,77.61817105,12.9460197
+213065287,residential,False,False,64.829,nan,nan,nan,nan,nan,nan,nan,77.61796337508399,12.945823308001982
+1155064213,secondary,True,False,7.164,2,Srinivagilu Main Road,24.38,nan,nan,nan,nan,77.62275564999999,12.9425472
+1278123719,secondary,True,False,6.853,nan,80 Feet Road,nan,nan,nan,nan,nan,77.62270874999999,12.942548
+1251954788,secondary,True,False,57.489000000000004,2,Srinivagilu Main Road,nan,nan,nan,nan,nan,77.62249020444793,12.94270122491214
+1251954788,secondary,True,False,7.651,2,Srinivagilu Main Road,nan,nan,nan,nan,nan,77.62271215,12.9425037
+332773260,secondary,True,False,42.556000000000004,nan,80 Feet Road,nan,nan,nan,nan,nan,77.62258603569964,12.942360251606438
+213065277,residential,False,False,46.662,nan,9th Main Road,nan,nan,nan,nan,nan,77.61767175,12.946041300000003
+213065277,residential,False,True,21.037,nan,9th Main Road,nan,nan,nan,nan,nan,77.61777484999999,12.946328650000002
+1098174367,residential,False,False,19.614,nan,nan,nan,nan,nan,nan,nan,77.61782575000001,12.94620515
+1098174367,residential,False,True,19.117,nan,nan,nan,nan,nan,nan,nan,77.61766115,12.946272950000001
+37786354,residential,False,True,17.838,nan,8th Cross Road,nan,nan,nan,nan,nan,77.63472250000001,12.934718599999998
+37786354,residential,False,False,29.591,nan,8th Cross Road,nan,nan,nan,nan,nan,77.63493107747178,12.934783103343282
+37786354,residential,False,False,17.977,nan,8th Cross Road,nan,nan,nan,nan,nan,77.63514185551507,12.934842296717736
+37786354,residential,False,True,29.591,nan,8th Cross Road,nan,nan,nan,nan,nan,77.63493107747178,12.934783103343282
+1109904948,residential,False,True,31.912,nan,nan,nan,nan,nan,nan,nan,77.63852965000001,12.928021699999999
+24299079,tertiary,False,False,97.538,nan,1st Main Road,nan,nan,nan,nan,nan,77.63765505,12.9267193
+1109904949,residential,False,False,38.937,nan,nan,nan,nan,nan,nan,nan,77.6379125,12.9271171
+24299079,tertiary,False,True,26.359,nan,1st Main Road,nan,nan,nan,nan,nan,77.63774254167119,12.927265863207424
+310456203,residential,False,False,97.699,nan,1st A Main Road,nan,nan,nan,nan,nan,77.63801760000001,12.9266497
+310456203,residential,False,True,18.062,nan,1st A Main Road,nan,nan,nan,nan,nan,77.63810194999999,12.927163700000001
+1109904949,residential,False,True,38.937,nan,nan,nan,nan,nan,nan,nan,77.6379125,12.9271171
+233244507,residential,False,False,31.332,nan,nan,nan,nan,nan,nan,nan,77.63250755,12.92687605
+233244507,residential,False,True,27.408,nan,nan,nan,nan,nan,nan,nan,77.6327783,12.92688725
+1109906102,residential,False,False,85.468,nan,nan,nan,nan,nan,nan,nan,77.63267995,12.92649795
+37786364,residential,False,False,64.008,nan,4th A Cross Road,nan,nan,nan,nan,nan,77.62963065,12.93287195
+37786364,residential,False,True,24.048,nan,4th A Cross Road,nan,nan,nan,nan,nan,77.6298337,12.93252965
+1109908402,residential,False,False,34.01,nan,nan,nan,nan,nan,nan,nan,77.62990690000001,12.932725900000001
+37786365,residential,False,False,24.354,nan,4th B Cross Road,nan,nan,nan,nan,nan,77.63009980000001,12.9327407
+37786365,residential,False,True,67.846,nan,4th B Cross Road,nan,nan,nan,nan,nan,77.62979985000001,12.933034000000001
+1109908402,residential,False,True,34.01,nan,nan,nan,nan,nan,nan,nan,77.62990690000001,12.932725900000001
+37786364,residential,False,False,24.048,nan,4th A Cross Road,nan,nan,nan,nan,nan,77.6298337,12.93252965
+37786364,residential,False,True,54.319,nan,4th A Cross Road,nan,nan,nan,nan,nan,77.63000215,12.93221805
+1109908403,residential,False,False,40.358,nan,nan,nan,nan,nan,nan,nan,77.63002660000001,12.93254445
+37786365,residential,False,False,35.635,nan,4th B Cross Road,nan,nan,nan,nan,nan,77.6302884,12.93254355
+37786365,residential,False,True,24.354,nan,4th B Cross Road,nan,nan,nan,nan,nan,77.63009980000001,12.9327407
+1109908403,residential,False,True,40.358,nan,nan,nan,nan,nan,nan,nan,77.63002660000001,12.93254445
+213065296,residential,False,False,20.386,nan,nan,nan,nan,nan,nan,nan,77.61829865,12.946072099999999
+213065296,residential,False,True,42.968,nan,nan,nan,nan,nan,nan,nan,77.61820374999999,12.945802650000001
+1098174369,residential,False,False,24.482,nan,nan,nan,nan,nan,nan,nan,77.6183743,12.9459479
+1098174369,residential,False,True,22.375,nan,nan,nan,nan,nan,nan,nan,77.61817105,12.9460197
+1116429730,residential,False,True,37.495,nan,nan,nan,nan,nan,nan,nan,77.63972799999999,12.926694
+1110178621,tertiary,True,False,8.672,nan,1st Main Road,nan,nan,nan,nan,nan,77.6331413,12.9298021
+1110178620,secondary,True,False,322.09900000000005,2,80 Feet Road,nan,nan,nan,nan,nan,77.633316220181,12.928363771082388
+457214835,tertiary,True,False,68.453,2,Sarjapura Road,nan,nan,nan,nan,nan,77.63196345,12.924731699999999
+"[164352045, 1125892158]",residential,False,"[False, True]",165.057,nan,7th B Main Road,nan,nan,nan,nan,nan,77.63235866167805,12.925457600098156
+332860146,residential,False,False,46.727,nan,nan,nan,nan,nan,nan,nan,77.62704875,12.93982965
+673948790,residential,False,True,18.286,nan,nan,nan,nan,nan,nan,nan,77.62678034999999,12.940050750000001
+1316307759,residential,False,True,7.723,nan,nan,nan,nan,nan,nan,nan,77.62813590783242,12.936075941573105
+1167945497,residential,False,False,30.582,nan,nan,nan,nan,nan,nan,nan,77.6256022,12.9402695
+223863606,residential,False,False,41.576,nan,Sri Rama Temple Road,nan,nan,nan,nan,nan,77.62555872663104,12.940035806700978
+223863606,residential,False,True,28.714,nan,Sri Rama Temple Road,nan,nan,nan,nan,nan,77.62579033957812,12.940257052676039
+1167945497,residential,False,True,30.582,nan,nan,nan,nan,nan,nan,nan,77.6256022,12.9402695
+332860142,residential,False,True,38.589,nan,1st Main Road,nan,nan,nan,nan,nan,77.62749661658881,12.939218041272857
+332860142,residential,False,True,34.581,nan,1st Main Road,nan,nan,nan,nan,nan,77.62736545,12.939453499999999
+332860142,residential,False,False,38.589,nan,1st Main Road,nan,nan,nan,nan,nan,77.62749661658883,12.939218041272857
+1167945498,residential,False,False,32.076,nan,nan,nan,nan,nan,nan,nan,77.62725870325694,12.939269253815251
+1167945498,residential,False,True,32.076,nan,nan,nan,nan,nan,nan,nan,77.62725870325694,12.939269253815251
+1169301037,residential,False,False,9.929,nan,nan,nan,nan,nan,nan,nan,77.61924765,12.945365850000002
+1251954786,secondary,True,False,228.634,2,Srinivagilu Main Road,nan,nan,nan,nan,nan,77.62011978298642,12.944785455703952
+32315624,residential,False,False,37.933,nan,Basavalla Temple Road,nan,nan,nan,nan,nan,77.6195717994978,12.942052405274856
+32315624,residential,False,True,66.144,nan,Basavalla Temple Road,nan,nan,nan,nan,nan,77.61925139747378,12.941710091885737
+759024335,residential,False,True,50.19499999999999,nan,nan,nan,nan,nan,nan,nan,77.61962631993072,12.941756672084264
+759024335,residential,False,True,10.399,nan,nan,nan,nan,nan,nan,nan,77.6198344,12.94160705
+1183373443,residential,False,False,18.046,nan,nan,nan,nan,nan,nan,nan,77.6198241,12.941699899999998
+759024335,residential,False,False,50.195,nan,nan,nan,nan,nan,nan,nan,77.61962631993072,12.941756672084262
+1183373443,residential,False,True,18.046,nan,nan,nan,nan,nan,nan,nan,77.6198241,12.941699899999998
+55341781,residential,False,True,29.19,nan,nan,nan,nan,nan,nan,nan,77.62133145,12.94249185
+55341781,residential,False,False,88.22800000000001,nan,nan,nan,nan,nan,nan,nan,77.6217550954685,12.942820792305781
+213065290,residential,False,False,117.888,nan,nan,nan,nan,nan,nan,nan,77.62147901785542,12.942950720640479
+28125800,residential,False,True,12.344,nan,"16th B Road, 4th Block",nan,nan,nan,nan,nan,77.62534935,12.93279115
+1186158109,living_street,False,False,41.076,nan,nan,nan,nan,nan,nan,nan,77.62514715,12.932727450000002
+"[28125800, 558764104, 427568005]",residential,False,"[False, True]",80.013,nan,"16th B Road, 4th Block",nan,nan,nan,nan,nan,77.62508016778025,12.932591492981153
+1186158109,living_street,False,True,41.076,nan,nan,nan,nan,nan,nan,nan,77.62514715,12.932727450000002
+28125800,residential,False,False,12.344,nan,"16th B Road, 4th Block",nan,nan,nan,nan,nan,77.62534935,12.93279115
+28125800,residential,False,True,14.345,nan,"16th B Road, 4th Block",nan,nan,nan,nan,nan,77.62537785,12.9329079
+1186158110,living_street,False,False,54.515,nan,nan,nan,nan,nan,nan,nan,77.6251124,12.932817499999999
+1186158110,living_street,False,True,54.515,nan,nan,nan,nan,nan,nan,nan,77.6251124,12.932817499999999
+1316307758,residential,False,True,7.319,nan,nan,nan,nan,nan,nan,nan,77.62826663330992,12.935944079967511
+27785799,residential,False,False,28.937,nan,1st Cross Road,nan,nan,nan,nan,nan,77.62827355,12.93080515
+27785799,residential,False,True,29.756,nan,1st Cross Road,nan,nan,nan,nan,nan,77.62800855,12.9308594
+1186157255,residential,False,False,43.051,nan,nan,nan,nan,nan,nan,nan,77.62818469999999,12.931021150000001
+27931530,residential,False,True,51.753,nan,1st A Cross Road,nan,nan,nan,nan,nan,77.62831535000001,12.9309944
+1186157255,residential,False,True,43.051,nan,nan,nan,nan,nan,nan,nan,77.62818469999999,12.931021150000001
+27931530,residential,False,False,59.31099999999999,nan,1st A Cross Road,nan,nan,nan,nan,nan,77.62811009454516,12.931450840171376
+1186158675,living_street,False,False,38.887,nan,nan,nan,nan,nan,nan,nan,77.62444565000001,12.933019250000001
+"[427568004, 1258131887]",residential,False,False,110.07,nan,nan,nan,nan,nan,nan,nan,77.624959447002,12.933213079678858
+"[1380195982, 1258131887]",residential,False,True,50.695,nan,nan,nan,nan,nan,nan,nan,77.62421812924136,12.933192180686646
+1186158675,living_street,False,True,38.887,nan,nan,nan,nan,nan,nan,nan,77.62444565000001,12.933019250000001
+429123147,residential,False,False,14.437,nan,nan,nan,nan,nan,nan,nan,77.6237749,12.943619
+400701861,residential,False,True,84.941,nan,nan,nan,nan,nan,nan,nan,77.63604559999999,12.93072845
+778744507,residential,False,False,6.692,nan,nan,nan,nan,nan,nan,nan,77.63624535,12.93105725
+778744507,residential,False,True,45.733,nan,nan,nan,nan,nan,nan,nan,77.63603175,12.931167850000001
+1198900341,residential,False,True,20.532,nan,8th Cross Road,nan,nan,nan,nan,nan,77.62114865,12.9424635
+213065282,residential,False,True,8.233,nan,nan,nan,nan,nan,nan,nan,77.61854915,12.941624749999999
+213065282,residential,False,False,32.257,nan,nan,nan,nan,nan,nan,nan,77.6187153719231,12.941551604991938
+1205118818,residential,False,False,41.29,nan,nan,nan,nan,nan,nan,nan,77.61870581725773,12.94168948916805
+1205118818,residential,False,True,41.290000000000006,nan,nan,nan,nan,nan,nan,nan,77.61870581725772,12.941689489168049
+1205118819,residential,False,False,17.269,nan,nan,nan,nan,nan,nan,nan,77.61852948251965,12.94171050391133
+28125818,residential,False,False,48.97,nan,7th C Cross Road,nan,nan,nan,nan,nan,77.6238835,12.93235635
+28125818,residential,False,True,58.881,nan,7th C Cross Road,nan,nan,nan,nan,nan,77.62432445,12.93213165
+1228781587,residential,False,False,54.164,nan,nan,nan,nan,nan,nan,nan,77.6241205,12.9324952
+1228781587,residential,False,True,54.164,nan,nan,nan,nan,nan,nan,nan,77.6241205,12.9324952
+350096399,residential,True,False,8.796,nan,1st Cross Road,nan,nan,nan,nan,nan,77.62965275,12.934445750000002
+133903616,secondary,True,False,115.67699999999999,2,80 Feet Road,nan,nan,nan,nan,nan,77.63006475441584,12.934088684150494
+133903616,secondary,True,False,6.084,2,80 Feet Road,nan,nan,nan,nan,nan,77.6296717,12.93447955
+1237434601,residential,True,False,37.32,nan,1st Cross Road,nan,nan,nan,nan,nan,77.62978989590005,12.934600593385593
+1124616640,secondary,True,False,12.045,2,Srinivagilu Main Road,nan,nan,nan,nan,nan,77.62539055,12.9398018
+1132710443,secondary,True,False,59.079,2,Srinivagilu Main Road,nan,nan,nan,nan,nan,77.6255997,12.939577700000001
+1132710444,residential,True,False,10.415,nan,1st Main Road,nan,nan,nan,nan,nan,77.62545025,12.93978605
+673948793,residential,False,True,36.231,nan,1st Main Road,nan,nan,nan,nan,nan,77.62560333217371,12.939933477407607
+1155064213,secondary,True,False,11.884,2,Srinivagilu Main Road,24.38,nan,nan,nan,nan,77.62545295,12.9398621
+223863606,residential,False,True,41.576,nan,Sri Rama Temple Road,nan,nan,nan,nan,nan,77.62555872663104,12.940035806700978
+778202724,residential,True,False,8.633,nan,17th F Main Road,nan,nan,nan,nan,nan,77.62539325,12.939877849999998
+28186805,residential,False,True,39.275,nan,17th F Main Road,nan,nan,nan,nan,nan,77.62524067661165,12.93972198211841
+1124616640,secondary,True,False,157.097,2,Srinivagilu Main Road,nan,nan,nan,nan,nan,77.62489420196873,12.94038625721827
+"[839092207, 1155064214, 1298944071]",primary,True,False,250.935,2,Sarjapura Road,nan,nan,nan,nan,nan,77.63523161139365,12.925130896846698
+1155064214,primary,True,False,10.592,2,Sarjapura Road,nan,nan,nan,nan,nan,77.63404059999999,12.92494285
+1311812959,primary,True,False,13.299,3,Sarjapura Road,nan,nan,nan,25,nan,77.62884895,12.92426035
+1276716144,secondary_link,False,False,13.103,nan,nan,nan,nan,nan,nan,nan,77.61886045,12.9466094
+1276716144,secondary_link,False,True,13.103,nan,nan,nan,nan,nan,nan,nan,77.61886045,12.9466094
+8680571,secondary,True,False,69.163,2,Srinivagilu Main Road,nan,nan,nan,nan,nan,77.61877374166718,12.94630628632784
+32316011,residential,False,False,15.335,nan,nan,nan,nan,nan,nan,nan,77.61860735,12.94594305
+"[1251954786, 1251954790]",secondary,True,False,90.078,2,Srinivagilu Main Road,nan,nan,nan,nan,nan,77.6189530624595,12.945653787832223
+1278123718,residential,False,True,7.187,nan,nan,nan,nan,nan,nan,nan,77.6212643,12.9414028
+332773260,secondary,True,False,151.172,nan,80 Feet Road,nan,nan,nan,nan,nan,77.62075751322843,12.940956402256123
+133903616,secondary,True,False,6.741,2,80 Feet Road,nan,nan,nan,nan,nan,77.62934440000001,12.9348274
+1281362531,secondary_link,False,False,8.763,nan,nan,nan,nan,nan,nan,nan,77.6292937,12.93482205
+370390351,secondary,True,False,86.451,2,80 Feet Road,nan,nan,nan,nan,nan,77.628989,12.935075900000001
+1281362531,secondary_link,False,True,8.763,nan,nan,nan,nan,nan,nan,nan,77.6292937,12.93482205
+1284673007,residential,False,True,48.066,nan,nan,nan,nan,nan,nan,nan,77.6353378,12.92987415
+1284673008,residential,False,False,25.254,nan,nan,nan,nan,nan,nan,nan,77.63510099999999,12.929791900000001
+1284673007,residential,False,False,48.066,nan,nan,nan,nan,nan,nan,nan,77.6353378,12.92987415
+1284673008,residential,False,False,25.986,nan,nan,nan,nan,nan,nan,nan,77.63527404999999,12.929634950000002
+1284673008,residential,False,True,25.254,nan,nan,nan,nan,nan,nan,nan,77.63510099999999,12.929791900000001
+"[558762898, 1284673006, 1284673007]",residential,False,True,68.84700000000001,nan,5th D Main Road,nan,nan,yes,nan,nan,77.63502306896387,12.92945377946294
+1284673008,residential,False,True,25.986,nan,nan,nan,nan,nan,nan,nan,77.63527404999999,12.929634950000002
+1313060699,residential,False,False,40.024,nan,nan,nan,nan,nan,nan,nan,77.63978296729879,12.927210306148154
+1315330643,residential,True,False,4.658,nan,nan,nan,nan,nan,nan,nan,77.6296052,12.9281458
+27931322,residential,False,True,14.929,nan,1st Cross Road,nan,nan,nan,nan,nan,77.62954339999999,12.92818125
+27931322,residential,False,False,99.197,nan,1st Cross Road,nan,nan,nan,nan,nan,77.63005630143267,12.928065256332468
+28186938,residential,False,False,26.558,nan,16th B Main Road,nan,nan,nan,nan,nan,77.6232139,12.9316842
+28186938,residential,False,True,32.052,nan,16th B Main Road,nan,nan,nan,nan,nan,77.62311944999999,12.931437249999998
+1322857017,residential,False,False,14.166,nan,nan,nan,nan,nan,nan,nan,77.6231113,12.931598
+1322857017,residential,False,True,14.166,nan,nan,nan,nan,nan,nan,nan,77.6231113,12.931598
+27785798,residential,False,False,66.883,nan,2nd Cross,nan,nan,nan,nan,nan,77.62958689999999,12.9308296
+27785798,residential,False,True,9.487,nan,2nd Cross,nan,nan,nan,nan,nan,77.62944884999999,12.93114555
+"[1390053674, 996354906]",residential,False,False,57.760999999999996,nan,10th Main Road,nan,nan,nan,nan,nan,77.62940837767974,12.9308644475543

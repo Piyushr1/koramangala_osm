@@ -1,0 +1,17 @@
+{
+  "total_buildings": 4448,
+  "total_area_sqm": 940466.2856421741,
+  "average_area_sqm": 211.43576565696358,
+  "building_categories": {
+    "residential": 4379,
+    "commercial": 48,
+    "unknown": 14,
+    "institutional": 5,
+    "recreational": 1,
+    "religious": 1
+  },
+  "buildings_with_address": "1150",
+  "buildings_with_levels": "59",
+  "buildings_with_height": "1",
+  "average_height_meters": 37.45
+}
